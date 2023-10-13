@@ -174,7 +174,7 @@ https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a96
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
-https://nonton.site:8443/live/ekos/7483/51.m3u8
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/281639
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
