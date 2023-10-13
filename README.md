@@ -180,7 +180,7 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extens
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
 http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1426
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
-http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298571
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298571
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
