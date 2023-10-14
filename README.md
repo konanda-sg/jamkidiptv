@@ -365,7 +365,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="SPORTSTARS 4" tvg-logo="https://i.postimg.cc/KY3Nstm3/Sportstars-4.png",SPORTSTARS 4
+#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-id="SPORTSTARS 4" tvg-logo="https://i.ibb.co/nmdh1gD/Sportstars-4.png",SPORTSTARS 4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -385,14 +385,14 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/55
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="http://magott.net:80/images/4629368f3ebfb96fecf3f35c9263d9c6.png",BeINSport ENGLISH 3 HD
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwqH5dR/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXWwPcS/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/146068
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/HL6y2RCY/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/m9pdr3X/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 http://blue4k.net:8880/milad0406/Andrews2022/318917
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SdCZ1wV/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
 http://blue4k.net:8880/milad0406/Andrews2022/318918
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
