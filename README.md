@@ -1055,6 +1055,8 @@ http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
  
 --------------------------------------------------------KIDS---------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68dMn8P/upin-dan-ipin.jpg" group-title="KIDS",IPIN UPIN
+http://aflaxtv.xyz:8080/14e17190/e84b5c0d6a/298501
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1SxvQDd/DORAEMON.jpg" group-title="KIDS",DORAEMON
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298496
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SQdxFSdB/ANGRYBID.jpg" group-title="KIDS"​,ANGRY BIRD
