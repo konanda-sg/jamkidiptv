@@ -182,11 +182,9 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/297424
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298571
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 2
-http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/298570
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298570
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩", BWF 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 
@@ -396,9 +394,7 @@ http://blue4k.net:8880/milad0406/Andrews2022/318917
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DfXgcrB9/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
 http://blue4k.net:8880/milad0406/Andrews2022/318918
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dV4m04Vy/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506  
-http://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true-pml-hd1.webp" group-title="▶️SPORTS◀️", True Premier 1
