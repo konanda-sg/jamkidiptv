@@ -178,7 +178,7 @@ http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/281639
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
-http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1426
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/297424
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
 http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298571
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 1
@@ -346,13 +346,13 @@ http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45646
 http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45647
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d0WpTLzr/usee.jpg" group-title="▶️SPORTS◀️", Usee Sport 1
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298577
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298577
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjgGfXzD/usee-2.jpg" group-title="▶️SPORTS◀️", Usee Sport 2
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/298578 
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298578
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvNCzk0j/spotv.png" group-title="▶️SPORTS◀️", SPOTV
-http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298570
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298570
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtbTG3r/spotv2.png" group-title="▶️SPORTS◀️", SPOTV 2
-http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298571
+http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298571
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7QG847m/Sportstars.png" group-title="▶️SPORTS◀️", SPORTSTAR
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
