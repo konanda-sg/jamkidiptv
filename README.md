@@ -178,7 +178,7 @@ https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a96
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/281639
+https://sportsleading.online/live/stream_moto.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
 #EXTINF:0 tvg-logo="https://i.ibb.co/gvrMRmG/motogp-com.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
@@ -1048,7 +1048,46 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW50uTW1MR5hTfFcxVESyDEbDt92jYd_nD2Q&usqp=CAU" group-title="KIDS", Cine Infantil Kids
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
- 
+ #EXTINF:-1 tvg-id="ABCKids.au" tvg-logo="https://i.postimg.cc/CLTN9TQD/20230210-090139.png" tvg-chno="322" group-title="KIDS",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://i.postimg.cc/Pf8y6r2T/20230210-090124.png" tvg-chno="323" group-title="KIDS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.us" tvg-logo="https://i.postimg.cc/7L2YDRd5/20230212-134246.png" group-title="KIDS",Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/Wz22G13Z/20230212-134146.png",PBS Kids  
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZooMoo.us" group-title="KIDS" tvg-logo="https://i.postimg.cc/XqQnQ6Gz/20230212-134127.png", Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="pluto-60f9ebb06f0b3d000746fbdb" tvg-id="60f9ebb06f0b3d000746fbdb" tvg-chno="3200" tvg-logo="https://i.postimg.cc/Sxv9JSjH/20230520-200404.png" group-title="KIDS" , Team Spirit
+https://i.mjh.nz/PlutoTV/60f9ebb06f0b3d000746fbdb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faf9368c7ad900082bc9a8" tvg-id="60faf9368c7ad900082bc9a8" tvg-chno="3210" tvg-logo="https://i.postimg.cc/rFgx2CTV/20230520-200344.png" group-title="KIDS" , Find Out Why
+https://i.mjh.nz/PlutoTV/60faf9368c7ad900082bc9a8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faf9ddfcc1f200070a5932" tvg-id="60faf9ddfcc1f200070a5932" tvg-chno="3300" tvg-logo="https://i.postimg.cc/prJ8TKnB/20230520-200309.png" group-title="KIDS", Garfield and Friends
+https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fafef7c2440500071266e0" tvg-id="60fafef7c2440500071266e0" tvg-chno="3245" tvg-logo="https://i.postimg.cc/VsqXDPHb/20230520-200259.png" group-title="KIDS" , Grande-ish
+https://i.mjh.nz/PlutoTV/60fafef7c2440500071266e0-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-chno="3170" tvg-logo="https://i.postimg.cc/brhkpmdJ/20230520-200241.png" group-title="KIDS" , Baby Shark TV
+https://i.mjh.nz/PlutoTV/60faffc3fbbc120007fc4376-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-chno="3215" tvg-logo="https://i.postimg.cc/15ywd7L7/20230520-200230.png" group-title="KIDS" , LEGO Kids TV
+https://i.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb028c2e6a0c00075275a5" tvg-id="60fb028c2e6a0c00075275a5" tvg-chno="3195" tvg-logo="https://i.postimg.cc/nhz7FjVv/20230520-200212.png" group-title="KIDS" , Rainbow Squad
+https://i.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb040d4795a6000762fe8f" tvg-id="60fb040d4795a6000762fe8f" tvg-chno="3205" tvg-logo="https://i.postimg.cc/50wQ78pM/20230520-200053.png" group-title="KIDS" , Kartoon Channel!
+https://i.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-chno="3230" tvg-logo="https://i.postimg.cc/0NKwSTwj/20230520-200013.png" group-title="KIDS" , Transformers TV
+https://i.mjh.nz/PlutoTV/60fb053712f22a0007ff14d2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="KIDS", Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
  
