@@ -1012,6 +1012,8 @@ http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/298500
 http://kuchini.site:8080/atlantis/FTZ7w6KRM2fHZ94s/165081
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="KIDS", Detective Conan
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4f8fRRy/TURTLES.png", group-title="KIDS"​,NINJA TURTLES
+http://sansat.net:25461/movie/02037862739113/2376264842/340049.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNvtykP/Boomerang-Logo.png", group-title="KIDS"​,BOOMERANG
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="KIDS", Avatar
