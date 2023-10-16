@@ -1460,131 +1460,217 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3
 -----------------------------------------------------------ASTRO---------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="🇲🇾MALAYSIA🇲🇾",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1734
+#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1733
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1732
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",NTV 7
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1731
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 8
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1730
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV 9
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1729
+
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 4
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",CELESTIAL
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1718
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",BERNAMA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1717
+#EXTINF:-1 tvg-id="" tvg-name="MY019:Kix HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Kix HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1716
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Star Chinese Channel
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1715
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",XIAO TAI YANG
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1714
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 5
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1713
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TVB CLASSIC
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1712
+#EXTINF:-1 tvg-id="" tvg-name="MY024:HBO" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HBO
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1711
+#EXTINF:-1 tvg-id="" tvg-name="MY027:CGTN" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",CGTN
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1708
+#EXTINF:-1 tvg-id="" tvg-name="MY028:HBO Family" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HBO Family
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1707
+#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",WARNA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1706
+#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",RIA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1705
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",AWANI
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1704
+#EXTINF:-1 tvg-id="" tvg-name="MY032:ARENA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ARENA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1703
+#EXTINF:-1 tvg-id="" tvg-name="MY033:PRIMA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",PRIMA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1702
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",OASIS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1701
+#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Singapore Suria
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1700
+#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Singapore Vasantham
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1699
+#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",WWE
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1698
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",BOO
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1697
+#EXTINF:-1 tvg-id="" tvg-name="MY039:Arena2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Arena2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/1696
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP2 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP3 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Ria
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71020
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP4 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/59217
+#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",MY043:Awesome TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71021
+#EXTINF:-1 tvg-id="" tvg-name="MY044:Rania" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Rania
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71022
+#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TV ALHIJRAH
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71024
+#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",aura
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71025
+#EXTINF:-1 tvg-id="" tvg-name="MY048:Astro Premier 1" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 1
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71026
+#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",KBSW
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71027
+
+#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HBO Hits
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71037
+#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",iQIYI HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71038
+
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",CCM
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71046
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",CCTV4 HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71047
+
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",KBS World HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71052
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ONE HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71053
+#EXTINF:-1 tvg-id="" tvg-name="MY082:Singapore Channel 8" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Singapore Channel 8
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71054
+#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TVN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71055
+#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Hits Movies HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71056
+#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Cinemax HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71058
+#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TVN Movies
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71059
+#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",OKEY TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71060
+#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Moonbug Kids
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71061
+
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",8TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71069
+#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Discovery HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71071
+#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",DISCOVERY ASIA
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71072
+#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Discovery Science
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71073
+#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HISTORY HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71074
+#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ANIMAL PLANET HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71075
+
+#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 6
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71079
+#EXTINF:-1 tvg-id="" tvg-name="MY108:ASTRO Ceria" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Ceria
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71080
+#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Cartoon Network
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71084
+#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",NICKELODEON HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71085
+#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",NICK JR
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71086
+#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",AXN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71087
+#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Phoenix
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71088
+#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HITS HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71089
+#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TLC HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71090
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",FOOD NTWK HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71091
+#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",AFN HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71092
+#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",WARNER TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71094
+#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Crime Investigation
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71095
+#EXTINF:-1 tvg-id="" tvg-name="MY124:HGTV HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",HGTV HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71096
+#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",DMAX HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71097
+#EXTINF:-1 tvg-id="" tvg-name="MY126:COMEDY CENTRAL" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",COMEDY CENTRAL
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71098
+#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",:MTV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71099
+#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",ANIMAX
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71100
+#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",bEIN Sports 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71101
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",beIN SPORTS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71104
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71105
+#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",:EUROSPORT HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71106
+
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",KPLUS HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71111
+
+#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71118
+#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",BBC Earth HD
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71119
+#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",BBC Lifestyle
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71120
+#EXTINF:-1 tvg-id="" tvg-name="MY149:Baby TV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Baby TV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71121
+
+#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",sukan
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71123
+
+#EXTINF:-1 tvg-id="" tvg-name="MY163:AFC" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",AFC
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71134
+#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Paramount Channel
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71135
+#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Global Trekker
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71137
+#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",SCM
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71138
+
+#EXTINF:-1 tvg-id="" tvg-name="MY170:Lifetime" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Lifetime
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71140
+#EXTINF:-1 tvg-id="" tvg-name="MY171:Love Nature" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Love Nature
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71141
+
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 3
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71146
+#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",SPOTV
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71147
+#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",TVS
+http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71148
 
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXgNcgNk/Astro-Ceria.png" group-title="🇲🇾MALAYSIA🇲🇾",CERIA
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157481
- 
 
-#EXTINF:-1 tvg-id="TV2" ch-number="104" tvg-name="TV2" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="TV6" ch-number="108" tvg-name="TV6" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png",TV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
-#EXTINF:-1 tvg-id="" ch-number="1300" tvg-name="Astro Awani HD" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://img.astroawani.com/template/awani.jpg",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-#EXTINF:-1 tvg-id="" ch-number="1301" tvg-name="Berita RTM" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-name="SUKAN RTM" radio="false" group-title="🇲🇾MALAYSIA🇲🇾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png",RTM Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 1
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1722
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 2
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1721
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 3
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1720
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png "group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 4
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1719
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Super Sport 5
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1713
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP4 HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59217
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP3 HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59218
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59220
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO ASSP2 HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/59219
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 6
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71079
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Astro Premier 2
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71105
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Rugby Pass
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71108
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ASTRO Cricket
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71109
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",Astro SuperSport Events 3
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71146
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png"group-title="🇲🇾MALAYSIA🇲🇾",ANIMAX
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71100
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",bEIN Sports 3
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71101
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN SPORTS
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71104
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",EUROSPORT HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71106
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",GOLF CHANNEL HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71107
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",KPLUS HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71111
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71118
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",BBC Earth HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71119
-
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Paramount Channel
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71135
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Global Trekker
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71137
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",SCM
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71138
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",SETi Chinese
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71139
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",SPOTV
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71147
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",TVS
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71148
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Awesome TV
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71149
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Kix HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/1716
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",ONE HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71053
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",TVN HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71055
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Hits Movies HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71056
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Cinemax HD
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71058
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",TVN Movies
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71059
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",OKEY TV
-http://mku0414.oknirvana.club:8880/24us10123n/3wr32xzcs/71060
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", HBO
-http://starshare.live:8080/live/Pirates/Pirates/143100.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",HBO Family
-http://starshare.live:8080/live/Pirates/Pirates/143101.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",HBO Hits
-http://starshare.live:8080/live/Pirates/Pirates/143102.ts 
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports
-http://starshare.live:8080/live/Pirates/Pirates/143059.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 
-http://starshare.live:8080/live/Pirates/Pirates/143060.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",beIN Sports 2 
-http://starshare.live:8080/live/Pirates/Pirates/143061.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3
-http://starshare.live:8080/live/Pirates/Pirates/143062.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 3 
-http://starshare.live:8080/live/Pirates/Pirates/143063.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", beIN Sports 50
-http://starshare.live:8080/live/Pirates/Pirates/143064.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bernama
-http://starshare.live:8080/live/Pirates/Pirates/143065.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Bloomberg TV
-http://starshare.live:8080/live/Pirates/Pirates/143067.ts
-#EXTINF:-1 tvg-id="" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",BOO
-http://starshare.live:8080/live/Pirates/Pirates/143068.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾", Boomerang
-http://starshare.live:8080/live/Pirates/Pirates/143069.ts
-#EXTINF:-1 tvg-id=" ch-number="1400" tvg-logo="https://i.postimg.cc/65z8zjkR/Astro-logo.png" group-title="🇲🇾MALAYSIA🇲🇾",Cartoon Network
-http://starshare.live:8080/live/Pirates/Pirates/143070.ts 
 
 
 
