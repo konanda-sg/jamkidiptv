@@ -333,7 +333,7 @@ http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229592
 http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229593
 #EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 4 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 4 HD
 http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229594
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️" Champions League 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 5 HD
 http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229595
 #EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 6 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 6 HD
 http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229596
