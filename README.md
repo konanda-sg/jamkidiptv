@@ -1564,7 +1564,7 @@ http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71038
 
 #EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",CCM
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71046
-#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",CCTV4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",CCTV4 HD
 http://aak94qq.wanicelife.com:8880/6mmk110042/62322762/71047
 
 #EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="🇲🇾MALAYSIA🇲🇾",KBS World HD
