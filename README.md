@@ -191,9 +191,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩", BWF 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 4
-https://heylink.me/minkhudukstreaming/
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 1
+http://203.205.137.202/mobilelive-play.ysp.cctv.cn/ysp/2021605201_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 2
+http://203.205.137.202/mobilelive-play.ysp.cctv.cn/ysp/2021605301_hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 3
+http://203.205.137.202/mobilelive-play.ysp.cctv.cn/ysp/2021604401_hd.m3u8
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
 
