@@ -191,8 +191,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩", BWF 3
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, BWF 4
+https://heylink.me/minkhudukstreaming/
 
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
