@@ -297,35 +297,46 @@ http://proiptvdigic.com:8080/1IPTVPREMIUM2408/ahSaRZcne8n8/218750
 
 ---------------------------------------------SPORT----------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️",CHAMPION 1
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️",CHAMPION 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 2
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e34a4f7ba8ccfe3f5e14d8413af8d6f8:20f28eaa8592128da2032a0c05fc7b12
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 3
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 5
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=792c9b382615c47fdfb840dfd2387b8b:c86191afc372c5006ebab6e8bdf61e14
 https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 6
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0605846d1f0dc153537b04d5fef6594:af747fe84c6c850c646364ad0b96c6cf
 https://drm-epl-vidio-com-epl-2.akamaized.net/out/v1/213998e62d2c4e5f9cf9e832d4502b83/index.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 7
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59b2f57473739523e5627132d9e04603:5751379870ddad5bba06f1d8cbdd2984
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️SPORTS◀️", CHAMPION 8
+#EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/gSqB5fH/CHAMPION.png" group-title="▶️CHAMPION LEAGUE◀️", CHAMPION 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 1 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 1 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229591
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 2 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 2 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229592
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 3 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 3 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229593
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 4 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 4 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229594
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️" Champions League 5 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229595
+#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 6 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 6 HD
+http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229596
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/P45kctC/sony-1.jpg" group-title="▶️SPORTS◀️",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/mBXzG25/sony-2.jpg" group-title="▶️SPORTS◀️",SONY TEN 2
