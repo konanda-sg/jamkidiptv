@@ -387,7 +387,7 @@ http://magott.net:80/okota380/RvPBwTrjvRPM/55
 http://magott.net:80/okota380/RvPBwTrjvRPM/57
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXWwPcS/Astro-ASSP1.png" group-title="▶️SPORTS◀️",astro Super Sport 1
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/146068
+http://kuchini.site:8080/dooby1312/b244f7ab/146068
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/m9pdr3X/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 http://blue4k.net:8880/milad0406/Andrews2022/318917
