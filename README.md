@@ -3,6 +3,31 @@
  
 #EXTINF:-1 tvg-id="" tvg-name="LIVE EVENTS" tvg-logo="https://i.ibb.co/xF9Tb4s/woko.jpg" group-title="DANGDUT 🖥 IS MY LIFE",WELCOME STB MANIA 
 http://tvkuonline.my.id:25461/riyad/riyad/1
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Biarku Sendiri
+https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Cucak Rowo
+https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Relaku Mengalah
+https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Vita Alfia
+https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE"tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Kau Tercipta
+https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Cinta Tak Memilih
+https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Kangen Dangdut
+https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Jangan Marah
+https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Hanyut Dalam Kecewa
+https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Rindu
+https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Mungkinkah
+https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
+#EXTINF:-1 group-title="DANGDUT 🖥 IS MY LIFE" tvg-logo="https://i.ibb.co/CwcgpWL/dangdut.jpg",Hanya Kamu yang Bisa
+https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8  
+ 
 
 
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
@@ -1831,30 +1856,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/02.m3u
  ----------------------------------------------------------musik-------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="🎸MUSIK🎸", Musik Indonesia
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165108
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Biarku Sendiri
-https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Cucak Rowo
-https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Relaku Mengalah
-https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Vita Alfia
-https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Kau Tercipta
-https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Cinta Tak Memilih
-https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Kangen Dangdut
-https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Jangan Marah
-https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Hanyut Dalam Kecewa
-https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Rindu
-https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Mungkinkah
-https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
-#EXTINF:-1 group-title="🎸MUSIK🎸" tvg-logo="https://tinyurl.com/yk8qucz9",Hanya Kamu yang Bisa
-https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/ef/Music_TV_%282014%29.png" group-title="🎸MUSIK🎸", Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1875,10 +1877,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AiSGzIC.png" group-title="🎸MUSIK🎸", MTV HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/02.m3u8
- 
- 
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="🎸MUSIK🎸", Pop Nagaswara
+ #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="🎸MUSIK🎸", Pop Nagaswara
 [http://jakarta.nagaswarafm.com:8100/stream](https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8)
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMcozyt-aU5CNk5mJ9JosMFISsSUqxkxPZ-w&usqp=CAU" group-title="🎸MUSIK🎸", Nagaswara Dangdut
@@ -1889,6 +1888,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76744351
  
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3VqOU-MabtqrjU9HDw2ZEH43I6WkKRixyRg&usqp=CAU" group-title="🎸MUSIK🎸", Retro Music
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
  -----------------------------------------LIFE STYLE-------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LIFESTYLE", Dens Lifestyle
