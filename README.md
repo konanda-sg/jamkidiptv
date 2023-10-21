@@ -167,7 +167,7 @@ http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 -----------------------------LIVE EVENT---------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298550
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
 http://kuchini.site:8080/bigboss/dF2SUPPUwzmZ8prS/290365
 #EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
