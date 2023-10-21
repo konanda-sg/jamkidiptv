@@ -169,7 +169,7 @@ http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
-http://tvnid.x10.mx/vidio/master-2.m3u8
+http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/15931
 #EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
