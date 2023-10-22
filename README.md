@@ -495,29 +495,10 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7435
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/7438
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="▶️SPORTS◀️",UK: TNT Sports 10
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/283203
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports Action
-https://webudit.webdicdn.lol/lb/premium37/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/eZwExGu.png" ,Sky Sports Arena
-https://webudit.webdicdn.lol/lb/premium36/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/J8zzS2v.png" ,Sky Sports Cricket
-https://webudit.webdicdn.lol/lb/premium65/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/2kPW5qw.png" ,Sky Sports F1
-https://webudit.webdicdn.lol/lb/premium60/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/EcFwNdj.png" ,Sky Sports Football
-https://webudit.webdicdn.lol/lb/premium35/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+
 #EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" ,Sky Sports Golf
-https://webudit.webdicdn.lol/lb/premium70/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️"tvg-logo="https://i.imgur.com/KHiae2e.png" ,Sky Sports Main Event
-https://webudit.webdicdn.lol/lb/premium38/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/PRF0DsV.png" ,Sky Sports Mix
-https://webudit.webdicdn.lol/lb/premium449/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-https://webudit.webdicdn.lol/lb/premium449/mono.m3u8
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/jcFnVbi.png" ,Sky Sports News UK
-https://webudit.webdicdn.lol/lb/premium366/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/wA3DieO.png" ,Sky Sports PREMIER HUB League
-https://webudit.webdicdn.lol/lb/premium130/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
-#EXTINF:-1 group-title="▶️SPORTS◀️" tvg-logo="https://i.imgur.com/vhYstlz.png" ,Sky Sports Racing
-https://webudit.webdicdn.lol/lb/premium554/index.m3u8?|referer=https://bhqwplay.xyz/&User-agent=Mozilla/5.0
+http://kuchini.site:8080/outputofflinechecker/pass/264
+
 
 
 #EXTINF:-1 tvg-name="Name N/A" tvg-id="id N/A" group-title="▶️SPORTS◀️" tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/ORANGE%201.png",ORANGE SPORT 1
