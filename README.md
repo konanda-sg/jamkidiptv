@@ -202,8 +202,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/QdrHMz0/bwf.png" group-title="🚩LIVE EVENT🚩"​, COURT 3
-https://dmd-v-fifajs-native-major-hb.youku.com/67756D6080932713CFC02204E/03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480.m3u8?title=8157492&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=defaultCnaLive20180425&cdnQuality=480p&quality=3&multi_raw_stream=YMQ-Court3HB&ccode=live05030101&expire=21600&psid=C2EF39DAF7B763C36E31F7CCA30E1C07&ups_client_netip=2a09:bac1:3480:18::1f1:1bc&ups_ts=1697620425&ups_userid=0&utid=defaultCnaLive20180425&vid=8157492_8093532&fn=03000700005FC8D27A3229D2F2B8944FBAFF26-37D1-4CEC-99D0-BADBBFEA7560--fifa_jieshuo__YMQ-Court3HB_sjb480&vkey=Bff3fbb37f3934f49bce76f709d0958d7&cug=10&t=ebb74eb8339ae08&rid=200000008BADCE3D4E90C224065004713191F0EC00000000
+
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
 
@@ -362,9 +361,9 @@ http://ghost1.tv:80/162CBDA1CFAF/64ff5ef7debbf/45646
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/48701Nw/usee-2.jpg" group-title="▶️SPORTS◀️", Usee Sport 1
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298577
+http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/298577
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHLJ7Hx/Usee-Sports2.png" group-title="▶️SPORTS◀️", Usee Sport 2
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298578
+http://kuchini.site:8080/4ktezz/YMTYTR6eUVjsx8CQ/298578
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2PN7FL5/SPOTV-logo.png" group-title="▶️SPORTS◀️", SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tq9jh3B/spotv2.png" group-title="▶️SPORTS◀️", SPOTV 2
