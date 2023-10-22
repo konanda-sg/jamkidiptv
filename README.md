@@ -169,7 +169,7 @@ http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/15931
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/299947
 #EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -408,9 +408,9 @@ http://kuchini.site:8080/dooby1312/b244f7ab/146068
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/m9pdr3X/Astro-ASSP2.png" group-title="▶️SPORTS◀️",astro Super Sport 2
 http://blue4k.net:8880/milad0406/Andrews2022/318917
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SdCZ1wV/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHL3hc0/Astro-ASSP3.png" group-title="▶️SPORTS◀️",astro Super Sport 3
 http://blue4k.net:8880/milad0406/Andrews2022/318918
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pK3WLJN/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQycqhZ/Astro-ASSP4.png" group-title="▶️SPORTS◀️",ASTRO SUPER SPORT 4
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918983&extension=ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y06QBxPj/astro-5.png" group-title="▶️SPORTS◀️", ASTRO SUPER SPORT 5
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
