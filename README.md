@@ -56,7 +56,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
-http://103.166.27.2:8112/play/a015/index.m3u8
+http://rr2.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
