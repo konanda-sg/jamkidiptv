@@ -60,7 +60,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1698116299~acl=/hls-p/ingest_205_*
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV 
 https://etslive-2-vidio-com.akamaized.net/exp=1698115307~acl=/hls-b/ingest_204_*/*~hmac=3a22dde21f73c01530696930a57dbefddca9ef8fdd01986b1eaaec10ea42d7c1/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://kuchini.site:8080/mantul/2029fde156/162141
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
