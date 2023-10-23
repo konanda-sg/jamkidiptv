@@ -56,7 +56,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698115307~acl=/hls-b/ingest_204_*/*~hmac=3a22dde21f73c01530696930a57dbefddca9ef8fdd01986b1eaaec10ea42d7c1/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
