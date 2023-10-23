@@ -53,12 +53,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pencari.link/cubmu.php?id=license&key=cubmu&type=drm&username=nurdin
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Indosiar
-http://175.158.62.142:8888/stream/channelid/636008509?ticket=AAE47A108ABA4D10188F433771F8D6B5A263CBBE&profile=pass
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV
-http://tvkuonline.my.id:25461/riyad/riyad/16
+http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
+http://103.166.27.2:8112/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m9Kq27Y/sctv-3d.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV 
+https://m3u-editor.com/serve/e26b0220-4172-11ec-a77d-6f3f9638e1ee/421844329
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
