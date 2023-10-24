@@ -201,7 +201,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩", BWF 3
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+http://203.205.137.202/play.cbalive.weibisai.com/live/3406397440864061_AiSD.m3u8?txSecret=ed2e72d5f192f46ff3fb293ed1f77e54&txTime=6538AEE0&utm_medium
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, COURT 1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, COURT 2
