@@ -168,20 +168,20 @@ http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/259290
 
 -----------------------------LIVE EVENT---------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",PRO LIGA
+#EXTINF:0 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="🚩LIVE EVENT🚩",PRO LIGA
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/moji.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/x1GHHqLz/VNL.jpg" group-title="🚩LIVE EVENT🚩",VOLLY
+#EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="🚩LIVE EVENT🚩",VOLLY
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/299947
-#EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
 https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/yq7gTv3/bri.png" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
