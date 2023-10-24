@@ -58,7 +58,7 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1698116299~acl=/hls-p/ingest_205_*/*~hmac=1c607a5d33eb26a0cad2f54dc5cad22e08a5800741ea822e22fb99c20e638330/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1698115307~acl=/hls-b/ingest_204_*/*~hmac=3a22dde21f73c01530696930a57dbefddca9ef8fdd01986b1eaaec10ea42d7c1/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698130548~acl=/hls-b/ingest_204_*/*~hmac=7fb74d1539f589f3da617fc56eafecaf8bfe6d7d7459dbb3228945a640ce3211/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://kuchini.site:8080/mantul/2029fde156/162141
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
