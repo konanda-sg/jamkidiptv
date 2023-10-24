@@ -80,22 +80,22 @@ http://210.210.155.37/dr9445/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cJrgNLt/tvone.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", TVONE HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wgj9zVS/cnn.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", CNN Indonesia*
 http://streamtv.balatack.my.id:8080/F30140/f3de2280/162137
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kDKyDXD/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgQqxJh/tvri.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",TVRI
 https://nonton.site:8443/live/ekos/7483/36.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vH5w53N/berita.jpg" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 
 
