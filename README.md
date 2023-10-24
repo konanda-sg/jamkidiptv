@@ -71,7 +71,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 https://iptv.skuy.co.id:2083/local_antv/mpegts?token=edH66lu6VfOhZ2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
-https://iptv.skuy.co.id:2083/local_rtv/mpegts?token=edH66lu6VfOhZ2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
 https://iptv.skuy.co.id:2083/local_net_tv/mpegts?token=edH66lu6VfOhZ2
