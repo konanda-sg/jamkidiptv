@@ -68,13 +68,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T8Yyvx7/antv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", ANTV
-http://210.210.155.37/qwr9ew/s/s07/index.m3u8
+https://iptv.skuy.co.id:2083/local_antv/mpegts?token=edH66lu6VfOhZ2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
-http://210.210.155.37/dr9445/h/h10/index.m3u8
+https://iptv.skuy.co.id:2083/local_rtv/mpegts?token=edH66lu6VfOhZ2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
-http://210.210.155.37/uq2663/h/h06/index.m3u8
+https://iptv.skuy.co.id:2083/local_net_tv/mpegts?token=edH66lu6VfOhZ2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
