@@ -330,18 +330,7 @@ https://etslive-2-vidio-com.akamaized.net/drm/dash/9431_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bacf759768884bc001b192284da04cd:40f0c18b068b72ccff74e4e94c6aded6
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9430_stream.mpd
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 1 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 1 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229591
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 2 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 2 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229592
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 3 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 3 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229593
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 4 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 4 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229594
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 5 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 5 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229595
-#EXTINF:-1 tvg-id="" tvg-name="PL: UEFA Champions League 6 HD" tvg-logo="http://myserveriptv.com:2082/images/04e1f7540522a993a158e266c6060395.png" group-title="▶️CHAMPION LEAGUE◀️", Champions League 6 HD
-http://dominoiptv.com:2082/bestregards/9aDj23nCG84L5/229596
+
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/P45kctC/sony-1.jpg" group-title="▶️SPORTS◀️",SONY TEN 1
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="https://i.ibb.co/mBXzG25/sony-2.jpg" group-title="▶️SPORTS◀️",SONY TEN 2
