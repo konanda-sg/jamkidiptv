@@ -54,13 +54,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
-http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1698116299~acl=/hls-p/ingest_205_*/*~hmac=1c607a5d33eb26a0cad2f54dc5cad22e08a5800741ea822e22fb99c20e638330/hls-p/ingest_205_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1698130548~acl=/hls-b/ingest_204_*/*~hmac=7fb74d1539f589f3da617fc56eafecaf8bfe6d7d7459dbb3228945a640ce3211/hls-b/ingest_204_720p/index.m3u8
+https://iptv.skuy.co.id:2083/local_indosiar/mpegts?token=edH66lu6VfOhZ2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
-http://kuchini.site:8080/mantul/2029fde156/162141
+https://iptv.skuy.co.id:2083/local_sctv/mpegts?token=edH66lu6VfOhZ2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GF0s65h/Moji-blue-svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
