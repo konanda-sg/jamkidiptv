@@ -206,6 +206,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/hls/JV_SportsHD1_DIG_MOB-audio_98835_eng=98800-video=3110800.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, COURT 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩", court 3
+http://203.205.137.202/play.cbalive.weibisai.com/live/3406397672989061_AiSD.m3u8
 
 
 --------------------------------------------------------LIVE ONLY--------------------------------------------------------------
