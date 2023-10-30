@@ -432,10 +432,5 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u
 http://203.205.137.202/play.cbalive.weibisai.com/live/3406397440864061_AiSD.m3u8?txSecret=ed2e72d5f192f46ff3fb293ed1f77e54&txTime=6538AEE0&utm_medium
 
 
-     
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="DAZN",Inter Milan TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A         
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd
 
 
