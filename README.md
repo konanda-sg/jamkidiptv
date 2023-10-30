@@ -430,3 +430,38 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩", BWF 3
 http://203.205.137.202/play.cbalive.weibisai.com/live/3406397440864061_AiSD.m3u8?txSecret=ed2e72d5f192f46ff3fb293ed1f77e54&txTime=6538AEE0&utm_medium
 
+XTINF:-1 "LA 1",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=FPwOOySaQ/qlL8aSeed8qw:ccmH3wie2gRvr1kpMehKXA
+https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd      
+	  
+#EXTINF:-1 Eurosport 1 (DE)",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-027/stream.mpd      
+     
+    
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="DAZN", Eurosport 2 (DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A       
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-028/stream.mpd     
+     
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="DAZN",Eurosport 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A       
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-029/stream.mpd
+      
+      
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="DAZN",Eurosport 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A  
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-030/stream.mpd
+      
+     
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mH4t6rm/cbeebies.png" group-title="DAZN",Inter Milan TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=gvjioX2sRMChj2YEeTScWQ:GxRPc+b+/pHNBfhQ4rWJ0A         
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd
+
+
