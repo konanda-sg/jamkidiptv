@@ -40,6 +40,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 http://tvnid.x10.mx/vidio/master-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", SCTV V
+https://etslive-2-vidio-com.akamaized.net/exp=1698639471~acl=/hls-b/ingest_204_*/*~hmac=e7ca40f425b56b5b8054124c5441b714d8549e5ad754e99f4ffd8f29d4a820eb/hls-b/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
