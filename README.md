@@ -37,9 +37,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0b
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", SCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-http://tvnid.x10.mx/vidio/master-1.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1698640670~acl=/hls-p/ingest_204_*/*~hmac=a30567c6358c25c5f3bedff4cfafeb8f2a6279c7ef7b3a4696767bd3842a441f/hls-p/ingest_204_720p/1698626295000.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", INDOSIAR V
 https://etslive-2-vidio-com.akamaized.net/exp=1698640415~acl=/hls-p/ingest_205_*/*~hmac=96ff84e152be64dd6f7ec62fd824bd7bc7a41556a5d0e1417b9ccefd027cb16d/hls-p/ingest_205_720p/index.m3u8
 
