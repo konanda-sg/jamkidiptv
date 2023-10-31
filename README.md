@@ -574,7 +574,70 @@ http://zaltvpremium.online:8080/play/Poa477DEOJjTC34kZfgwU_l5fIDu6Kz2o8a35P62EFy
 #EXTINF:-1 xui-id="2501" tvg-name="Kau & Dia 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJAaieLyOUXKh63ip7yPvDJsNHe.jpg" group-title="FILM INDONESIA",Kau & Dia 2 (2022)
 http://zaltvpremium.online:8080/play/Poa477DEOJjTC34kZfgwU4U6RqmCqAKQWqC0SYztRNeCCaie-iYe0Gk26yptE0sh#.mkv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",ASTRO AWANI
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Astro Cricket
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157565
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro Prima
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157467
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/146068
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157556
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157557
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 4
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157558
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 5
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/287792
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", beIN Sports
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157561
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Boomerang
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/171955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Celestial Classic Movies (CCM)
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Celestial Movies
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174687
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Crime+ Investigation
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157554
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Discovery Science
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Disney XD
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157544
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",FOX SPORTS 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157488
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Harvest TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299917
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Hits
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157545
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",HITS Movies
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157477
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",KIX
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299963
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Family Flix
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296889
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Nick Jr
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157546
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",NTV 7
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174695
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",RTB Sukmaindera
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299546
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",RTM TV 1
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", RTM TV 2
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158355
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TV 3
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TV 9
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/171953
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TVN Movies
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297499
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Warner TV
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157550
 
 
 
