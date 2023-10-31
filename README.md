@@ -447,6 +447,19 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",TNT Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",Eleven 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN Eleven 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
 
 
 
