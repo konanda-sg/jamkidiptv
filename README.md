@@ -418,12 +418,23 @@ https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a96
 http://103.166.27.2:8112/play/a016/index.m3u8
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 1
-https://sportsleading.online/live/stream_moto.m3u8
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 2
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 3
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 5
+http://103.166.27.2:8112/play/a01c/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/D7MbKd8/Moto-Gp.png" group-title="🚩LIVE EVENT🚩",MOTO GP 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 1
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩"​, BWF 2
