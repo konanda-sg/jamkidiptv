@@ -460,7 +460,10 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN Eleven 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="⚽ OLAHRAGA ⚽", DANZ ELEVEN 1
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="🚩DAZN🚩", DANZ ELEVEN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
@@ -561,199 +564,115 @@ http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/171953
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297499
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Warner TV
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157550
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS",Barca TV
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS CLUB",Barca TV
 http://clientsportals.com:80/d4Je5xwD/yadTXB63/48659
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="SPORTS",Galatasaray TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="SPORTS CLUB",Galatasaray TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter Milan TV
+#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter Milan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
-
 #EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
-
 #EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Milan_TV_-_Logo_2016.png/220px-Milan_TV_-_Logo_2016.png",AC Milan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS CLUB",MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="SPORTS CLUB", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 1
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 2
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 3
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 4
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 5
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 6
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 7
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 9
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 10
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 11
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 12
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS",Event Sport 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY",Event Sport 13
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 14
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="CHANNEL | SPORTS", Event Sport 15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hindubabynames.info/wp-content/themes/hbn_download/download/entertainment-and-channels-companies/jiocinema-logo.png" group-title="LIVE ONLY", Event Sport 15
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
-
+++++=======================================================================================================================================================++++++
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/iron-man.29111.jpg",Iron Man 
 http://abf.filmbluray.id/01l2rdj
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/shoot.png",Shoot Em Up 
-http://abf.filmbluray.id/05jusrk
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/harry7.png",Harry Potter And The Deathly Hallows Part 1 
-http://abf.filmbluray.id/080i6nx
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/witch.png",The Last Witch Hunter 
-http://abf.filmbluray.id/0d9ut5p
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/aquaman.png",Aquaman 
-http://abf.filmbluray.id/0es5mcu
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/bright0b7c1d77efbc088d.png",Bright 
-http://abf.filmbluray.id/0hagfsq
-
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kaguyalove.png",Kaguya-sama : Love Is War 
-http://abf.filmbluray.id/0m0uapm
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Jojo-Rabbit.png",Jojo Rabbit 
-http://abf.filmbluray.id/0mn9mmp
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/soccerkill.png",Soccer Killer 
-http://abf.filmbluray.id/0mrr5yz
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mi5.png",Mission : Impossible - Rogue Nation 
-http://abf.filmbluray.id/0nbbfrm
-#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1969.png",On Her Majesty's Secret Service 
-http://abf.filmbluray.id/0qr8bfe
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/switch1.png",The Princess Switch 
-http://abf.filmbluray.id/0rdhvbp
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mi3.png",Mission : Impossible 3 
-http://abf.filmbluray.id/0sq8xya
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/stellar.png",Interstellar 
-http://abf.filmbluray.id/0t6nq2e
-
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/badboy3.png",Bad Boys For Life 
-http://abf.filmbluray.id/0uo4oe5
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lethal3.png",Lethal Weapon 3 
-http://abf.filmbluray.id/0vnxf17
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/cell72.png",Miracle in Cell No.7 
-http://abf.filmbluray.id/0y1rxlc
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/father3.png",The Godfather 3 
-http://abf.filmbluray.id/0zgoaa8
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ali3fe401306adb917a.png",Ali 
-http://abf.filmbluray.id/0zi23h7
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/11.png",Ocean’s Eleven 
-http://abf.filmbluray.id/13g6npq
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/gouls.png",Tokyo Goul S 
-http://abf.filmbluray.id/15t1yp3
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/chappie.png",Chappie
-http://abf.filmbluray.id/1atduh5
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/bill2.png",Kill Bill Volume 2 
 http://abf.filmbluray.id/1dkgnf9
-
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mr2.png",Mr. Vampire Part 2 
-http://abf.filmbluray.id/1jfvnjo
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/warcraft.png",Warcraft : The Beginning )
-http://abf.filmbluray.id/1ku88hr
-
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/last.png",Last Hero in China 
-http://abf.filmbluray.id/1mi9xda
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/sky.png",Skyscraper
-http://abf.filmbluray.id/1ucrihs
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/unleash.png",Unleashed 
-http://abf.filmbluray.id/1uekvms
-
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/gladiator.png",Gladiator 
-http://abf.filmbluray.id/1ygdv3v
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hardkill.png",Hard Kill (
-http://abf.filmbluray.id/1z94d3i
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 02
-http://abf.filmbluray.id/1zu8def
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/tron.png",Tron Legacy 
 http://abf.filmbluray.id/25jpv3a
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo5.png",Rambo : Last Blood 
 http://abf.filmbluray.id/29312ls
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/captain-america-the-winter-soldier.22990.jpg",captain america : the winter soldier 
-http://abf.filmbluray.id/2ac83zn
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/x7.png",The Wolverine  X-Men
-http://abf.filmbluray.id/2aophnl
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ghost.png",Ghostbusters : Answer The Call
-http://abf.filmbluray.id/2hc1flx
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/myspy.png",My Spy 
-http://abf.filmbluray.id/2j36yoe
-#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/hunger3.png",The Hunger Games : Mockingjay Part 1 
-http://abf.filmbluray.id/2j5ok86
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/para2.png",Parasyte Part 2 
-http://abf.filmbluray.id/2k1i35i
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hapghost1.png",Happy Ghost 1 
-http://abf.filmbluray.id/2md4xy2
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/cook.png",Cook Up a Storm 
-http://abf.filmbluray.id/2ok3zwm
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lone.png",Lone Survivor 
-http://abf.filmbluray.id/2osen5l
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/watchmen.png",Watchmen 
-http://abf.filmbluray.id/2uhai4v
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo2.png",Rambo : First Blood - Part II 
+http://abf.filmbluray.id/8mw6c2w
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo3.png",Rambo III 
+http://abf.filmbluray.id/83vl1q9
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/transporter.png",The Transporter 1 
 http://abf.filmbluray.id/2vaa875
-
-
 #EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/bourne3.png",The Bourne Ultimatum 
 http://abf.filmbluray.id/2xz4ie5
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/odyssey1.png",A Chinese Odyssey Part One : Pandora's Box 
-http://abf.filmbluray.id/2zgskva
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/four3.png",The Four 3 
-http://abf.filmbluray.id/30cyckj
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1979.png",Moonraker 
-http://abf.filmbluray.id/313n7ow
-#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/mansteel.png",Man of Steel 
-http://abf.filmbluray.id/31as2d2
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lovebirds.png",The Lovebirds 
-http://abf.filmbluray.id/3256pni
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lambs.png",Hannibal - The Silence of the Lambs 
-http://abf.filmbluray.id/32y5iko
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://photos.my.id/images/etEb.png",EP14 - Tata Rambut Karya Mr. Bean dari London
-http://abf.filmbluray.id/37evvwd
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/artemis.png",Artemis Fowl 
-http://abf.filmbluray.id/37hnc4i
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/death1.png",Happy Death Day
-http://abf.filmbluray.id/3891y4u
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/jumanji.png",Jumanji : The Next Level 
 http://abf.filmbluray.id/39v93kw
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/avengers-age-of-ultron.35616.jpg",avengers : age of ultron 
+http://abf.filmbluray.id/6jtc63v
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lara1.png",Lara Croft Tomb Raider 
+http://abf.filmbluray.id/7vic44x
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
+http://abf.filmbluray.id/9mmhxus
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWIyNzFmYTctYThlNS00MzA4LWIwZWItZTM4MGUzMjkyM2MyXkEyXkFqcGdeQXVyNzc5Mzg3NzQ@._V1_.jpg",Mulan 1 (1998)
+http://130.0.27.131:88/movies/html/Vizatimore/Vizatimore17.01.2019/Mulan.mp4
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BODEzMmIxOGMtY2RhYS00YTFiLThkZmYtMDlmZGJlYzg0NWEzXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg",Mulan 2
+http://130.0.27.131:88/movies/html/Vizatimore/Vizatimore17.01.2019/Mulan-2.mp4
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan (2016)
+http://37.26.86.39:48768/movies/traintobusan.mp4
+#EXTINF:-1 group-title="SUB INDO"tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan (2016)
+http://37.26.86.39:48768/movies/traintobusan2.mp4
+
+
+
+
+
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/tigergate.png",Dragon Tiger Gate 
 http://abf.filmbluray.id/3a90hb1
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/meg.png",The Meg 
@@ -867,14 +786,13 @@ http://abf.filmbluray.id/6d8390o
 http://abf.filmbluray.id/6dd1fwl
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/zilla2.png",Godzilla 
 http://abf.filmbluray.id/6g65cug
-#EXTINF:-1 group-title="SUB INDO tvg-logo="http://pictures.my.id/images/Twilight-2011.png",The Twilight Saga: Breaking Dawn – Part 1 
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Twilight-2011.png",The Twilight Saga: Breaking Dawn – Part 1 
 http://abf.filmbluray.id/6hhcbav
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/inuyashiki.png",Inuyashiki 
 http://abf.filmbluray.id/6iyaq0s
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/maze2.png",The Maze Runner : The Scorch Trials 
 http://abf.filmbluray.id/6j6ewoe
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/avengers-age-of-ultron.35616.jpg",avengers : age of ultron 
-http://abf.filmbluray.id/6jtc63v
+
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/robo1.png",RoboCop 1 
 http://abf.filmbluray.id/6mwv689
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lincoln.png",The Lincoln Lawyer 
@@ -901,8 +819,7 @@ http://abf.filmbluray.id/7rmsohz
 http://abf.filmbluray.id/7sr3zb3
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/robin2.png",Robin Hood 
 http://abf.filmbluray.id/7u0hfmm
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lara1.png",Lara Croft Tomb Raider 
-http://abf.filmbluray.id/7vic44x
+
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/okja.png",Okja 
 http://abf.filmbluray.id/7wy67rt
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/fat.png",Enter The Fat Dragon 
@@ -917,8 +834,7 @@ http://abf.filmbluray.id/81knm7f
 http://abf.filmbluray.id/825z9fs
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/batsuper.png",Batman vs Superman : Dawn of Justice 
 http://abf.filmbluray.id/83gr51v
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo3.png",Rambo III 
-http://abf.filmbluray.id/83vl1q9
+
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/demoncat.png",Legend of The Demon Cat 
 http://abf.filmbluray.id/87wnu04
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/warriors.png",The Warriors Way 
@@ -931,8 +847,7 @@ http://abf.filmbluray.id/89re552
 http://abf.filmbluray.id/8dzvfu7
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1999.png",The World Is Not Enough 
 http://abf.filmbluray.id/8ecu3ls
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo2.png",Rambo : First Blood - Part II 
-http://abf.filmbluray.id/8mw6c2w
+
 
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/note2.png",Death Note 2 : The Last Name 
 http://abf.filmbluray.id/8p85uqe
@@ -970,8 +885,7 @@ http://abf.filmbluray.id/9idkhpw
 http://abf.filmbluray.id/9j1ki05
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mecha1.png",The Mechanic 
 http://abf.filmbluray.id/9m1kago
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
-http://abf.filmbluray.id/9mmhxus
+
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ultras.png",Ultras (2020)
 http://abf.filmbluray.id/9p9ywqs
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mr4.png",Mr. Vampire Saga 
@@ -1324,6 +1238,143 @@ http://abf.filmbluray.id/i8rnr1m
 http://abf.filmbluray.id/iawcbx2
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/re4.png",AfterLife 
 http://abf.filmbluray.id/iawm149
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/shoot.png",Shoot Em Up 
+http://abf.filmbluray.id/05jusrk
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/harry7.png",Harry Potter And The Deathly Hallows Part 1 
+http://abf.filmbluray.id/080i6nx
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/witch.png",The Last Witch Hunter 
+http://abf.filmbluray.id/0d9ut5p
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/aquaman.png",Aquaman 
+http://abf.filmbluray.id/0es5mcu
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/bright0b7c1d77efbc088d.png",Bright 
+http://abf.filmbluray.id/0hagfsq
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kaguyalove.png",Kaguya-sama : Love Is War 
+http://abf.filmbluray.id/0m0uapm
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Jojo-Rabbit.png",Jojo Rabbit 
+http://abf.filmbluray.id/0mn9mmp
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/soccerkill.png",Soccer Killer 
+http://abf.filmbluray.id/0mrr5yz
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mi5.png",Mission : Impossible - Rogue Nation 
+http://abf.filmbluray.id/0nbbfrm
+#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1969.png",On Her Majesty's Secret Service 
+http://abf.filmbluray.id/0qr8bfe
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/switch1.png",The Princess Switch 
+http://abf.filmbluray.id/0rdhvbp
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mi3.png",Mission : Impossible 3 
+http://abf.filmbluray.id/0sq8xya
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/stellar.png",Interstellar 
+http://abf.filmbluray.id/0t6nq2e
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/badboy3.png",Bad Boys For Life 
+http://abf.filmbluray.id/0uo4oe5
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lethal3.png",Lethal Weapon 3 
+http://abf.filmbluray.id/0vnxf17
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/cell72.png",Miracle in Cell No.7 
+http://abf.filmbluray.id/0y1rxlc
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/father3.png",The Godfather 3 
+http://abf.filmbluray.id/0zgoaa8
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ali3fe401306adb917a.png",Ali 
+http://abf.filmbluray.id/0zi23h7
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/11.png",Ocean’s Eleven 
+http://abf.filmbluray.id/13g6npq
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/gouls.png",Tokyo Goul S 
+http://abf.filmbluray.id/15t1yp3
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/chappie.png",Chappie
+http://abf.filmbluray.id/1atduh5
 
+
+
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mr2.png",Mr. Vampire Part 2 
+http://abf.filmbluray.id/1jfvnjo
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/warcraft.png",Warcraft : The Beginning 
+http://abf.filmbluray.id/1ku88hr
+
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/last.png",Last Hero in China 
+http://abf.filmbluray.id/1mi9xda
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/sky.png",Skyscraper
+http://abf.filmbluray.id/1ucrihs
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/unleash.png",Unleashed 
+http://abf.filmbluray.id/1uekvms
+
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/gladiator.png",Gladiator 
+http://abf.filmbluray.id/1ygdv3v
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hardkill.png",Hard Kill 
+http://abf.filmbluray.id/1z94d3i
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 02
+
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/captain-america-the-winter-soldier.22990.jpg",captain america : the winter soldier 
+http://abf.filmbluray.id/2ac83zn
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/x7.png",The Wolverine  X-Men
+http://abf.filmbluray.id/2aophnl
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ghost.png",Ghostbusters : Answer The Call
+http://abf.filmbluray.id/2hc1flx
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/myspy.png",My Spy 
+http://abf.filmbluray.id/2j36yoe
+#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/hunger3.png",The Hunger Games : Mockingjay Part 1 
+http://abf.filmbluray.id/2j5ok86
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/para2.png",Parasyte Part 2 
+http://abf.filmbluray.id/2k1i35i
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hapghost1.png",Happy Ghost 1 
+http://abf.filmbluray.id/2md4xy2
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/cook.png",Cook Up a Storm 
+http://abf.filmbluray.id/2ok3zwm
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lone.png",Lone Survivor 
+http://abf.filmbluray.id/2osen5l
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/watchmen.png",Watchmen 
+http://abf.filmbluray.id/2uhai4vhttp://abf.filmbluray.id/1zu8def
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/odyssey1.png",A Chinese Odyssey Part One : Pandora's Box 
+http://abf.filmbluray.id/2zgskva
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/four3.png",The Four 3 
+http://abf.filmbluray.id/30cyckj
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1979.png",Moonraker 
+http://abf.filmbluray.id/313n7ow
+#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/mansteel.png",Man of Steel 
+http://abf.filmbluray.id/31as2d2
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lovebirds.png",The Lovebirds 
+http://abf.filmbluray.id/3256pni
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lambs.png",Hannibal - The Silence of the Lambs 
+http://abf.filmbluray.id/32y5iko
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://photos.my.id/images/etEb.png",ata Rambut Karya Mr. Bean dari London
+http://abf.filmbluray.id/37evvwd
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/artemis.png",Artemis Fowl 
+http://abf.filmbluray.id/37hnc4i
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/death1.png",Happy Death Day
+http://abf.filmbluray.id/3891y4u
+=============================================================================horor======================================================================================
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 (2018)
+https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQyZjhkMTUtYWMwMi00MTAyLThkOWUtZjIyYTFkNWEyYTNhXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",Suster Keramas (2009)
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjkyN2Q3MzctMDc1OS00Zjc0LTljODUtNzBjMDg0OWMyMzQ1XkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Rumah Kaliurang (2022)
+https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/68/Poster_film_Ratu_Ilmu_Hitam_2019.jpg/220px-Poster_film_Ratu_Ilmu_Hitam_2019.jpg",Ratu Ilmu Hitam (2019)
+https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMwMzE5ZDQtNzgyOC00YTBhLTliNGMtNzQ0ODRjM2I5MDVmXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg",Perempuan Bergaun Merah (2022)
+https://www.googleapis.com/drive/v3/files/1frrGRk2EJaa7u8BvZge2Rt6zdyarv8yU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e1/Pengabdi_Setan_poster.jpg",Pengabdi Setan (2017)
+https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR"tvg-logo="https://m.media-amazon.com/images/M/MV5BMGU1NjM2MGMtY2E1MS00MjQ1LWFjMDItYjQ5N2I5MjQ4ZjNkXkEyXkFqcGdeQXVyOTg3Njg0ODU@._V1_.jpg",Nini Thowok (2018)
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://lsf.go.id/wp-content/uploads/2022/02/Menjelang-Magrib.jpg",Menjelang Magrib (2022)
+https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjUzYTE3NTItZTAzNy00ZDA1LWFiYjUtMGRiMmY3NDYyNTRjXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Makmum (2019)
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://lsf.go.id/wp-content/uploads/2021/06/Kuyang-350x520.jpeg",Kuyang the Movie (2021)
+https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM2ZTU3ZDEtZTk3MC00ZGZmLWE0ZjEtYzVjNThhOTdiZGNkXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg",Kamu Tidak Sendiri (2021)
+https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BODAzODk5YzMtNjU4YS00NTIxLThlY2EtMTRmODkwYjIyYzcwXkEyXkFqcGdeQXVyMjIyNDU1OTg@._V1_.jpg",Kain Kafan Hitam (2019)
+https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzZhZmFmNGEtNmE3Ny00ZThmLWIxYmMtMzM1NGQzOWQzZDY2XkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_.jpg",Jagat Arwah (2022)
+https://www.googleapis.com/drive/v3/files/1rnUsX-cEYrNflSk46_eGxhXJxh0J7ZKS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDY3MTgwMWMtOGY2OC00ZmRhLWFjNjQtMDRmY2VjMDI4ZGY3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Inang (2022)
+https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Ikut_Aku_ke_Neraka.jpg/220px-Ikut_Aku_ke_Neraka.jpg",Ikut Aku ke Neraka (2019)
+https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR"tvg-logo="https://m.media-amazon.com/images/M/MV5BYjkyM2JmZjMtNjA5My00Njc5LTk5MTktNjY1ODllYjA5M2RiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg",Iblis Dalam Kandungan (2022)
+https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzQ0MzI1MTEtMDk0Zi00N2VjLThhNjMtMWNhOGU2ZGVlYTNmXkEyXkFqcGdeQXVyOTg3Njg0ODU@._V1_FMjpg_UX1000_.jpg",Bayi Gaib (2018)
+https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="BIOSKOP HOROR" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati (2018)
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
