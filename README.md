@@ -457,9 +457,7 @@ http://kuchini.site:8080/mantul/2029fde156/299947
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eda23b4a1f3690db6749ce011df05a79:6e3950330986e0ce45cc89472f4198df
-https://production-drm-vidio-com-event-6.akamaized.net/out/v1/3bc6849cacec416a964c93a7009e7599/index.mpd
+http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 http://103.166.27.2:8112/play/a016/index.m3u8
  
@@ -478,6 +476,20 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩", BWF 3
 http://203.205.137.202/play.cbalive.weibisai.com/live/3406397440864061_AiSD.m3u8?txSecret=ed2e72d5f192f46ff3fb293ed1f77e54&txTime=6538AEE0&utm_medium
+==================================================================DAZN========================================================================================
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN 1
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/48355
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN 2
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/2387
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN IT 1
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/79220
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN IT 2
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/39497
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN ES 1
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/64711
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN ES 1
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/64712
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",AC Milan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
