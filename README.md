@@ -17,7 +17,7 @@ https://m.vidio.com/videos/2097963/common_tokenized_playlist.m3u8
 https://m.vidio.com/videos/2098001/common_tokenized_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",hanya km yg bisa
 https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
-#EXTINF:-1,mungkinkah
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",mungkinkah
 https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",rindu
 https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
