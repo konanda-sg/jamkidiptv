@@ -1,5 +1,51 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
+
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Hiburan kita
+https://m.vidio.com/videos/2306607/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Manusia setengah dewa
+https://m.vidio.com/videos/519946/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Merah putih
+https://m.vidio.com/videos/2257817/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",pertemuan
+https://m.vidio.com/videos/2061861/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",,ghibah
+https://m.vidio.com/videos/2061858/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Ani
+https://m.vidio.com/videos/2097963/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",santai
+https://m.vidio.com/videos/2098001/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",hanya km yg bisa
+https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
+#EXTINF:-1,mungkinkah
+https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",rindu
+https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",hanyut dalam kecewa
+https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",jgn marah
+https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",kgn dangdut
+https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",,cnt tak memilih
+https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",kau tercipta
+https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",vita alfia
+https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",relaku mengalah
+https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",cucak rowo
+https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",biarku sendiri
+https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
+
+
+
+
+
+
+                                     
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
