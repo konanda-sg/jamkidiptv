@@ -1,44 +1,6 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Hiburan kita
-https://m.vidio.com/videos/2306607/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Manusia setengah dewa
-https://m.vidio.com/videos/519946/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Merah putih
-https://m.vidio.com/videos/2257817/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",pertemuan
-https://m.vidio.com/videos/2061861/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",,ghibah
-https://m.vidio.com/videos/2061858/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",Ani
-https://m.vidio.com/videos/2097963/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",santai
-https://m.vidio.com/videos/2098001/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",hanya km yg bisa
-https://m.vidio.com/videos/2058978/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",mungkinkah
-https://m.vidio.com/videos/2058977/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",rindu
-https://m.vidio.com/videos/2058975/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",hanyut dalam kecewa
-https://m.vidio.com/videos/7203451/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",jgn marah
-https://m.vidio.com/videos/7209990/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",kgn dangdut
-https://m.vidio.com/videos/7197500/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",,cnt tak memilih
-https://m.vidio.com/videos/1193276/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",kau tercipta
-https://m.vidio.com/videos/7200508/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",vita alfia
-https://m.vidio.com/videos/7175171/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",relaku mengalah
-https://m.vidio.com/videos/7268899/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",cucak rowo
-https://m.vidio.com/videos/2239073/common_tokenized_playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pasteboard.co/2gLCqBatWLKI.jpg" group-title="MUSIC",biarku sendiri
-https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
 
 
 
@@ -47,47 +9,54 @@ https://m.vidio.com/videos/7275439/common_tokenized_playlist.m3u8
 
                                      
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", RCTI
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", GTV
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
+http://103.30.87.238:443/wadmanet/norlec212/516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", MNCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+http://103.30.87.238:443/wadmanet/norlec212/5628
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
+http://103.30.87.238:443/wadmanet/norlec212/858
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png", group-title="TRANSVISION", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
+http://103.30.87.238:443/wadmanet/norlec212/1193
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bgr1VQP/trans.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", TRANS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", SCTV V
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
+http://103.30.87.238:443/wadmanet/norlec212/890
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://103.166.27.2:8112/play/a016/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
+http://103.30.87.238:443/wadmanet/norlec212/907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="TRANSVISION", HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
