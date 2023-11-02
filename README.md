@@ -460,6 +460,42 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-049/stream.mpd
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN Eleven 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png" group-title="⚽ OLAHRAGA ⚽", DANZ ELEVEN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png" group-title="🚩DAZN🚩", DANZ ELEVEN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png" group-title="🚩DAZN🚩", DANZ ELEVEN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png" group-title="🚩DAZN🚩", DANZ ELEVEN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-057/stream.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png" group-title="🚩DAZN🚩", DANZ ELEVEN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png" group-title="🚩DAZN🚩", DANZ ELEVEN 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",ASTRO AWANI
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157478
@@ -841,80 +877,80 @@ http://abf.filmbluray.id/6j6ewoe
 http://abf.filmbluray.id/6jtc63v
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/robo1.png",RoboCop 1 
 http://abf.filmbluray.id/6mwv689
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lincoln.png",The Lincoln Lawyer (2011)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lincoln.png",The Lincoln Lawyer 
 http://abf.filmbluray.id/6rnvvvj
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Contagion-2011.png",Contagion (2011)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Contagion-2011.png",Contagion 
 http://abf.filmbluray.id/6yrihiw
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/trucks.png",Monster Trucks (2016)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/trucks.png",Monster Trucks 
 http://abf.filmbluray.id/713b5e8
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/enola.png",Enola Holmes (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/enola.png",Enola Holmes 
 http://abf.filmbluray.id/76kdbz7
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kensin3.png",Rurouni Kenshin : The Legend Ends (2014)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kensin3.png",Rurouni Kenshin : The Legend Ends 
 http://abf.filmbluray.id/7jc52ye
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/birdbox.png",Bird Box (2018)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/birdbox.png",Bird Box 
 http://abf.filmbluray.id/7jdrrzb
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/equal1.png",The Equalizer 1 (2014) 
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/equal1.png",The Equalizer 1 
 http://abf.filmbluray.id/7mkrfo6
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/power.png",Project Power (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/power.png",Project Power 
 http://abf.filmbluray.id/7o8nobi
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/wuhan.png",The Lockdown : One Month in Wuhan (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/wuhan.png",The Lockdown : One Month in Wuhan 
 http://abf.filmbluray.id/7ouxzg1
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/x1.png",First Class (2011) 
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/x1.png",First Class  
 http://abf.filmbluray.id/7rmsohz
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/drunken1.png",Drunken Master 1 (1978)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/drunken1.png",Drunken Master 1 
 http://abf.filmbluray.id/7sr3zb3
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/robin2.png",Robin Hood (2010)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/robin2.png",Robin Hood 
 http://abf.filmbluray.id/7u0hfmm
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lara1.png",Lara Croft Tomb Raider (2001) 
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/lara1.png",Lara Croft Tomb Raider 
 http://abf.filmbluray.id/7vic44x
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/okja.png",Okja (2017)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/okja.png",Okja 
 http://abf.filmbluray.id/7wy67rt
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/fat.png",Enter The Fat Dragon (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/fat.png",Enter The Fat Dragon 
 http://abf.filmbluray.id/7x9al2o
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pino.png",Pinocchio (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pino.png",Pinocchio 
 http://abf.filmbluray.id/7xbzfqa
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="https://photos.my.id/images/etEb.png",EP06 - Mr. Bean Berkelana Lagi
 http://abf.filmbluray.id/7z6zpxb
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/chic7.png",The Trial of The Chicago 7 (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/chic7.png",The Trial of The Chicago 7 
 http://abf.filmbluray.id/81knm7f
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pride.png",Pride And Prejudice And Zombies (2016)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pride.png",Pride And Prejudice And Zombies 
 http://abf.filmbluray.id/825z9fs
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/batsuper.png",Batman vs Superman : Dawn of Justice (2016)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/batsuper.png",Batman vs Superman : Dawn of Justice 
 http://abf.filmbluray.id/83gr51v
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo3.png",Rambo III (1988)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo3.png",Rambo III 
 http://abf.filmbluray.id/83vl1q9
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/demoncat.png",Legend of The Demon Cat (2017)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/demoncat.png",Legend of The Demon Cat 
 http://abf.filmbluray.id/87wnu04
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/warriors.png",The Warriors Way (2010)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/warriors.png",The Warriors Way 
 http://abf.filmbluray.id/88dgbxj
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hard2.png",Die Hard 2 : Die Harder (1990)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/hard2.png",Die Hard 2 : Die Harder 
 http://abf.filmbluray.id/88v82ww
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/yinyang.png",The Knight of Shadows : Between Yin and Yang (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/yinyang.png",The Knight of Shadows : Between Yin and Yang 
 http://abf.filmbluray.id/89re552
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/camino.png",El Camino : A Breaking Bad Movie (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/camino.png",El Camino : A Breaking Bad Movie 
 http://abf.filmbluray.id/8dzvfu7
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1999.png",The World Is Not Enough (1999)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1999.png",The World Is Not Enough 
 http://abf.filmbluray.id/8ecu3ls
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo2.png",Rambo : First Blood - Part II (1985)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/rambo2.png",Rambo : First Blood - Part II 
 http://abf.filmbluray.id/8mw6c2w
 
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/note2.png",Death Note 2 : The Last Name (2006)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/note2.png",Death Note 2 : The Last Name 
 http://abf.filmbluray.id/8p85uqe
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/charlies1.png",Charlie's Angels (2000)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/charlies1.png",Charlie's Angels 
 http://abf.filmbluray.id/8thf3ls
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/survive.png",Survive The Night (2020)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/survive.png",Survive The Night 
 http://abf.filmbluray.id/8ubre6j
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1981.png",For Your Eyes Only (1981)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1981.png",For Your Eyes Only 
 http://abf.filmbluray.id/8urnlr3
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/fast7.png",Fast & Furious 6 (2013) 
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/fast7.png",Fast & Furious 6
 http://abf.filmbluray.id/8vjt6ba
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2006.png",Casino Royale (2006)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2006.png",Casino Royale 
 http://abf.filmbluray.id/8w1zyuz
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2002.png",Die Another Day (2002)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2002.png",Die Another Day 
 http://abf.filmbluray.id/8yz2m8a
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ass2.png",Kick-Ass 2 (2013)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ass2.png",Kick-Ass 2
 http://abf.filmbluray.id/8z4jo2v
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1983.png",Octopussy (1983)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-1983.png",Octopussy 
 http://abf.filmbluray.id/900kx2m
 
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 11
@@ -922,43 +958,43 @@ http://abf.filmbluray.id/93qij73
 
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/cult.png",The Kung Fu Cult Master (1993)
 http://abf.filmbluray.id/95boviw
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/btlwarrior.png",Battle of The Warriors (2006)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/btlwarrior.png",Battle of The Warriors 
 http://abf.filmbluray.id/96t86g3
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/humming.png",Hummingbird (2013)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/humming.png",Hummingbird 
 http://abf.filmbluray.id/97un5ay
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/snowhite2.png",Snow White and The Huntsman (2012)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/snowhite2.png",Snow White and The Huntsman 
 http://abf.filmbluray.id/994xul5
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Guns-Akimbo.png",Guns Akimbo (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Guns-Akimbo.png",Guns Akimbo 
 http://abf.filmbluray.id/9idkhpw
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ipmanking.png",IP Man and Four Kings (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ipmanking.png",IP Man and Four Kings 
 http://abf.filmbluray.id/9j1ki05
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mecha1.png",The Mechanic (2011)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mecha1.png",The Mechanic 
 http://abf.filmbluray.id/9m1kago
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp (2018)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
 http://abf.filmbluray.id/9mmhxus
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/ultras.png",Ultras (2020)
 http://abf.filmbluray.id/9p9ywqs
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mr4.png",Mr. Vampire Saga (1988)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/mr4.png",Mr. Vampire Saga 
 http://abf.filmbluray.id/9pok5wl
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pixels.png",Pixels (2015)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/pixels.png",Pixels 
 http://abf.filmbluray.id/9pw929z
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png",The Paws of Destiny 06
 http://abf.filmbluray.id/9rpw1ze
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/the-incredible-hulk.186913.jpg",The Incredible Hulk (2008)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/the-incredible-hulk.186913.jpg",The Incredible Hulk 
 http://abf.filmbluray.id/9w4ufeb
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Shrek-1.png",Shrek 1 (2001)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Shrek-1.png",Shrek 1 
 http://abf.filmbluray.id/9x3fcsb
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kong2.png",Kong : Skull Island (2017)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/kong2.png",Kong : Skull Island 
 http://abf.filmbluray.id/9zhrv3h
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/helsing.png",Van Helsing (2004)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/helsing.png",Van Helsing 
 http://abf.filmbluray.id/a0tcldv
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2015.png",Spectre (2015)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/James-Bond-2015.png",Spectre 
 http://abf.filmbluray.id/a28t8d0
-#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/Final-Destination-2.png",Final Destination 2 (2003)
+#EXTINF:-1 group-title=" SUB INDO" tvg-logo="http://pictures.my.id/images/Final-Destination-2.png",Final Destination 2 
 http://abf.filmbluray.id/a5h1btf
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/alone4.png",Home Alone 4 (2002)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/alone4.png",Home Alone 4 
 http://abf.filmbluray.id/a7e88ac
-#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/spider-man-far-from-home.160962.jpg",spider-man : far from home (2019)
+#EXTINF:-1 group-title="SUB INDO" tvg-logo="https://i.jeded.com/i/spider-man-far-from-home.160962.jpg",spider-man : far from home 
 http://abf.filmbluray.id/aec3308
 
 #EXTINF:-1 group-title="SUB INDO" tvg-logo="http://pictures.my.id/images/Shrek-2.png",Shrek 2 (2004)
