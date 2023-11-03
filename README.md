@@ -445,6 +445,20 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg" group-title="🚩LIVE EVENT🚩", BWF 3
 http://203.205.137.202/play.cbalive.weibisai.com/live/3406397440864061_AiSD.m3u8?txSecret=ed2e72d5f192f46ff3fb293ed1f77e54&txTime=6538AEE0&utm_medium
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJpnbVFkseYLAtdVBxmIiVq5ZQ2NmmSAWkQ&usqp=CAU" group-title="🚩LIVE EVENT🚩",F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005e9a6b2aa02f2b14eeae8f06f6cde:8870fd83e6421269e8c8dfd37553bf1c
+https://linear005-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJpnbVFkseYLAtdVBxmIiVq5ZQ2NmmSAWkQ&usqp=CAU" group-title="🚩LIVE EVENT🚩",F1 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJpnbVFkseYLAtdVBxmIiVq5ZQ2NmmSAWkQ&usqp=CAU" group-title="🚩LIVE EVENT🚩",F1 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-016/stream.mpd?p=web 
 ==================================================================DAZN========================================================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="🚩DAZN🚩",DAZN 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/48355
@@ -519,9 +533,93 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+=================================================================================SPORT=====================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 1 News AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1313
 
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 2 AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1312
 
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 3 AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1319
 
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 4 AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1318
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 5 AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1860
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 6 AL
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/3638
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 1
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/23143
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 2
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/23146
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 3
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/40061
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 4
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/295216
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 5
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/295215
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 6
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/295217
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 1 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 2 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 4 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 5 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5161.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 6 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts
+#EXTINF:-1 group-title=" SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 7 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5163.ts
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 8 (1080p)
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN ARG
+https://sitsastr.qvixsolutions.com/stsa_espnhd/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2 ARG
+https://sitsastr.qvixsolutions.com/stsa_espn2hd/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3 ARG
+https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
+  
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports HD" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png" group-title="SPORTS",Astro beIN Sports 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png" group-title="SPORTS",Astro beIN Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png" group-title=" SPORTS",Astro beIN Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="orangesport1.ro" tvg-logo="https://i.imgur.com/6bnikru.png",Orange Sport 1  
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium439/index.m3u8 
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="orangesport2.ro" tvg-logo="https://i.imgur.com/2FkgbCd.png",Orange Sport 2 
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium440/index.m3u8 
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="orangesport3.ro" tvg-logo="https://i.imgur.com/C8tCTh1.png",Orange Sport 3  
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium441/index.m3u8 
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="orangesport4.ro" tvg-logo="https://i.imgur.com/PJxNAre.png",Orange Sport 4  
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+https://webudit.hlsjs.ru/lb/premium442/index.m3u8 
 
 
 
