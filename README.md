@@ -635,9 +635,39 @@ https://webudit.hlsjs.ru/lb/premium441/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium442/index.m3u8 
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="btsport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-id="btsport2.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-id="btsport3.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-id="btsport4.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
 
-
-
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="CHANNEL | SPORTS",Supersport Variety 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium416/index.m3u8
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="CHANNEL | SPORTS",Supersport Variety 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium417/index.m3u8
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.postimg.cc/t49ZMwhb/SS-Variety-3.png" group-title="CHANNEL | SPORTS",Supersport Variety 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium418/index.m3u8
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="CHANNEL | SPORTS",Supersport Variety 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium419/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",ASTRO AWANI
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157478
