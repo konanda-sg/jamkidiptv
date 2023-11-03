@@ -534,21 +534,35 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 =================================================================================SPORT=====================================================================================
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="SPORTS",Astro SuperSport 
+https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORTS",Astro SuperSport 2 
+https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium124/index.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORTS",Astro SuperSport 3 
+https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webudit.hlsjs.ru/lb/premium125/index.m3u8
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORTS",Astro SuperSport 4 
+https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 1 News AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1313
 
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 2 AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1312
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 3 AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1319
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 4 AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1318
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 5 AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1860
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 6 AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/3638
 #EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1" tvg-logo="https://i.postimg.cc/pXLWjK9d/20230806-231725.png" group-title="SPORTS",ART Sport 1
