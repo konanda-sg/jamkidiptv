@@ -537,22 +537,18 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 =================================================================================SPORT=====================================================================================
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="SPORTS",Astro SuperSport 
-https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORTS",Astro SuperSport 2 
-https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORTS",Astro SuperSport 3 
-https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORTS",Astro SuperSport 4 
-https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 1 News AL
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1313
 
@@ -653,19 +649,19 @@ http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 #KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="CHANNEL | SPORTS",Supersport Variety 1 
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SS Variety 1" tvg-logo="https://i.postimg.cc/4dPp8GSr/SS-Variety-1.png" group-title="\SPORTS",Supersport Variety 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium416/index.m3u8
-#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="CHANNEL | SPORTS",Supersport Variety 2 
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SS Variety 2" tvg-logo="https://i.postimg.cc/KzjY2yzX/SS-Variety-2.png" group-title="\SPORTS",Supersport Variety 2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium417/index.m3u8
-#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.postimg.cc/t49ZMwhb/SS-Variety-3.png" group-title="CHANNEL | SPORTS",Supersport Variety 3 
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SS Variety 3" tvg-logo="https://i.postimg.cc/t49ZMwhb/SS-Variety-3.png" group-title="\SPORTS",Supersport Variety 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.hlsjs.ru/lb/premium418/index.m3u8
-#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="CHANNEL | SPORTS",Supersport Variety 4 
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SS Variety 4" tvg-logo="https://i.postimg.cc/ryHKW2Zw/GANAS-ss-var4.png" group-title="SPORTS",Supersport Variety 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium419/index.m3u8
