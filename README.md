@@ -19,6 +19,8 @@ https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra
 https://www.dropbox.com/scl/fi/xujm385w5yjrxuy5cpnij/KEHADIRAN-CINTA-Difarina-Adella-OM-ADELLA.mp4?rlkey=5aqp4jw2tigcbuho9muk0fdod&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",RUNGKAD
 https://www.dropbox.com/scl/fi/h8gvqm6axrzxw2suy7p6o/RUNGKAD-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=en1iikyqh3qo3fzj83czme25b&dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",RUNTAH
+https://www.dropbox.com/scl/fi/5dx5lovpljgjtr1z40shc/RUNTAH-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=z6ov3jz2c8s52pijn74hdre3f&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1 
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
