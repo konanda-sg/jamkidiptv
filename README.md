@@ -12,8 +12,10 @@ https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",REMBULAN MALAM
 https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",RAISO DADI SIJI
-https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1                                   
- #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
+https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",PANTUN JANDA
+https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=sk8n1we435gt21p5om116w3bg&dl=1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1 
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
