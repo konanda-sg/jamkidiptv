@@ -227,10 +227,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGsrdjzT/Trans-Vision.png" group-title="TRANSVISION", HOW TO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hGsrdjzT/Trans-Vision.png" group-title="TRANSVISION", LINGUA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
