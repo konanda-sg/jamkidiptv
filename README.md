@@ -541,7 +541,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 =================================================================================SPORT=====================================================================================
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png"  group-title="SPORTS",Astro SuperSport 
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.ibb.co/f0dJdDC/Astro-ASSP1.png"  group-title="SPORTS",Astro SuperSport 
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573205
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORTS",Astro SuperSport 2 
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573207
@@ -549,8 +549,7 @@ http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573207
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573210
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORTS",Astro SuperSport 4 
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573214
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png" group-title="SPORTS",SuperSport 1 News AL
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/1313
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS",BEIN 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
