@@ -33,7 +33,8 @@ https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2
  #EXTINF:-1 tvg-logo="https://i.ibb.co/5Ldqjz9/music.gif" group-title="🇮🇩 ADELLA 🇮🇩",POP
  http://jakarta.nagaswarafm.com:8200/stream
  #EXTINF:-1 tvg-logo="https://i.ibb.co/5Ldqjz9/music.gif" group-title="🇮🇩 ADELLA 🇮🇩",DANGDUT
- http://jakarta.nagaswarafm.com:8100/stream--------------------------------------------------------------------LOKAL--------------------------------------------------------
+ http://jakarta.nagaswarafm.com:8100/stream
+ --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
