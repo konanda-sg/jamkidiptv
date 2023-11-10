@@ -30,6 +30,25 @@ https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella
 https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1 
+======================================================================WC==================================================================================
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
+http://103.166.27.2:8112/play/a015
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
+http://103.166.27.2:8112/play/a016
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 5
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 4
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 6
+https://d33tkx2907c8gi.cloudfront.net/s/vod/main_103/FIM103945-M00_v05.b37e3778_SDR_20231101-1510/FIM103945-
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
+
+
+
+
+
 
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
 
