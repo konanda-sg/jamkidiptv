@@ -42,7 +42,6 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 4
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 6
-https://d33tkx2907c8gi.cloudfront.net/s/vod/main_103/FIM103945-M00_v05.b37e3778_SDR_20231101-1510/FIM103945-
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 
 
