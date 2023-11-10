@@ -30,10 +30,10 @@ https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella
 https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1 
- #EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",POP
- http://jakarta.nagaswarafm.com:8200/stream
- #EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",DANGDUT
- http://jakarta.nagaswarafm.com:8100/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",POP
+http://jakarta.nagaswarafm.com:8200/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",DANGDUT
+http://jakarta.nagaswarafm.com:8100/stream
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
