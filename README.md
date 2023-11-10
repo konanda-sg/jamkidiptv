@@ -92,8 +92,8 @@ https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJ
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",lIGA BRI 2
-http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/162138
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",INDONESIA VS ECUADOR
+https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI 3
 http://103.166.27.2:8112/play/a016/index.m3u8
  
