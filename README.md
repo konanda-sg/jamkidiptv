@@ -1,7 +1,7 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",SIA SIA MENGHARAP CINTAMU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",SIA SIA MENGHARAP CINTAMU
 https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=u3m77is2noft4ct7t7ex26hmp&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",NEMEN
 https://www.dropbox.com/scl/fi/wofixur7weq872n1lwams/NEMEN-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=gvocvnt103r994mcalpgsd9rm&dl=1
@@ -30,10 +30,7 @@ https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella
 https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrHM7rb/adella.png" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
 https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",POP
-http://jakarta.nagaswarafm.com:8200/stream
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Rwy8KH/Music-Club.jpg" group-title="🇮🇩 ADELLA 🇮🇩",DANGDUT
-http://jakarta.nagaswarafm.com:8100/stream
+
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
