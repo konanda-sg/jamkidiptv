@@ -2,10 +2,10 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
 ======================================================================WC=======================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
-http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
-http://103.166.27.2:8112/play/a016
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1 kaledonia vs england
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2 japan vs polandia
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 5
@@ -16,8 +16,8 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 7
 http://humiptv.live:8080/live/56565656/56565656/151171.ts
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 8
+http://xtv.ooo:8080/493121299/992121394/350972
 
 
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
@@ -113,7 +113,14 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/q7808VLP/download-40.jpg" group-title="👉LIGA EROPA👈"​,🇭🇰NOW_SPORTS_1_
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032479&extension=ts&play_nowHKsport.1
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/pX4t4X1N/download-41.jpg" group-title="👉LIGA EROPA👈"​,🇭🇰NOW_SPORTS_2_
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032478&extension=ts&play_nowHKsport.2
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/QCCRYRQx/download-42.jpg" group-title="👉LIGA EROPA👈"​,🇭🇰NOW_SPORTS_3_
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:CB:82:FB&stream=1032477&extension=ts&play_play_nowHKsport.3
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/558187
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
