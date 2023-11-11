@@ -110,8 +110,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-H
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="🚩LIVE EVENT🚩", WC U 17 1
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:0 tvg-logo="https://i.ibb.co/swHhC1c/APPLE.png" group-title="🚩LIVE EVENT🚩",MLS
-https://astvstreaming.my.id/hls/event/InterMiamivsNewYorkCity/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",WC U17 JAPAN VS POLANDIA
+http://h23.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?69854211/29082 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",WC U17 KALEDONIA VS INGGRIS
+http://h21.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?1515000000/33770
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",WC U17 BRAZIL VS IRAN
+http://h23.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?918454578001/17280
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="🚩LIVE EVENT🚩",WC U17 ARGENTINA VS SENEGAL
+http://h23.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?69854211/29082 
+
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 1
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/558187
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 2
