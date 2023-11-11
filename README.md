@@ -2,8 +2,8 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
 ======================================================================WC=======================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1 
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1 BRAZIL VS IRAN
+https://1123139281.cdn.khmer-hd.com/Z3HD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2 ARGENTINA VS SENEGAL
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", 
