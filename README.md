@@ -1,38 +1,10 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKLSsKt/adella.gif" group-title="🇮🇩 ADELLA 🇮🇩",SIA SIA MENGHARAP CINTAMU
-https://www.dropbox.com/scl/fi/vrwej8ka3drq8v7ve7nt2/SIA-SIA-MENGHARAP-CINTAMU-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=u3m77is2noft4ct7t7ex26hmp&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",NEMEN
-https://www.dropbox.com/scl/fi/wofixur7weq872n1lwams/NEMEN-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=gvocvnt103r994mcalpgsd9rm&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",SATU RASA CINTA
-https://www.dropbox.com/scl/fi/2cse0qmhfo07pxch9rz4b/SATU-RASA-CINTA-Difarina-Indra-Adella-ft-Fendik-Adella-OM-ADELLA.mp4?rlkey=qdn5p6x383pvsu9bssxkth22x&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",NEMU
-https://www.dropbox.com/scl/fi/b6be7lm1qymmr9264c3au/NEMU-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=2pbiflnjiu2toaiizgcymjf2g&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",REMBULAN MALAM
-https://www.dropbox.com/scl/fi/4n4cakr0yacm8laqry9z9/Rembulan-Malam-Difarina-Indra-feat-Fendik-Adella-OM-ADELLA.mp4?rlkey=e6008rikzc5tpgtvgsycqitcd&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",RAISO DADI SIJI
-https://www.dropbox.com/scl/fi/csb6lcvckltky7fqwc3f3/RAISO-DADI-SIJI-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=ghj0gkhj7msgskg5hp3a80wgh&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",PANTUN JANDA
-https://www.dropbox.com/scl/fi/ev0hdtc8031lhehgiqo5v/PANTUN-JANDA-Difarina-Indra-Adella-Ft.-Fendik-Adella-OM-ADELLA.mp4?rlkey=sk8n1we435gt21p5om116w3bg&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",KEHADIRAN CINTA
-https://www.dropbox.com/scl/fi/xujm385w5yjrxuy5cpnij/KEHADIRAN-CINTA-Difarina-Adella-OM-ADELLA.mp4?rlkey=5aqp4jw2tigcbuho9muk0fdod&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",RUNGKAD
-https://www.dropbox.com/scl/fi/h8gvqm6axrzxw2suy7p6o/RUNGKAD-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=en1iikyqh3qo3fzj83czme25b&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",RUNTAH
-https://www.dropbox.com/scl/fi/5dx5lovpljgjtr1z40shc/RUNTAH-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=z6ov3jz2c8s52pijn74hdre3f&dl=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩", KISINAN
-https://www.dropbox.com/scl/fi/jiqiy1ikyl2hu45q3y3aj/KISINAN-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=fhjjyjks3qpf4104ww64nbvv7&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",DUMES
-https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=oakaqhrz96j5as210oxmq5l36&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",ALBUM ADELLA
-https://www.dropbox.com/scl/fi/qu5nrzv2xwyuxteh5cvqg/Adella-Sia-Sia-Mengharap-Cintamu-Satu-Rasa-Cinta-Album-Pop-Melayu.mp4?rlkey=6rispuxqxqc58rrrxqzpsr5go&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",UTAMAKAN SHOLAWAT
-https://www.dropbox.com/scl/fi/q7htklcr1ffgct3z4owqh/FULL-ALBUM-SHOLAWAT-KOPLO-2023-FULL-JAPP-THOHIROL-QOLBI.mp4?rlkey=jati9puwkt0a2qbnzmnr5o3zp&dl=1
 ======================================================================WC==================================================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
-http://103.166.27.2:8112/play/a015
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
 http://103.166.27.2:8112/play/a016
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
@@ -102,7 +74,7 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title="🚩LIVE EVENT🚩",PRO LIGA
 https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="🚩LIVE EVENT🚩",VOLLY
-http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/558758
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/298550
 #EXTINF:0 tvg-logo="https://i.ibb.co/h9VK7Df/vnl-logo.png" group-title="🚩LIVE EVENT🚩",VOLY KOREA
 https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTk2MTE1MzUsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiZWI5MGVhMy1mNGE4LTRhNmQtOTIwZC0yNWJmMDk4MzUxODgiLCJpYXQiOjE2OTk2MDQzMzV9.buYHtlZ6Vup-WXzzCR2Vnc27VXES4fqfKRcQLD2HGO0
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIVE EVENT🚩",LIGA BRI  1
@@ -271,16 +243,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1=================================================================================SPORT=====================================================================================
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+========================SPORT=====================================================================================
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro SuperSport
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/146068
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro SuperSport 2
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157556
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro SuperSport 3
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157557
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro SuperSport 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/157558
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORTS", Astro SuperSport 5
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/287792
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.ibb.co/f0dJdDC/Astro-ASSP1.png"  group-title="SPORTS",Astro SuperSport 
-http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573205
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="SPORTS",Astro SuperSport 2 
-http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573207
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="SPORTS",Astro SuperSport 3 
-http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573210
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/TBZ5Op7.png" group-title="SPORTS",Astro SuperSport 4 
-http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573214
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="SPORTS",BEIN 1 AIS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -334,26 +309,16 @@ http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5162.ts
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5163.ts
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 8 (1080p)
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5164.ts
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS" , True Vision NBA
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/281638
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS" , True Premier Football 1
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/162591
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS" , True Sport 4
+http://013tv.com:8080/ksportgazi/So6G66YmQs1Vn8n5/285569
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/images/instan-buy/eb03.jpg" group-title="SPORTS" , True vision Premer Lague (English)
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/298491
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN ARG
-https://sitsastr.qvixsolutions.com/stsa_espnhd/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2 ARG
-https://sitsastr.qvixsolutions.com/stsa_espn2hd/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3 ARG
-https://sitsastr.qvixsolutions.com/stsa_espn3hd/index.m3u8
   
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN Sports HD" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png" group-title="SPORTS",Astro beIN Sports 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-https://1.yurend.xyz/dash-wv/linear/408/default_primary.mpd
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png" group-title="SPORTS",Astro beIN Sports 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-https://1.yurend.xyz/dash-wv/linear/5066/default_primary.mpd
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png" group-title=" SPORTS",Astro beIN Sports 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-https://1.yurend.xyz/dash-wv/linear/2705/default_primary.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="orangesport1.ro" tvg-logo="https://i.imgur.com/6bnikru.png",Orange Sport 1  
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
@@ -374,7 +339,18 @@ https://webudit.hlsjs.ru/lb/premium441/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.hlsjs.ru/lb/premium442/index.m3u8 
-
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 1
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1499
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 2
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1503
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 3
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1506
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 4
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1509
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 5
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1512
+#EXTINF:-1 tvg-logo="https://thevpn.guru/wp-content/uploads/2017/06/How-to-Watch-Eleven-Sports-outside-Taiwan.jpg" group-title="SPORTS", ELEVEN SPORTS 6
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/1515
 #EXTINF:-1 group-title="SPORTS" tvg-id="btsport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdn8YZoXAWF9PC9AAMsYbHcn1m7v-MRZuuZg&usqp=CAU",BT Sports TNT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
