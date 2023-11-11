@@ -43,8 +43,8 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 6
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
-
-
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 7
+http://humiptv.live:8080/live/56565656/56565656/151171.ts
 
 
 
@@ -64,7 +64,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+http://humiptv.live:8080/live/56565656/56565656/151268.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
