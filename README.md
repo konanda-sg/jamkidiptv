@@ -147,7 +147,7 @@ http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/558187
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/558186
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkDNxDt971_zSE1Aenj7KA7RMPXA_dI3_7g&usqp=CAU" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 3
 http://evolved.host:8080/kmcneill65@comcast.net/vDmyPDxBya/573210
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title=""👉LIGA EROPA👈"​,OPTUS SPORT 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="1.OPTUS" tvg-name="OPTUS SPORT 1 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="👉LIGA EROPA👈"​,OPTUS SPORT 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389186.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="2.OPTUS" tvg-name="OPTUS SPORT 2 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="👉LIGA EROPA👈"​,OPTUS SPORT 2 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389187.m3u8
