@@ -2,7 +2,7 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
 
-======================================================================WC==================================================================================
+======================================================================WC=======================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1
 http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/162141
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2
