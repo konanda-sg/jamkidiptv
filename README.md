@@ -391,7 +391,38 @@ https://webudit.hlsjs.ru/lb/premium418/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
 https://webudit.hlsjs.ru/lb/premium419/index.m3u8
-======================================================================================KOREA=============================================================================
+========================================================================================================================
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS CLUB",Barca TV
+http://clientsportals.com:80/d4Je5xwD/yadTXB63/48659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="SPORTS CLUB",Galatasaray TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter Milan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
+#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
+#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Milan_TV_-_Logo_2016.png/220px-Milan_TV_-_Logo_2016.png",AC Milan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS CLUB",MU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="SPORTS CLUB", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+
+
+
+
+
+======================================================================================KOREA====================================
 #EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="KOREA" , 연합뉴스TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 
@@ -669,308 +700,314 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA", 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
+=============================================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS CLUB",Barca TV
-http://clientsportals.com:80/d4Je5xwD/yadTXB63/48659
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="SPORTS CLUB",Galatasaray TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter Milan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-033/stream.mpd
-#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png",LFC TV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-034/stream.mpd
-#EXTINF:-1 group-title="SPORTS CLUB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Milan_TV_-_Logo_2016.png/220px-Milan_TV_-_Logo_2016.png",AC Milan TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-025/stream.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6mgwy.png" group-title="SPORTS CLUB",MU TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU" group-title="SPORTS CLUB", Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="Malaysia",MY129:bEIN Sports 3
+
+============================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="Malaysia",bEIN Sports 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Malaysia",MY132:beIN SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Malaysia",beIN SPORTS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="Malaysia",MY133:Astro Premier 2
+#EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="" group-title="Malaysia",Astro Premier 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="Malaysia",MY134:EUROSPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="MY134:EUROSPORT HD" tvg-logo="" group-title="Malaysia",EUROSPORT HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="Malaysia",MY146:beIN Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="Malaysia",beIN Sports 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",MY013:Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",Super Sport 1
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1722.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",MY014:Super Sport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1721.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",MY015:Super Sport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1720.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",MY016:Super Sport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Malaysia",MY022:Super Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Malaysia",Super Sport 5
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",MY040:ASTRO ASSP HD
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",ASTRO ASSP HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",MY041:ASTRO ASSP2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="" group-title="Malaysia",ASTRO ASSP2 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",MY043:ASTRO ASSP4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="" group-title="Malaysia",ASTRO ASSP4 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY039:Arena2" tvg-logo="" group-title="Malaysia",MY039:Arena2
+#EXTINF:-1 tvg-id="" tvg-name="MY039:Arena2" tvg-logo="" group-title="Malaysia",Arena2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="Malaysia",MY107:Astro SuperSport Events 6
+#EXTINF:-1 tvg-id="" tvg-name="MY107:Astro SuperSport Events 6" tvg-logo="" group-title="Malaysia",Astro SuperSport Events 6
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="Malaysia",MY178:SPOTV
+#EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="Malaysia",SPOTV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Malaysia",MY177:Astro SuperSport Events 3
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Malaysia",Astro SuperSport Events 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71146.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 1 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO",MY| ASTRO GO Live Event 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 1 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379997.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 2 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO",MY| ASTRO GO Live Event 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 2 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 2 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514707.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 3 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO",MY| ASTRO GO Live Event 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 3 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 3 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514708.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 4 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO",MY| ASTRO GO Live Event 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 4 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 4 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514709.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="Malaysia",MY001:TV 1
+#EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="Malaysia",TV 1
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="Malaysia",MY002:TV 2
+#EXTINF:-1 tvg-id="" tvg-name="MY002:TV 2" tvg-logo="" group-title="Malaysia",TV 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="Malaysia",MY003:TV 3
+#EXTINF:-1 tvg-id="" tvg-name="MY003:TV 3" tvg-logo="" group-title="Malaysia",TV 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="Malaysia",MY004:NTV 7
+#EXTINF:-1 tvg-id="" tvg-name="MY004:NTV 7" tvg-logo="" group-title="Malaysia",NTV 7
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="Malaysia",MY005:TV 8
+#EXTINF:-1 tvg-id="" tvg-name="MY005:TV 8" tvg-logo="" group-title="Malaysia",TV 8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="Malaysia",MY006:TV 9
+#EXTINF:-1 tvg-id="" tvg-name="MY006:TV 9" tvg-logo="" group-title="Malaysia",TV 9
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="Malaysia",MY007:QUAN JIA
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="" group-title="Malaysia",QUAN JIA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1728.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="Malaysia",MY009:Wah Lai Toi
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="" group-title="Malaysia",Wah Lai Toi
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="Malaysia",MY010:HUA HEE DAI
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="" group-title="Malaysia",HUA HEE DAI
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="Malaysia",MY011:AOD
+#EXTINF:-1 tvg-id="" tvg-name="MY011:AOD" tvg-logo="" group-title="Malaysia",AOD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1724.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="Malaysia",MY017:CELESTIAL
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="" group-title="Malaysia",CELESTIAL
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="Malaysia",MY018:BERNAMA
+#EXTINF:-1 tvg-id="" tvg-name="MY018:BERNAMA" tvg-logo="" group-title="Malaysia",BERNAMA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1717.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="Malaysia",MY020:Star Chinese Channel
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="" group-title="Malaysia",Star Chinese Channel
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1715.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="Malaysia",MY023:TVB CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="" group-title="Malaysia",TVB CLASSIC
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY024:HBO" tvg-logo="" group-title="Malaysia",MY024:HBO
+#EXTINF:-1 tvg-id="" tvg-name="MY024:HBO" tvg-logo="" group-title="Malaysia",HBO
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY027:CGTN" tvg-logo="" group-title="Malaysia",MY027:CGTN
+#EXTINF:-1 tvg-id="" tvg-name="MY027:CGTN" tvg-logo="" group-title="Malaysia",CGTN
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1708.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="Malaysia",MY031:AWANI
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="" group-title="Malaysia",AWANI
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY032:ARENA" tvg-logo="" group-title="Malaysia",MY032:ARENA
+#EXTINF:-1 tvg-id="" tvg-name="MY032:ARENA" tvg-logo="" group-title="Malaysia",ARENA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY033:PRIMA" tvg-logo="" group-title="Malaysia",MY033:PRIMA
+#EXTINF:-1 tvg-id="" tvg-name="MY033:PRIMA" tvg-logo="" group-title="Malaysia",PRIMA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="Malaysia",MY034:OASIS
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="" group-title="Malaysia",OASIS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="Malaysia",MY035:Singapore Suria
+#EXTINF:-1 tvg-id="" tvg-name="MY035:Singapore Suria" tvg-logo="" group-title="Malaysia",Singapore Suria
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="Malaysia",MY036:Singapore Vasantham
+#EXTINF:-1 tvg-id="" tvg-name="MY036:Singapore Vasantham" tvg-logo="" group-title="Malaysia",Singapore Vasantham
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="Malaysia",MY037:WWE
+#EXTINF:-1 tvg-id="" tvg-name="MY037:WWE" tvg-logo="" group-title="Malaysia",WWE
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1698.m3u8
-#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="Malaysia",MY038:BOO
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="Malaysia",BOO
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1697.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="Malaysia",MY043:Awesome TV
+#EXTINF:-1 tvg-id="" tvg-name="MY043:Awesome TV" tvg-logo="" group-title="Malaysia",Awesome TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71021.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="Malaysia",MY046:TV ALHIJRAH
+#EXTINF:-1 tvg-id="" tvg-name="MY046:TV ALHIJRAH" tvg-logo="" group-title="Malaysia",TV ALHIJRAH
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71024.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="Malaysia",MY047:aura
+#EXTINF:-1 tvg-id="" tvg-name="MY047:aura" tvg-logo="" group-title="Malaysia",aura
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71025.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="Malaysia",MY049:KBSW
+#EXTINF:-1 tvg-id="" tvg-name="MY049:KBSW" tvg-logo="" group-title="Malaysia",KBSW
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71027.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY051:Sun Music" tvg-logo="" group-title="Malaysia",MY051:Sun Music
+#EXTINF:-1 tvg-id="" tvg-name="MY051:Sun Music" tvg-logo="" group-title="Malaysia",Sun Music
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71029.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="" group-title="Malaysia",MY053:ASTRO Adithya
+#EXTINF:-1 tvg-id="" tvg-name="MY053:ASTRO Adithya" tvg-logo="" group-title="Malaysia",ASTRO Adithya
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY054:ASTRO Zee Tamil" tvg-logo="" group-title="Malaysia",MY054:ASTRO Zee Tamil
+#EXTINF:-1 tvg-id="" tvg-name="MY054:ASTRO Zee Tamil" tvg-logo="" group-title="Malaysia",ASTRO Zee Tamil
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="" group-title="Malaysia",MY055:Star Vijay Super
+#EXTINF:-1 tvg-id="" tvg-name="MY055:Star Vijay Super" tvg-logo="" group-title="Malaysia",Star Vijay Super
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="" group-title="Malaysia",MY056:ASTRO Star Vijay
+#EXTINF:-1 tvg-id="" tvg-name="MY056:ASTRO Star Vijay" tvg-logo="" group-title="Malaysia",ASTRO Star Vijay
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY057:ASTRO Colors Tamil" tvg-logo="" group-title="Malaysia",MY057:ASTRO Colors Tamil
+#EXTINF:-1 tvg-id="" tvg-name="MY057:ASTRO Colors Tamil" tvg-logo="" group-title="Malaysia",ASTRO Colors Tamil
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="Malaysia",MY058:SUN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="MY058:SUN TV HD" tvg-logo="" group-title="Malaysia",SUN TV HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="Malaysia",MY059:HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="MY059:HBO Hits" tvg-logo="" group-title="Malaysia",HBO Hits
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="Malaysia",MY060:iQIYI HD
+#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="" group-title="Malaysia",iQIYI HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71038.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="" group-title="Malaysia",MY067:TVB JADE
+#EXTINF:-1 tvg-id="" tvg-name="MY067:TVB JADE" tvg-logo="" group-title="Malaysia",TVB JADE
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY068:AOD 351 HD" tvg-logo="" group-title="Malaysia",MY068:AOD 351 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY068:AOD 351 HD" tvg-logo="" group-title="Malaysia",AOD 351 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI Asia" tvg-logo="" group-title="Malaysia",MY069:CTI Asia
+#EXTINF:-1 tvg-id="" tvg-name="MY069:CTI Asia" tvg-logo="" group-title="Malaysia",CTI Asia
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="Malaysia",MY070:TVB E-NEWS
+#EXTINF:-1 tvg-id="" tvg-name="MY070:TVB E-NEWS" tvg-logo="" group-title="Malaysia",TVB E-NEWS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="Malaysia",MY071:TVB XING HE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="" group-title="Malaysia",TVB XING HE HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="Malaysia",MY072:TVBS ASIA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY072:TVBS ASIA HD" tvg-logo="" group-title="Malaysia",TVBS ASIA HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="Malaysia",MY073:CCM
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="" group-title="Malaysia",CCM
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",MY075:CCTV4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY075:CCTV4 HD" tvg-logo="" group-title="Malaysia",CCTV4 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="Malaysia",MY076:AOD 352 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY076:AOD 352 HD" tvg-logo="" group-title="Malaysia",AOD 352 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="Malaysia",MY077:AOD 353 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="" group-title="Malaysia",AOD 353 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="Malaysia",MY078:AOD 354 HD
+#EXTINF:-1 tvg-id="" tvg-name="MY078:AOD 354 HD" tvg-logo="" group-title="Malaysia",AOD 354 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71050.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="Malaysia",MY080:KBS World HD
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="" group-title="Malaysia",KBS World HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="Malaysia",MY081:ONE HD
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="" group-title="Malaysia",ONE HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71053.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="Malaysia",MY083:TVN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY083:TVN HD" tvg-logo="" group-title="Malaysia",TVN HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="Malaysia",MY084:Hits Movies HD
+#EXTINF:-1 tvg-id="" tvg-name="MY084:Hits Movies HD" tvg-logo="" group-title="Malaysia",Hits Movies HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="Malaysia",MY086:Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-name="MY086:Cinemax HD" tvg-logo="" group-title="Malaysia",Cinemax HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="Malaysia",MY087:TVN Movies
+#EXTINF:-1 tvg-id="" tvg-name="MY087:TVN Movies" tvg-logo="" group-title="Malaysia",TVN Movies
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="Malaysia",MY088:OKEY TV
+#EXTINF:-1 tvg-id="" tvg-name="MY088:OKEY TV" tvg-logo="" group-title="Malaysia",OKEY TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="Malaysia",MY089:Moonbug Kids
+#EXTINF:-1 tvg-id="" tvg-name="MY089:Moonbug Kids" tvg-logo="" group-title="Malaysia",Moonbug Kids
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="Malaysia",MY091:AL JAZEERA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY091:AL JAZEERA HD" tvg-logo="" group-title="Malaysia",AL JAZEERA HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="Malaysia",MY092:SKY NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY092:SKY NEWS HD" tvg-logo="" group-title="Malaysia",SKY NEWS HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="Malaysia",MY093:CNA HD
+#EXTINF:-1 tvg-id="" tvg-name="MY093:CNA HD" tvg-logo="" group-title="Malaysia",CNA HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="Malaysia",MY094:CNBC
+#EXTINF:-1 tvg-id="" tvg-name="MY094:CNBC" tvg-logo="" group-title="Malaysia",CNBC
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY095:Bloomberg TV" tvg-logo="" group-title="Malaysia",MY095:Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-name="MY095:Bloomberg TV" tvg-logo="" group-title="Malaysia",Bloomberg TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",MY096:ABC AUSTRALIA
+#EXTINF:-1 tvg-id="" tvg-name="MY096:ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",ABC AUSTRALIA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="Malaysia",MY097:8TV
+#EXTINF:-1 tvg-id="" tvg-name="MY097:8TV" tvg-logo="" group-title="Malaysia",8TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="Malaysia",MY099:Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="MY099:Discovery HD" tvg-logo="" group-title="Malaysia",Discovery HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="Malaysia",MY100:DISCOVERY ASIA
+#EXTINF:-1 tvg-id="" tvg-name="MY100:DISCOVERY ASIA" tvg-logo="" group-title="Malaysia",DISCOVERY ASIA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="Malaysia",MY101:Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="MY101:Discovery Science" tvg-logo="" group-title="Malaysia",Discovery Science
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="Malaysia",MY102:HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-name="MY102:HISTORY HD" tvg-logo="" group-title="Malaysia",HISTORY HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia",MY103:ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="" tvg-name="MY103:ANIMAL PLANET HD" tvg-logo="" group-title="Malaysia",ANIMAL PLANET HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="Malaysia",MY104:TUTOR TV UPSR
+#EXTINF:-1 tvg-id="" tvg-name="MY104:TUTOR TV UPSR" tvg-logo="" group-title="Malaysia",TUTOR TV UPSR
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SMK" tvg-logo="" group-title="Malaysia",MY106:TUTOR TV SMK
+#EXTINF:-1 tvg-id="" tvg-name="MY106:TUTOR TV SMK" tvg-logo="" group-title="Malaysia",TUTOR TV SMK
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71078.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="Malaysia",MY112:Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="MY112:Cartoon Network" tvg-logo="" group-title="Malaysia",Cartoon Network
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="Malaysia",MY113:NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="MY113:NICKELODEON HD" tvg-logo="" group-title="Malaysia",NICKELODEON HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="Malaysia",MY114:NICK JR
+#EXTINF:-1 tvg-id="" tvg-name="MY114:NICK JR" tvg-logo="" group-title="Malaysia",NICK JR
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="Malaysia",MY115:AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY115:AXN HD" tvg-logo="" group-title="Malaysia",AXN HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="Malaysia",MY116:Phoenix
+#EXTINF:-1 tvg-id="" tvg-name="MY116:Phoenix" tvg-logo="" group-title="Malaysia",Phoenix
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="Malaysia",MY117:HITS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY117:HITS HD" tvg-logo="" group-title="Malaysia",HITS HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="Malaysia",MY118:TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="Malaysia",TLC HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="Malaysia",MY119:FOOD NTWK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="Malaysia",FOOD NTWK HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="Malaysia",MY120:AFN HD
+#EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="Malaysia",AFN HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="Malaysia",MY122:WARNER TV
+#EXTINF:-1 tvg-id="" tvg-name="MY122:WARNER TV" tvg-logo="" group-title="Malaysia",WARNER TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="Malaysia",MY123:Crime Investigation
+#EXTINF:-1 tvg-id="" tvg-name="MY123:Crime Investigation" tvg-logo="" group-title="Malaysia",Crime Investigation
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71095.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="Malaysia",MY125:DMAX HD
+#EXTINF:-1 tvg-id="" tvg-name="MY125:DMAX HD" tvg-logo="" group-title="Malaysia",DMAX HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71097.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="Malaysia",MY127:MTV
+#EXTINF:-1 tvg-id="" tvg-name="MY127:MTV" tvg-logo="" group-title="Malaysia",MTV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="Malaysia",MY128:ANIMAX
+#EXTINF:-1 tvg-id="" tvg-name="MY128:ANIMAX" tvg-logo="" group-title="Malaysia",ANIMAX
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71100.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia",MY135:GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY135:GOLF CHANNEL HD" tvg-logo="" group-title="Malaysia",GOLF CHANNEL HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Malaysia",MY136:ASTRO Rugby Pass
+#EXTINF:-1 tvg-id="" tvg-name="MY136:ASTRO Rugby Pass" tvg-logo="" group-title="Malaysia",ASTRO Rugby Pass
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="Malaysia",MY137:ASTRO Cricket
+#EXTINF:-1 tvg-id="" tvg-name="MY137:ASTRO Cricket" tvg-logo="" group-title="Malaysia",ASTRO Cricket
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="Malaysia",MY139:KPLUS HD
+#EXTINF:-1 tvg-id="" tvg-name="MY139:KPLUS HD" tvg-logo="" group-title="Malaysia",KPLUS HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="Malaysia",MY140:DW HD
+#EXTINF:-1 tvg-id="" tvg-name="MY140:DW HD" tvg-logo="" group-title="Malaysia",DW HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71112.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="Malaysia",MY147:BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="MY147:BBC Earth HD" tvg-logo="" group-title="Malaysia",BBC Earth HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="Malaysia",MY148:BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="MY148:BBC Lifestyle" tvg-logo="" group-title="Malaysia",BBC Lifestyle
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71120.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY150:BBC World News" tvg-logo="" group-title="Malaysia",MY150:BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="MY150:BBC World News" tvg-logo="" group-title="Malaysia",BBC World News
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="Malaysia",MY151:sukan
+#EXTINF:-1 tvg-id="" tvg-name="MY151:sukan" tvg-logo="" group-title="Malaysia",sukan
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71123.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY163:AFC" tvg-logo="" group-title="Malaysia",MY163:AFC
+#EXTINF:-1 tvg-id="" tvg-name="MY163:AFC" tvg-logo="" group-title="Malaysia",AFC
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="Malaysia",MY164:Paramount Channel
+#EXTINF:-1 tvg-id="" tvg-name="MY164:Paramount Channel" tvg-logo="" group-title="Malaysia",Paramount Channel
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="Malaysia",MY166:Global Trekker
+#EXTINF:-1 tvg-id="" tvg-name="MY166:Global Trekker" tvg-logo="" group-title="Malaysia",Global Trekker
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="Malaysia",MY168:SCM
+#EXTINF:-1 tvg-id="" tvg-name="MY168:SCM" tvg-logo="" group-title="Malaysia",SCM
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="Malaysia",MY169:SETi Chinese
+#EXTINF:-1 tvg-id="" tvg-name="MY169:SETi Chinese" tvg-logo="" group-title="Malaysia",SETi Chinese
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY170:Lifetime" tvg-logo="" group-title="Malaysia",MY170:Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="MY170:Lifetime" tvg-logo="" group-title="Malaysia",Lifetime
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY171:Love Nature" tvg-logo="" group-title="Malaysia",MY171:Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="MY171:Love Nature" tvg-logo="" group-title="Malaysia",Love Nature
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71141.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="Malaysia",MY179:TVS
+#EXTINF:-1 tvg-id="" tvg-name="MY179:TVS" tvg-logo="" group-title="Malaysia",TVS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="Malaysia",MY180:Awesome TV
+#EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="Malaysia",Awesome TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71149.m3u8
+==========================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="TH017:PPTV HD" tvg-logo="" group-title="Thailand",PPTV HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH007:True 4 U" tvg-logo="" group-title="Thailand",True 4 U
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH001:CH5 HD" tvg-logo="" group-title="Thailand",CH5 HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH002:NBT 2 HD" tvg-logo="" group-title="Thailand",NBT 2 HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH003:TPBS" tvg-logo="" group-title="Thailand",TPBS
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH004:ALTV4" tvg-logo="" group-title="Thailand",ALTV4
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH005:TNN24" tvg-logo="" group-title="Thailand",TNN24
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH006:Workpoint TV" tvg-logo="" group-title="Thailand",Workpoint TV
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH009:CH 8" tvg-logo="" group-title="Thailand",CH 8
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH010:MONO" tvg-logo="" group-title="Thailand",MONO
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH011:ONE 31 HD" tvg-logo="" group-title="Thailand",ONE 31 HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH012:Thairath TV HD" tvg-logo="" group-title="Thailand",Thairath TV HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH013:3 HD" tvg-logo="" group-title="Thailand",3 HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH015:AmarinTV HD" tvg-logo="" group-title="Thailand",:AmarinTV HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH016:CH7 HD" tvg-logo="" group-title="Thailand",CH7 HD
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61289.m3u8
 
 
+
+=====================================================================================================================
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="KNOWLEDGE", Digione
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
