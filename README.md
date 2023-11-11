@@ -6,17 +6,16 @@
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2 japan vs polandia
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 3
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", JAPAN VS POLANDIA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 5
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 6
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",JAPAN VS POLANDIA
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 7
-http://humiptv.live:8080/live/56565656/56565656/151171.ts
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
 http://xtv.ooo:8080/493121299/992121394/350972
 
 
