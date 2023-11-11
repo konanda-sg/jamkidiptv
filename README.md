@@ -974,35 +974,34 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71148.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="Malaysia",Awesome TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71149.m3u8
 ==========================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="TH017:PPTV HD" tvg-logo="" group-title="Thailand",PPTV HD
+#EXTINF:-1 tvg-id="" tvg-name="TH017:PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Thailand",PPTV HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH007:True 4 U" tvg-logo="" group-title="Thailand",True 4 U
+#EXTINF:-1 tvg-id="" tvg-name="TH007:True 4 U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Thailand",True 4 U
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH001:CH5 HD" tvg-logo="" group-title="Thailand",CH5 HD
+#EXTINF:-1 tvg-id="" tvg-name="TH001:CH5 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="Thailand",CH5 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH002:NBT 2 HD" tvg-logo="" group-title="Thailand",NBT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="TH002:NBT 2 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="Thailand",NBT 2 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH003:TPBS" tvg-logo="" group-title="Thailand",TPBS
+#EXTINF:-1 tvg-id="" tvg-name="TH003:TPBS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="Thailand",TPBS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH004:ALTV4" tvg-logo="" group-title="Thailand",ALTV4
-http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH005:TNN24" tvg-logo="" group-title="Thailand",TNN24
+
+#EXTINF:-1 tvg-id="" tvg-name="TH005:TNN24" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="Thailand",TNN24
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61279.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH006:Workpoint TV" tvg-logo="" group-title="Thailand",Workpoint TV
+#EXTINF:-1 tvg-id="" tvg-name="TH006:Workpoint TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="Thailand",Workpoint TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH009:CH 8" tvg-logo="" group-title="Thailand",CH 8
+#EXTINF:-1 tvg-id="" tvg-name="TH009:CH 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="Thailand",CH 8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61283.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH010:MONO" tvg-logo="" group-title="Thailand",MONO
+#EXTINF:-1 tvg-id="" tvg-name="TH010:MONO" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="Thailand",MONO
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH011:ONE 31 HD" tvg-logo="" group-title="Thailand",ONE 31 HD
+#EXTINF:-1 tvg-id="" tvg-name="TH011:ONE 31 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="Thailand",ONE 31 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH012:Thairath TV HD" tvg-logo="" group-title="Thailand",Thairath TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TH012:Thairath TV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="Thailand",Thairath TV HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH013:3 HD" tvg-logo="" group-title="Thailand",3 HD
+#EXTINF:-1 tvg-id="" tvg-name="TH013:3 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="Thailand",3 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH015:AmarinTV HD" tvg-logo="" group-title="Thailand",:AmarinTV HD
+#EXTINF:-1 tvg-id="" tvg-name="TH015:AmarinTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png" group-title="Thailand",:AmarinTV HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61288.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TH016:CH7 HD" tvg-logo="" group-title="Thailand",CH7 HD
+#EXTINF:-1 tvg-id="" tvg-name="TH016:CH7 HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="Thailand",CH7 HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61289.m3u8
 
 
