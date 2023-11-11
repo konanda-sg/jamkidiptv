@@ -17,14 +17,6 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",WC 7
 http://humiptv.live:8080/live/56565656/56565656/151171.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="FIFA WORLD CUP U17",WC U17 JAPAN VS POLANDIA
-http://h24.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?69854211/29416
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="FIFA WORLD CUP U17",WC U17 KALEDONIA VS INGGRIS
-http://h21.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?1515000000/33770
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="FIFA WORLD CUP U17",WC U17 BRAZIL VS IRAN
-http://h23.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?918454578001/17280
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png" group-title="FIFA WORLD CUP U17",WC U17 ARGENTINA VS SENEGAL
-http://h23.madina-sell.store/ajax/libs/jquery/3.6.0/jquery.min.js?69854211/29082 
 
 
 
