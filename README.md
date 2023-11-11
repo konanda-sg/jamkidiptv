@@ -2,20 +2,20 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
 ======================================================================WC=======================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1 kaledonia vs england
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 1 
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2 japan vs polandia
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC 2 
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", JAPAN VS POLANDIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", 
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/30073.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59219.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",JAPAN VS POLANDIA
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/29695.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",NICOLODONIA VS ENGLAND
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV",
 http://xtv.ooo:8080/493121299/992121394/350972
 
 
@@ -669,77 +669,6 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="KOREA", 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",ASTRO AWANI
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157478
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Astro Cricket
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157565
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro Prima
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157467
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/146068
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157556
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157557
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 4
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157558
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Astro SuperSport 5
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/287792
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", beIN Sports
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157561
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Boomerang
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/171955
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Celestial Classic Movies (CCM)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157512
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Celestial Movies
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174687
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Crime+ Investigation
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157554
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Discovery Science
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157530
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Disney XD
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157544
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",FOX SPORTS 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157488
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Harvest TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299917
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Hits
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157545
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",HITS Movies
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157477
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",KIX
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299963
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Family Flix
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/296889
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",Nick Jr
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157546
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",NTV 7
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/174695
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",RTB Sukmaindera
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/299546
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",RTM TV 1
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158357
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", RTM TV 2
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158355
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TV 3
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/158360
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TV 9
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/171953
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY",TVN Movies
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/297499
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0kJnP8/Astro-logo.png" group-title="MALAY", Warner TV
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/157550
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHbeR7ync1MSdj1NYFXZeHpsRSRdI-KfKuVQ&usqp=CAU" group-title="SPORTS CLUB",Barca TV
