@@ -716,15 +716,15 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71105.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY146:beIN Sports 2" tvg-logo="" group-title="Malaysia",beIN Sports 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="Malaysia",Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym1o1wSSPNer0zIdGtyovVCO.png" group-title="Malaysia",Super Sport 1
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1722.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="Malaysia",Super Sport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2uH9udpsT80xD7hOQMq4FFx73p77TcFJ-seUvw33eeCA.png" group-title="Malaysia",Super Sport 2
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1721.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="Malaysia",Super Sport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2um05eA0_1JeNYm776sPjq.png" group-title="Malaysia",Super Sport 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1720.m3u8
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="Malaysia",Super Sport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2K4DHlaaoLzq6UK2ygI6r9.png" group-title="Malaysia",Super Sport 4
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="" group-title="Malaysia",Super Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="http://mytvservices.us:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym3G5peoktXiiHj1Fsfh4t-3.png" group-title="Malaysia",Super Sport 5
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1713.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="" group-title="Malaysia",ASTRO ASSP HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/59220.m3u8
@@ -741,13 +741,13 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71079.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71147.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Malaysia",Astro SuperSport Events 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71146.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 1 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Malaysia" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379997.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 2 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Malaysia" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 2 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514707.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 3 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Malaysia" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 3 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514708.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MY| ASTRO GO Live Event 4 FHD" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 4 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Malaysia" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="MY| ASTRO", ASTRO GO Live Event 4 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/514709.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY001:TV 1" tvg-logo="" group-title="Malaysia",TV 1
