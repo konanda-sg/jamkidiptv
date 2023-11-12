@@ -304,7 +304,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.ts
 #EXTINF:-1 group-title="⚾SPORTS🥎"tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 2 (1080p)
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5158.ts
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p)
+#EXTINF:-1 group-title="⚾SPORTS🥎" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 3 (1080p)
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5159.ts
 #EXTINF:-1 group-title="⚾SPORTS🥎" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Starhublogo.png",HUB PREMIER 4 (1080p)
 http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5160.ts
@@ -729,7 +729,7 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/1696.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71079.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY178:SPOTV" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",SPOTV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="Malaysia",Astro SuperSport Events 3
+#EXTINF:-1 tvg-id="" tvg-name="MY177:Astro SuperSport Events 3" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",Astro SuperSport Events 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71146.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Malaysia" tvg-logo="https://i.imgur.com/8in5sLp.png" group-title="🇲🇾Malaysia🇲🇾", ASTRO GO Live Event 1 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/379997.m3u8
@@ -839,7 +839,7 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71088.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71089.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY118:TLC HD" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",TLC HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="Malaysia",FOOD NTWK HD
+#EXTINF:-1 tvg-id="" tvg-name="MY119:FOOD NTWK HD" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",FOOD NTWK HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY120:AFN HD" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",AFN HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71092.m3u8
