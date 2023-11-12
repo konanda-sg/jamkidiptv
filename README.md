@@ -2,9 +2,9 @@
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
 
 ======================================================================WC=======================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC sctv
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC KORSEL VS AS
 https://link.zozotv.xyz:443/FR433/KKFz7/46
-#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC indosiar
+#EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17" tvg-id="001" tvg-name="016-LABURATV", WC MEXICO VS GERMAN
 https://link.zozotv.xyz:443/FR433/KKFz7/45
 
  --------------------------------------------------------------------LOKAL--------------------------------------------------------
