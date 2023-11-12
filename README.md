@@ -151,7 +151,7 @@ http://smart-tv.cc:8080/live/steveny5997/54332611/389196.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="12.OPTUS" tvg-name="OPTUS SPORT 12 FHD" tvg-logo="http://mytvservices.us:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="👉LIGA EROPA👈"​,OPTUS SPORT 12 FHD
 http://smart-tv.cc:8080/live/steveny5997/54332611/389197.m3u8
 ==================================================================DAZN========================================================================================
-#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS",DAZN 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="⚾SPORTS🥎",DAZN 1
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/48355
 #EXTINF:0 tvg-logo="https://i.ibb.co/zh18bLM/DAZN.png" group-title="SPORTS",DAZN 2
 http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/2387
@@ -423,7 +423,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 
 
 ======================================================================================KOREA====================================
-#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="KOREA" , 연합뉴스TV
+#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="🇰🇷KOREA🇰🇷" , 연합뉴스TV
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="KOREA" , YTN
@@ -706,7 +706,7 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 
 ============================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="Malaysia",bEIN Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="MY129:bEIN Sports 3" tvg-logo="" group-title="🇲🇾Malaysia🇲🇾",bEIN Sports 3
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY132:beIN SPORTS" tvg-logo="" group-title="Malaysia",beIN SPORTS
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71104.m3u8
@@ -974,7 +974,7 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71148.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY180:Awesome TV" tvg-logo="" group-title="Malaysia",Awesome TV
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/71149.m3u8
 ==========================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="TH017:PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="Thailand",PPTV HD
+#EXTINF:-1 tvg-id="" tvg-name="TH017:PPTV HD" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="🇨🇷Thailand🇨🇷",PPTV HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61290.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TH007:True 4 U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="Thailand",True 4 U
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/61281.m3u8
