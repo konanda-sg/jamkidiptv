@@ -56,31 +56,30 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 http://humiptv.live:8080/live/56565656/56565656/154.ts
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 2 HD
 http://humiptv.live:8080/live/56565656/56565656/31314.ts
-#EXTINF:-1,CRI: SONY Ten 2 HD
-http://humiptv.live:8080/live/56565656/56565656/192.ts
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 3 HD
 http://humiptv.live:8080/live/56565656/56565656/146.ts
-#EXTINF:-1,CRI: SONY TEN 4 (FHD)
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 4 HD
 http://humiptv.live:8080/live/56565656/56565656/29469.ts
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 5 HD
 http://humiptv.live:8080/live/56565656/56565656/176.ts
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0vyWv038R3Yz4hos8BxR6A","kid":"GyFAhdjsVIaPZib3DLl0XA"}]}
-#EXTINF:-1 tvg-id="ts980" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png" group-title="TataPlayM3U - Sports",Sports 18 - 1
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 1 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6123/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"elF+MDC06kp0eBObuOIlVA","kid":"zK88EgfiVlCFq7Xs2yOL2Q"}]}
-#EXTINF:-1 tvg-id="ts812" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png" group-title="TataPlayM3U - Sports",Eurosport HD
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 3 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6124/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZPa/6S7hGZCr/pdS1XS+EQ","kid":"RV1TPWnzXDWqCFPmISvC5w"}]}
-#EXTINF:-1 tvg-id="ts693" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png" group-title="TataPlayM3U - Sports",Eurosport
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 4 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6125/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MIxXQbiA1pgsKHI9jzI72A","kid":"5PZDuKi/UwaSDvnxsMbxKw"}]}
-#EXTINF:-1 tvg-id="ts815" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52856-k984c4vc-v1/imageContent-52856-k984c4vc-m1.png" group-title="TataPlayM3U - Sports",1sports
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1110/output/manifest.mpd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 5 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6126/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 6 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6127/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 7 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6128/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 8 HD QA
+http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6129/index.m3u8
