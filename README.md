@@ -1,6 +1,6 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",WC 3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",INDONESIA VS PANAMA
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ======================================================================WC=======================================================
 #EXTINF:0 tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="KREATIF NAPA" tvg-id="001" tvg-name="016-LABURATV", kreatif donk jgn maincomot
