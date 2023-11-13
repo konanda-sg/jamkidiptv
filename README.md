@@ -123,7 +123,16 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
 #EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",Spotv 2
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
-
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Eurosport" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="SPORTS",Eurosport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
+#EXTINF:-1 tvg-id="Rugby" tvg-name="Rugby TV" tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="SPORTS",Rugby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
+#EXTINF:-1 tvg-id="NBA" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="SPORTS",NBA TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="SPORTS",Fight Sport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1
