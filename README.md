@@ -63,26 +63,66 @@ http://humiptv.live:8080/live/56565656/56565656/29469.ts
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="TataPlayM3U - Sports",SONY SPORTS TEN 5 HD
 http://humiptv.live:8080/live/56565656/56565656/176.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 1 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6123/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 3 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6124/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 4 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6125/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 5 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6126/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 6 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6127/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 7 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6128/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 8 HD QA
-http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6129/index.m3u8
+#EXTINF:-1 tvg-id="IMC" tvg-name="RTM Sports" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="SPORTS",RTM Sports
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+#EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",Arena 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (Live Only)" tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="SPORTS",Arena Bola 2 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 3 (Live Only)" tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="SPORTS",Arena Bola 3 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola 4 (Live Only)" tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="SPORTS",Arena Bola 4 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 1" tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="SPORTS",NOW Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 2" tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="SPORTS",NOW Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 3" tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="SPORTS",NOW Sport 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 4" tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="SPORTS",NOW Sport 4
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sport 5" tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="SPORTS",NOW Sport 5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
+#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP_A" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="SPORTS",ASSP_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_A" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
+#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2_B" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="SPORTS",ASSP2_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_A" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3_B" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="SPORTS",ASSP3_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_A" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
+#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="SPORTS",ASSP4_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
+#EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="SPORTS",beIN Sports 1 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
+#EXTINF:-1 tvg-id="beINSports2.MACAN" tvg-name="beIN Sports 2 ID" tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="SPORTS",beIN Sports 2 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport (MY)" tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="SPORTS",BeIN Sport (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="SPORTS",BT Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="SPORTS",BT Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
+#EXTINF:-1 tvg-id="" tvg-name="Champions 1" tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="SPORTS",Champions 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
+#EXTINF:-1 tvg-id="UseeSports" tvg-name="Usee Sport 1" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
+#EXTINF:-1 tvg-id="UseeSports2" tvg-name="Usee Sport 2" tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="SPORTS",Usee Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV (MY)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV (IDN)" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV (IDN)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
+#EXTINF:-1 tvg-id="" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",Spotv 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
 
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
@@ -214,5 +254,86 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
+
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX (M)" tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="ENTERTAINMENT",KIX (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/75
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/nC2W1KT/azx.png" group-title="ENTERTAINMENT",AXN
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/76
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://i.ibb.co/NxYV4qj/sf.png" group-title="ENTERTAINMENT",BBC Lifestyle
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/77
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/jfF9CGJ/hfgdgf.png" group-title="ENTERTAINMENT",HGTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/78
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="ENTERTAINMENT",Warner TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/79
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/dmdgGrw/tyeer.png" group-title="ENTERTAINMENT",Lifetime
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/80
+#EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/7jpK2DZ/khjk.png" group-title="ENTERTAINMENT",Blue Ant Entertainment
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/81
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="ENTERTAINMENT",HITS
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/86
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ENTERTAINMENT",Crime Investigation
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/87
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/jTmR3CN/FAS.png" group-title="ENTERTAINMENT",Fashion TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/88
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="KNOWLEDGE",Love Nature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/89
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/gMJG9Sy/bbbbb.png" group-title="KNOWLEDGE",BBC Earth
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/90
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="KNOWLEDGE",DMAX
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/91
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="KNOWLEDGE",History
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/92
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="KNOWLEDGE",Nat Geo Wild
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/95
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/TcyfXJg/cdcd.png" group-title="KNOWLEDGE",Animal Planet
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/96
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/1z4b36S/dg.png" group-title="KNOWLEDGE",Discovery Channel
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/97
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="KNOWLEDGE",Discovery Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="KNOWLEDGE",AFC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="KNOWLEDGE",TLC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
+
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (E)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (ID)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="KIDS",Dreamworks
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="KIDS",Boomerang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",Nickelodeon
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="KIDS",Nick Jr
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="KIDS",Moonbug
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="KIDS",Horee
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="KIDS",My Kidz
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/131
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/182
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="KIDS",BabyFirst
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/132
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
