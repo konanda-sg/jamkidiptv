@@ -452,55 +452,48 @@ https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/dazn
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 #EXTINF:-1 group-logo="https://i.imgur.com/abRJyAb.png" tvg-id="MNCSports.id" tvg-logo="https://static.mncnow.id/images/channel/47a3389b/841b.png" group-title="SPORTS-V+",SportStars 1 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.mncnow.id/images/channel/d7bc368d/1d9b.png" group-title="SPORTS-V+",SportsStars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-#EXTINF:-1 tvg-id="MNCSports3.id" tvg-logo="https://static.mncnow.id/images/channel/bbcab6bb/6af2.png" group-title="SPORTS-V+",SportsStars 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
-#EXTINF:-1 tvg-id="sportstars4.id" tvg-logo="https://static.visionplus.id/images/channel/4e53a082/d228.png" group-title="SPORTS-V+",SportsStars 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://static.mncnow.id/images/channel/c0cec9b0/08d4.png" group-title="SPORTS-V+",Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 tvg-id="spotv.kr" tvg-logo="https://static.mncnow.id/images/channel/d4a3bbd6/4b47.png" group-title="SPORTS-V+",SPOTV 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://static.mncnow.id/images/channel/fa2e7f65/768b.png" group-title="SPORTS-V+",SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 tvg-id="fightsports.us" tvg-logo="https://static.visionplus.id/images/channel/11b52125/5eed.png" group-title="SPORTS-V+",FIGHT SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-https://d1ahy1km7unmk9.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-======vietsports=======
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="SPORTS" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-3.png",VTVcab 3 | ON Sports
-https://live2onsport.vtvcab.vn/dash/THETHAO_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="SPORTS" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-6.png",VTVcab 6 | ON Sports+
-https://live2onsport.vtvcab.vn/dash/HAY_TV/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="SPORTS" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-16.png",VTVcab 16 | ON Football
-https://live2onsport.vtvcab.vn/dash/BONGDA_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="SPORTS" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vtvcab-18.png",VTVcab 18 | ON Sports News
-https://live2onsport.vtvcab.vn/dash/THETHAO_TINTUC_HD/m30_index.m3u8
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-logo="https://static.mncnow.id/images/channel/d7bc368d/1d9b.png" group-title="SPORTS-V+",SportsStars 2 HD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-logo="https://static.mncnow.id/images/channel/bbcab6bb/6af2.png" group-title="SPORTS-V+",SportsStars 3 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-id="sportstars4.id" tvg-logo="https://static.visionplus.id/images/channel/4e53a082/d228.png" group-title="SPORTS-V+",SportsStars 4 HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-logo="https://static.mncnow.id/images/channel/c0cec9b0/08d4.png" group-title="SPORTS-V+",Soccer Channel
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
+#EXTINF:-1 tvg-id="spotv.kr" tvg-logo="https://static.mncnow.id/images/channel/d4a3bbd6/4b47.png" group-title="SPORTS-V+",SPOTV 1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 tvg-id="spotv2.kr" tvg-logo="https://static.mncnow.id/images/channel/fa2e7f65/768b.png" group-title="SPORTS-V+",SPOTV 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+#EXTINF:-1 tvg-id="fightsports.us" tvg-logo="https://static.visionplus.id/images/channel/11b52125/5eed.png" group-title="SPORTS-V+",FIGHT SPORTS
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+
 
 
 
