@@ -83,3 +83,85 @@ http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6128/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD", beIN Sports 8 HD QA
 http://8525ef27.edemist.com/iptv/CRRK2RR5248NTX/6129/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 (FHD)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MALAYSIA",TV1 (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/2
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA",TV2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/3
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2 (FHD)" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MALAYSIA",TV2 (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/4
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3 (Full HD)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3 (Full HD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3(HD)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3(HD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/6
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3(SD)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3(SD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/7
+#EXTINF:-1 tvg-id="IMC" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="MALAYSIA",TV6
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/203
+#EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MALAYSIA",NTV7
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/8
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="MALAYSIA",8TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/10
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9(B)" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MALAYSIA",TV9(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="MALAYSIA",TVS
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/214
+#EXTINF:-1 tvg-id="IMC" tvg-name="Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="MALAYSIA",Okey
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/12
+#EXTINF:-1 tvg-id="" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="MALAYSIA",Drama Sangat
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/13
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://i.ibb.co/3cRLMZy/1684738476513.png" group-title="MALAYSIA",Dunia Sinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1083
+#EXTINF:-1 tvg-id="" tvg-name="Enjoy TV5" tvg-logo="https://i.ibb.co/L87hNTb/1691020841612.png" group-title="MALAYSIA",Enjoy TV5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1187
+#EXTINF:-1 tvg-id="Awesome" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png" group-title="MALAYSIA",Awesome TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/387
+#EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="MALAYSIA",Alhijrah
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/14
+#EXTINF:-1 tvg-id="BERNAMA" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="MALAYSIA",Astro Bernama
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/15
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="MALAYSIA",Astro Awani
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/16
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani(B)" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="MALAYSIA",Astro Awani(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/17
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="MALAYSIA",Astro Oasis
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/18
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="MALAYSIA",Astro Ceria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria(B)" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="MALAYSIA",Astro Ceria(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/20
+#EXTINF:-1 tvg-id="premier" tvg-name="Astro Premier" tvg-logo="https://i.ibb.co/vBmrN6s/1695007683583.png" group-title="MALAYSIA",Astro Premier
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1279
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="MALAYSIA",Astro Prima
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/21
+#EXTINF:-1 tvg-id="" tvg-name="Astro Prima (SD)" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="MALAYSIA",Astro Prima (SD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1244
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria (B)" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/224
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria (C)" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="MALAYSIA",Astro Ria (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/282
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (A)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna (A)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="Astro Warna(B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="MALAYSIA",Astro Warna(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="MALAYSIA",Astro Citra(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="MALAYSIA",Astro Aura
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/28
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="Astro Rania" tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="MALAYSIA",Astro Rania
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/29
+
+
+
+
