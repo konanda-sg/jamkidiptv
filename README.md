@@ -1,7 +1,7 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
  
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i-milkshake.bunkr.ru/Whj-timnas-sb0imgf7.png?download=true" group-title="FIFA WORLD CUP U17",Server 4
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
 http://103.166.27.2:8112/play/a015
 
 #EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 7
@@ -510,6 +510,67 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX77w7NY/rai-it.png" group-title="KNOWLEDGE",Rai Italia
+http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE",Animal Planet
+https://varun-iptv.netlify.app/m3u/animal_planet.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="KNOWLEDGE",BBC Earth
+https://mangga-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE",CGTN Documentary
+http://210.210.155.37/qwr9ew/s/s20/index10.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="KNOWLEDGE",Crime + Investigation
+http://edge.linknetott.swiftserve.com/channelgroup2/cg261production/ch349/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE",Da Vinci
+http://edge.linknetott.swiftserve.com:80/channelgroup3/cg332production/ch371/03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqU1k4n.png" group-title="KNOWLEDGE",Dens Learning & Knowledge
+http://rr3.dens.tv/s/s36/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="KNOWLEDGE",Discovery Asia
+http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="KNOWLEDGE",Discovery Channel
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="KNOWLEDGE",Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sYeQuS.png" group-title="KNOWLEDGE",Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YNpOmEc.png" group-title="KNOWLEDGE",History
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="KNOWLEDGE",Lingua Channel
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png" group-title="KNOWLEDGE",DMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Biznet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nT25Bo.jpg" group-title="KNOWLEDGE" , Discovery Channel HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="KNOWLEDGE" ,Discovery Asia HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j6qVWZm.jpg" group-title="KNOWLEDGE", LOVE NATURE 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f0Caz3A.png" group-title="KNOWLEDGE",Smithsonian Channel 
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nasatv" tvg-logo="https://i.imgur.com/jpgxh1y.png" group-title="KNOWLEDGE", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="KNOWLEDGE",PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://i.imgur.com/QTPLUvz.jpg" group-title="KNOWLEDGE",INWILD
+#http://inwild-samsungau.amagi.tv/playlist.m3u8
 
 
 
