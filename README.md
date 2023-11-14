@@ -16,13 +16,13 @@ http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
 ======================================================================WC=======================================================
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
-http://103.30.87.238:443/wadmanet/norlec212/516
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
-http://103.30.87.238:443/wadmanet/norlec212/5628
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
-http://103.30.87.238:443/wadmanet/norlec212/858
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
-http://103.30.87.238:443/wadmanet/norlec212/1193
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/210
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgr1VQP/trans.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTbQGGj/trans-7-tv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Trans 7
