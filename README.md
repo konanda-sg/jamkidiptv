@@ -508,70 +508,27 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTINF:-1 tvg-chno="36"  tvg-id="PPTV HD" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
+===============================================================================================================================
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/gMJG9Sy/bbbbb.png" group-title="KNOWLEDGE",BBC Earth
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/90
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="KNOWLEDGE",DMAX
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/91
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="KNOWLEDGE",History
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/92
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="KNOWLEDGE",Nat Geo Wild
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/95
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/TcyfXJg/cdcd.png" group-title="KNOWLEDGE",Animal Planet
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/96
+#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/1z4b36S/dg.png" group-title="KNOWLEDGE",Discovery Channel
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/97
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="KNOWLEDGE",Discovery Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="KNOWLEDGE",AFC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="KNOWLEDGE",TLC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LX77w7NY/rai-it.png" group-title="KNOWLEDGE",Rai Italia
-http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CO7N8wc.png" group-title="KNOWLEDGE",Animal Planet
-https://varun-iptv.netlify.app/m3u/animal_planet.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/54755ec8e4b0930af4181a37/1458673884145-QVAYRHGW3PT1ZXL6IF7Y/image-asset.png" group-title="KNOWLEDGE",BBC Earth
-https://mangga-live-cdn.mncnow.id:443/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/CGTN_Documentary_II.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE",CGTN Documentary
-http://210.210.155.37/qwr9ew/s/s20/index10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j5MyKCl.png" group-title="KNOWLEDGE",Crime + Investigation
-http://edge.linknetott.swiftserve.com/channelgroup2/cg261production/ch349/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="KNOWLEDGE",Da Vinci
-http://edge.linknetott.swiftserve.com:80/channelgroup3/cg332production/ch371/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqU1k4n.png" group-title="KNOWLEDGE",Dens Learning & Knowledge
-http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="KNOWLEDGE",Discovery Asia
-http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEL1TDm.png" group-title="KNOWLEDGE",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="KNOWLEDGE",Discovery Science
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9sYeQuS.png" group-title="KNOWLEDGE",Discovery Turbo
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YNpOmEc.png" group-title="KNOWLEDGE",History
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch131)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="KNOWLEDGE",Lingua Channel
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png" group-title="KNOWLEDGE",DMAX
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch347)/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Biznet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nT25Bo.jpg" group-title="KNOWLEDGE" , Discovery Channel HD
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/62821a0e46c8af53df7dc8ac/4333a2d2-c114-426d-9e41-00fc0fd1bc97/Discovery+Asia" group-title="KNOWLEDGE" ,Discovery Asia HD
-http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j6qVWZm.jpg" group-title="KNOWLEDGE", LOVE NATURE 4K
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0Caz3A.png" group-title="KNOWLEDGE",Smithsonian Channel 
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nasatv" tvg-logo="https://i.imgur.com/jpgxh1y.png" group-title="KNOWLEDGE", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="KNOWLEDGE",PEOPLE ARE AWESOME
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://i.imgur.com/QTPLUvz.jpg" group-title="KNOWLEDGE",INWILD
-#http://inwild-samsungau.amagi.tv/playlist.m3u8
-
+================================================================================================================================
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO FHD
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (M)
@@ -624,6 +581,27 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
-
-
+============================================================================================================================
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (E)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (ID)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="KIDS",Dreamworks
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="KIDS",Boomerang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",Nickelodeon
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="KIDS",Nick Jr
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="KIDS",Moonbug
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="KIDS",Horee
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="KIDS",My Kidz
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/131
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/182
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="KIDS",BabyFirst
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/132
 
