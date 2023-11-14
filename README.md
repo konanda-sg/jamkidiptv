@@ -107,6 +107,267 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2138.m3u8
 #EXTINF:-1 tvg-id="beINSports1.MACAN" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="BEIN",beIN SportS 4HD
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/2137.m3u8
 
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Bein sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-039/stream.mpd
+
+#EXrTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , elevent 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Dazn
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA" , Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA"  , Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-spanyol-tvYPoc6p.png?download=true" group-title="Liga EROPA" , Eleven 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" "Liga Inggris" , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , Dazn 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" "Liga Inggris" , Espn
+http://fadder.eletrinho.shop:2095/live2/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" "Liga Inggris" , Espn 4
+http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , True  sport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA" , True sport-2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , True sport 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , Espn 4 sd
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18672
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , +foot direct
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297371
+
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA"  , Bein sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-035/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , Zona dazn
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , Dazn 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA"  , Bein sport 1
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA"  , true bein 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA"  , Bein 1 direct
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-itali-QTbHbvJF.png?download=true" group-title="Liga EROPA" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA"  , Dazn 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA"  , Eleven 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA"  , Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA" , Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-jerman-Ycphz7K7.png?download=true" group-title="Liga EROPA" , event 4A
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
+
+#####liga prancis#####
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA" , Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-048/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA"  , Eleven 1A
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-047/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA"  , Euro sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA" , Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-prancis-ZsIOiiRD.png?download=true" group-title="Liga EROPA"  , Eleven 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-055/stream.mpd
+
+#####liga belanda#####
+
+#EXTINF:-1 group-title="Liga EROPA"  tvg-id="TVRINasional.id" tvg-logo="https://i-meatballs.bunkr.ru/tvri-sport-yUJK2s9h.png?download=true",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA", ESPN 2
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA", Eleven 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA" , Sport 1D
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-belanda-EHfi4Uut.png?download=true" group-title="Liga EROPA"  , Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-051/stream.mpd
+
+
+
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 1
+https://edge.taghtia.com/sa/9.m3u8
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", ksa 2
+https://edge.taghtia.com/sa/10.m3u8
+
+#EXTINF:-1 http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1 http-user-agent=Android
+#EXTVLCOPT:http-referrer=http://www.elahmad.com/tv/mobiletv/glarb.php?
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", abu Dhabi 1
+http://www.elahmad.com/tv/m3u8/ad_tv.m3u8?id=abudhabi_sports1
+
+
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 1" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 4" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC 5" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
+https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf5a32868224a6f9f3a749a9ea20eb2:0ace749c97932aa44434da3a88c1ee69
+https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 2" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
+https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
+#EXTINF:-1 group-title="Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true", SSC EXTRA 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
+https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Sport 1D
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , Espn vivoHD
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/153012
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo HD1
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18664
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivo SD
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/22331
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ESPN vivoHD2
+http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18674
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1ewp/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3ea/master.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-arab-IzYistv0.png?download=true" group-title="Liga Arab" , ALKASS 4 multi
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/master.m3u8
 
 
 
