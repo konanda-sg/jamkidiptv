@@ -572,7 +572,58 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 #EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://i.imgur.com/QTPLUvz.jpg" group-title="KNOWLEDGE",INWILD
 #http://inwild-samsungau.amagi.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO FHD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/54
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="MOVIES",SHOWCASE MOVIES
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
+#EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="MOVIES",Rock Action HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1045
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="MOVIES",Paramount Network
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/417
+#EXTINF:-1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="MOVIES",MyCinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/414
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="MOVIES",MyCinema Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/415
+#EXTINF:-1 tvg-id="My Family" tvg-name="MyFamily Cinema" tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="MOVIES",MyFamily Cinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/416
+#EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="MOVIES",&Flix HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/141
+#EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="MOVIES",&Prive HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/63
+#EXTINF:-1 tvg-id="IMC" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="MOVIES",Star Movies (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/220
+#EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="MOVIES",Star Movie Select
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/221
+#EXTINF:-1 tvg-id="IMC" tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES",SONY Pix (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/223
+#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="MOVIES",MNX HD (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/222
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="MOVIES",Galaxy
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/66
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="MOVIES",Galaxy Premium
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/67
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="MOVIES",HITS Movies
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/68
+#EXTINF:-1 tvg-id="Cinema World HD" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES",CinemaWorld
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/69
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="MOVIES",Thrill
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
+#EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
 
 
 
