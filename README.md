@@ -1,6 +1,6 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩LIVE EVENT🚩",INDONESIA VS IRAQ   
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩KUALIFIKASI PIALA DUNIA🚩",INDONESIA VS IRAQ   
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
