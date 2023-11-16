@@ -1,16 +1,16 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
  
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
 http://103.166.27.2:8112/play/a015
 
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 7
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 2
 https://stream.ayas.ir/hls2/bein5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 3
+http://mytv-extra.com/D85A79B4/55A7743D/212534
 
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 5
+#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf                                   
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",LIVE ONLY
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
