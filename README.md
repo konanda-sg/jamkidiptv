@@ -1,12 +1,6 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩KUALIFIKASI PIALA DUNIA🚩",INDONESIA VS IRAQ   
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZMb7xR/live-stream.png", group-title="🚩KUALIFIKASI PIALA DUNIA🚩",INDONESIA VS IRAQ  
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
 http://103.166.27.2:8112/play/a015
 
@@ -87,6 +81,157 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="net.id" tvg-name="[ID] Inews TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1200px-INews_TV_logo.svg.png" group-title=" [VIP] Indonesia",[ID] Inews TV
+https://ktpremium.com:443/ZM1735/738384/73605
+#EXTINF:-1 tvg-id="rcti.id" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title=" [VIP] Indonesia",[ID] RCTI
+https://ktpremium.com:443/ZM1735/738384/73606
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="[ID] SCTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title=" [VIP] Indonesia",[ID] SCTV
+https://ktpremium.com:443/ZM1735/738384/73607
+#EXTINF:-1 tvg-id="trans.id" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title=" [VIP] Indonesia",[ID] Trans TV
+https://ktpremium.com:443/ZM1735/738384/73608
+#EXTINF:-1 tvg-id="trans.7.id" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title=" [VIP] Indonesia",[ID] Trans 7
+https://ktpremium.com:443/ZM1735/738384/73609
+#EXTINF:-1 tvg-id="tvone.id" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title=" [VIP] Indonesia",[ID] TV One
+https://ktpremium.com:443/ZM1735/738384/73610
+#EXTINF:-1 tvg-id="metro.id" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title=" [VIP] Indonesia",[ID] Metro TV
+https://ktpremium.com:443/ZM1735/738384/73611
+#EXTINF:-1 tvg-id="kompas.id" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title=" [VIP] Indonesia",[ID] Kompas TV
+https://ktpremium.com:443/ZM1735/738384/73612
+#EXTINF:-1 tvg-id="cnn.international.id" tvg-name="[ID] CNN Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn_id.png" group-title=" [VIP] Indonesia",[ID] CNN Indonesia
+https://ktpremium.com:443/ZM1735/738384/73613
+#EXTINF:-1 tvg-id="berita.satu.id" tvg-name="[ID] Berita Satu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/berita-satu-news-channel-id.png" group-title=" [VIP] Indonesia",[ID] Berita Satu
+https://ktpremium.com:443/ZM1735/738384/73614
+#EXTINF:-1 tvg-id="inews.id" tvg-name="[ID] Indonesiana tv" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1641920474-.png" group-title=" [VIP] Indonesia",[ID] Indonesiana tv
+https://ktpremium.com:443/ZM1735/738384/73615
+#EXTINF:-1 tvg-id="mnctv.id" tvg-name="[ID] MNC TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title=" [VIP] Indonesia",[ID] MNC TV
+https://ktpremium.com:443/ZM1735/738384/73616
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="[ID] Indosiar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title=" [VIP] Indonesia",[ID] Indosiar
+https://ktpremium.com:443/ZM1735/738384/73617
+#EXTINF:-1 tvg-id="antv.id" tvg-name="[ID] ANTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" group-title=" [VIP] Indonesia",[ID] ANTV
+https://ktpremium.com:443/ZM1735/738384/73618
+#EXTINF:-1 tvg-id="gtv.id" tvg-name="[ID] GTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gtv-id.png" group-title=" [VIP] Indonesia",[ID] GTV
+https://ktpremium.com:443/ZM1735/738384/73619
+#EXTINF:-1 tvg-id="tvri.id" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title=" [VIP] Indonesia",[ID] TVRI
+https://ktpremium.com:443/ZM1735/738384/73620
+#EXTINF:-1 tvg-id="jaktv.id" tvg-name="[ID] JakTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title=" [VIP] Indonesia",[ID] JakTV
+https://ktpremium.com:443/ZM1735/738384/73626
+#EXTINF:-1 tvg-id="jaktv.id" tvg-name="[ID] JTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title=" [VIP] Indonesia",[ID] JTV
+https://ktpremium.com:443/ZM1735/738384/73627
+#EXTINF:-1 tvg-id="9999" tvg-name="[ID] TV9 NU" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv9_surabaya_id.png" group-title=" [VIP] Indonesia",[ID] TV9 NU
+https://ktpremium.com:443/ZM1735/738384/73629
+#EXTINF:-1 tvg-id="9999" tvg-name="[ID] Rajawali TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title=" [VIP] Indonesia",[ID] Rajawali TV
+https://ktpremium.com:443/ZM1735/738384/73631
+#EXTINF:-1 tvg-id="entertainment.id" tvg-name="[ID] Entertainment" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" group-title=" [VIP] Indonesia",[ID] Entertainment
+https://ktpremium.com:443/ZM1735/738384/73636
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="[ID] IMC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imc-id.png" group-title=" [VIP] Indonesia",[ID] IMC
+https://ktpremium.com:443/ZM1735/738384/73869
+#EXTINF:-1 tvg-id="zee.bioskop.id" tvg-name="[ID] Bioskop Indonesia" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bioskop_id.png" group-title=" [VIP] Indonesia",[ID] Bioskop Indonesia
+https://ktpremium.com:443/ZM1735/738384/73873
+#EXTINF:-1 tvg-id="13739" tvg-name="[ID] Citra drama " tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-drama-id.png" group-title=" [VIP] Indonesia",[ID] Citra drama 
+https://ktpremium.com:443/ZM1735/738384/901193
+#EXTINF:-1 tvg-id="9999" tvg-name="[ID] Citra Dangdut" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/citra-dangdut-id.png" group-title=" [VIP] Indonesia",[ID] Citra Dangdut
+https://ktpremium.com:443/ZM1735/738384/901194
+#EXTINF:-1 tvg-id="vision.prime.id" tvg-name="[ID] XING KONG TV" tvg-logo="https://img.mksucai.com/00/15/28/ca4a00d19dd6ad65.webp" group-title=" [VIP] Indonesia",[ID] XING KONG TV
+https://ktpremium.com:443/ZM1735/738384/73875
+#EXTINF:-1 tvg-id="berita.satu.id" tvg-name="[ID] Berita Satu World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/BeritaSatuWorld.png/512px-BeritaSatuWorld.png" group-title=" [VIP] Indonesia",[ID] Berita Satu World
+https://ktpremium.com:443/ZM1735/738384/886796
+#EXTINF:-1 tvg-id="jiangsu.cn" tvg-name="[ID] Jiangsu TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title=" [VIP] Indonesia",[ID] Jiangsu TV
+https://ktpremium.com:443/ZM1735/738384/73878
+#EXTINF:-1 tvg-id="hunan.cn" tvg-name="[ID] Hunan TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan_cn_tv.png" group-title=" [VIP] Indonesia",[ID] Hunan TV
+https://ktpremium.com:443/ZM1735/738384/73879
+#EXTINF:-1 tvg-id="dongfang.cn" tvg-name="[ID] Shanghai Dragon TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dragon-tv-cn.png" group-title=" [VIP] Indonesia",[ID] Shanghai Dragon TV
+https://ktpremium.com:443/ZM1735/738384/73880
+#EXTINF:-1 tvg-id="anhui.cn" tvg-name="[ID] Anhui TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/anhui-satellite-tv-cn.png" group-title=" [VIP] Indonesia",[ID] Anhui TV
+https://ktpremium.com:443/ZM1735/738384/73882
+#EXTINF:-1 tvg-id="lifestyle.fashion.id" tvg-name=" [ID] LifeStyle Fashion" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title=" [VIP] Indonesia", [ID] LifeStyle Fashion
+https://ktpremium.com:443/ZM1735/738384/73982
+#EXTINF:-1 tvg-id="tvn.id" tvg-name="[ID] TvN" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title=" [VIP] Indonesia",[ID] TvN
+https://ktpremium.com:443/ZM1735/738384/73985
+#EXTINF:-1 tvg-id="tvn.movies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvnmovies.png" group-title=" [VIP] Indonesia",[ID] TvN Movies
+https://ktpremium.com:443/ZM1735/738384/73986
+#EXTINF:-1 tvg-id="one.id" tvg-name="[ID] Sony One" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title=" [VIP] Indonesia",[ID] Sony One
+https://ktpremium.com:443/ZM1735/738384/73987
+#EXTINF:-1 tvg-id="gem.my" tvg-name="[ID] SGem HD(FHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png" group-title=" [VIP] Indonesia",[ID] SGem HD(FHD)
+https://ktpremium.com:443/ZM1735/738384/73989
+#EXTINF:-1 tvg-id="arirang.id" tvg-name="[ID] Arirang" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/arirang_kr.png" group-title=" [VIP] Indonesia",[ID] Arirang
+https://ktpremium.com:443/ZM1735/738384/73990
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Dhamma TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title=" [VIP] Indonesia",[ID] Dhamma TV
+https://ktpremium.com:443/ZM1735/738384/886807
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVMU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Www.tvmu.co.id_2013.png" group-title=" [VIP] Indonesia",[ID] TVMU
+https://ktpremium.com:443/ZM1735/738384/886811
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Jogja Istimewa TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title=" [VIP] Indonesia",[ID] Jogja Istimewa TV
+https://ktpremium.com:443/ZM1735/738384/886828
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Madu TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png" group-title=" [VIP] Indonesia",[ID] Madu TV
+https://ktpremium.com:443/ZM1735/738384/886833
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title=" [VIP] Indonesia",[ID] MQTV
+https://ktpremium.com:443/ZM1735/738384/886836
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Sangaji TV" tvg-logo="https://i.imgur.com/GOuGjwr.png" group-title=" [VIP] Indonesia",[ID] Sangaji TV
+https://ktpremium.com:443/ZM1735/738384/886841
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Inspiratv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png/" group-title=" [VIP] Indonesia",[ID] Inspiratv
+https://ktpremium.com:443/ZM1735/738384/886843
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title=" [VIP] Indonesia",[ID] TVKU
+https://ktpremium.com:443/ZM1735/738384/900813
+#EXTINF:-1 tvg-id="9999" tvg-name="[ID] Nusantaratv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title=" [VIP] Indonesia",[ID] Nusantaratv
+https://ktpremium.com:443/ZM1735/738384/34721
+#EXTINF:-1 tvg-id="idx.id" tvg-name="[ID] Smithsonian" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title=" [VIP] Indonesia",[ID] Smithsonian
+https://ktpremium.com:443/ZM1735/738384/917012
+#EXTINF:-1 tvg-id="" tvg-name="[ID] DAAI TV" tvg-logo="https://www.alinear.id/assets_web/images/article/daai-06_parabolakucom.jpg" group-title=" [VIP] Indonesia",[ID] DAAI TV
+https://ktpremium.com:443/ZM1735/738384/921746
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bandung TV" tvg-logo="https://static.visionplus.id/images/channel/c403f3ca/0649.PNG" group-title=" [VIP] Indonesia",[ID] Bandung TV
+https://ktpremium.com:443/ZM1735/738384/921747
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Biznet Adventure" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title=" [VIP] Indonesia",[ID] Biznet Adventure
+https://ktpremium.com:443/ZM1735/738384/923599
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Biznet Lifestyle" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeLifestyle.jpg" group-title=" [VIP] Indonesia",[ID] Biznet Lifestyle
+https://ktpremium.com:443/ZM1735/738384/923600
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Biznet Kids" tvg-logo="https://wapfever.com/upload/Posters%20800/Biznet.png" group-title=" [VIP] Indonesia",[ID] Biznet Kids
+https://ktpremium.com:443/ZM1735/738384/923601
+#EXTINF:-1 tvg-id="" tvg-name="[ID] EWTN" tvg-logo="https://www.ewtn.com/img/ewtn-logo.jpg" group-title=" [VIP] Indonesia",[ID] EWTN
+https://ktpremium.com:443/ZM1735/738384/946466
+#EXTINF:-1 tvg-id="" tvg-name="[ID] AlQuran AlKareem" tvg-logo="" group-title=" [VIP] Indonesia",[ID] AlQuran AlKareem
+https://ktpremium.com:443/ZM1735/738384/946467
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Tawaf TV" tvg-logo="https://tawaf.tv/wp-content/uploads/2023/08/512x512bb.jpg" group-title=" [VIP] Indonesia",[ID] Tawaf TV
+https://ktpremium.com:443/ZM1735/738384/946468
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://pbs.twimg.com/media/ENvOCZrU8AYKgLh.jpg" group-title=" [VIP] Indonesia",[ID] Vision Prime
+https://ktpremium.com:443/ZM1735/738384/946469
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Muslim TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/MNC_Muslim1.png" group-title=" [VIP] Indonesia",[ID] Muslim TV
+https://ktpremium.com:443/ZM1735/738384/946470
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Music TV" tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_111.png" group-title=" [VIP] Indonesia",[ID] Music TV
+https://ktpremium.com:443/ZM1735/738384/946471
+#EXTINF:-1 tvg-id="" tvg-name="[ID] IDX" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png" group-title=" [VIP] Indonesia",[ID] IDX
+https://ktpremium.com:443/ZM1735/738384/947691
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/MNCEntertainment_tegak.png" group-title=" [VIP] Indonesia",[ID] MNC Entertainment
+https://ktpremium.com:443/ZM1735/738384/947692
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC Infotainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Channel-mncinfotainment.png" group-title=" [VIP] Indonesia",[ID] MNC Infotainment
+https://ktpremium.com:443/ZM1735/738384/947693
+#EXTINF:-1 tvg-id="" tvg-name="[ID] OK TV" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png" group-title=" [VIP] Indonesia",[ID] OK TV
+https://ktpremium.com:443/ZM1735/738384/947694
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SEAToday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title=" [VIP] Indonesia",[ID] SEAToday
+https://ktpremium.com:443/ZM1735/738384/947784
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SindoNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png" group-title=" [VIP] Indonesia",[ID] SindoNews
+https://ktpremium.com:443/ZM1735/738384/947785
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ZEEBioskop" tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title=" [VIP] Indonesia",[ID] ZEEBioskop
+https://ktpremium.com:443/ZM1735/738384/947786
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/220px-MTV_Logo.svg.png" group-title=" [VIP] Indonesia",[ID] MTV
+https://ktpremium.com:443/ZM1735/738384/947787
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MTV 90S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1816px-MTV_90s_2022.svg.png" group-title=" [VIP] Indonesia",[ID] MTV 90S
+https://ktpremium.com:443/ZM1735/738384/947788
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Jawa Pos TV" tvg-logo="https://www.majalahict.com/wp-content/uploads/2020/02/jawa-pos-tv.jpg" group-title=" [VIP] Indonesia",[ID] Jawa Pos TV
+https://ktpremium.com:443/ZM1735/738384/947789
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RockEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title=" [VIP] Indonesia",[ID] RockEntertainment
+https://ktpremium.com:443/ZM1735/738384/947915
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title=" [VIP] Indonesia",[ID] RockAction
+https://ktpremium.com:443/ZM1735/738384/947916
+#EXTINF:-1 tvg-id="" tvg-name="[ID] KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title=" [VIP] Indonesia",[ID] KIX
+https://ktpremium.com:443/ZM1735/738384/947917
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.qa" tvg-name="AR| beIN SPORTS 1 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN",beIN SPORTS 1 SD Ⓛ
 http://smart-tv.cc:8080/live/steveny5997/54332611/513022.m3u8
