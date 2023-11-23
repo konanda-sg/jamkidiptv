@@ -45,16 +45,25 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157591  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC8DWcR/Global-TV-Indonesia.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", GTV HD
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/157578
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165054
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", I NEWS
+http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165058
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
