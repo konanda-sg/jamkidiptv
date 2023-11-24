@@ -1,5 +1,9 @@
 -------------------------------PLAYLIST UNTUK ANGGOTA BERBAGI APLIKASI DAN PALYLIST GRATIS-----------------------
                                      JANGAN DIJUAL,PEMAKAIAN PRIBADI SAJA
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title="UTAMAKAN SHOLAWAT",ST NYELL
+https://www.dropbox.com/scl/fi/hy6w2mmx8w4qwja9sd7jx/KATA-KATA-STORY-WA-GUS-IQDAM-MUHAMMAD-TERBARU-VIRAL-TIKTOK.mp4?rlkey=dolfezkbftcopxuckmoscmc9h&dl=1
+                                     
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_241123/master_p4.m3u8?utm_medium=social&utm_source=heylink.me   
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 1
