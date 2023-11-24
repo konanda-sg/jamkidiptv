@@ -84,7 +84,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nz94D2z/NET-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", NET. HD
 http://humiptv.live:8080/live/56565656/56565656/151268.ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
