@@ -10,17 +10,8 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_241123/master_p4.m3u8?utm_medium=social&utm_source=heylink.me       
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 2
 http://43.175.45.147/play.cbalive.weibisai.com/live/3430462258454061_AiSD.m3u8?txSecret=4b898faa94d5cc5c73f4150e6ab0daf7&txTime=655FD970&utm_medium=social&utm_source=heylink.me   
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 1
-http://103.166.27.2:8112/play/a015
 
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 2
-https://stream.ayas.ir/hls2/bein5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 3
-http://mytv-extra.com/D85A79B4/55A7743D/212534
-
-#EXTINF:-1 tvg-id="" tvg-name="TIMNAS U 17" tvg-logo="https://i.ibb.co/7NpnZgr/Piala-Dunia-U-17-FIFA-2023.png" group-title="FIFA WORLD CUP U17",Server 4
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf                                   
+                               
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",LIVE ONLY
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="FIFA WORLD CUP U17" tvg-id="" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png",FIFA+ EVENT 1
