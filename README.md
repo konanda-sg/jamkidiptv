@@ -1010,45 +1010,46 @@ http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197055
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/221948
 #EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="MOVIES",SHOWCASE MOVIES
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/17041
+
 #EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="MOVIES",Rock Action HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1045
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298490
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount Network" tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="MOVIES",Paramount Network
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/417
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298564
 #EXTINF:-1 tvg-id="My Cinema" tvg-name="MyCinema" tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="MOVIES",MyCinema
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/414
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298553
 #EXTINF:-1 tvg-id="My Cinema Asia" tvg-name="MyCinema Asia" tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="MOVIES",MyCinema Asia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/415
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298554
 #EXTINF:-1 tvg-id="My Family" tvg-name="MyFamily Cinema" tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="MOVIES",MyFamily Cinema
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/416
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/298555
 #EXTINF:-1 tvg-id="IMC" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="MOVIES",&Flix HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/141
+
 #EXTINF:-1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="MOVIES",&Prive HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/63
+
 #EXTINF:-1 tvg-id="IMC" tvg-name="Star Movies (FHD)" tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="MOVIES",Star Movies (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/220
+
 #EXTINF:-1 tvg-id="STAR Movies Select HD" tvg-name="Star Movie Select" tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="MOVIES",Star Movie Select
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/221
 #EXTINF:-1 tvg-id="IMC" tvg-name="SONY Pix (FHD)" tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="MOVIES",SONY Pix (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/223
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/49539
 #EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD (FHD)" tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="MOVIES",MNX HD (FHD)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/222
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197964
 #EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="MOVIES",Galaxy
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/66
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/264773
 #EXTINF:-1 tvg-id="Galaxy Premium" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="MOVIES",Galaxy Premium
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/67
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/264774
 #EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="MOVIES",HITS Movies
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/68
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/221947
 #EXTINF:-1 tvg-id="Cinema World HD" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES",CinemaWorld
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/69
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165082
 #EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="MOVIES",Thrill
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157580
 #EXTINF:-1 tvg-id="IMC" tvg-name="IMC" tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="MOVIES",IMC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/264769
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165095
 ============================================================================================================================
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (E)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
