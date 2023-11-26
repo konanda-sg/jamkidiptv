@@ -1000,18 +1000,15 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
 
 ================================================================================================================================
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO FHD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (M)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (M)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/54
+
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO (ID)" tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO (ID)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197972
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/196480
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197055
 #EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/221948
 #EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="MOVIES",SHOWCASE MOVIES
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
 #EXTINF:-1 tvg-id="RockAction" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="MOVIES",Rock Action HD
