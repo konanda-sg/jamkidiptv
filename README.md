@@ -16,12 +16,7 @@ https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA
 
 
                                      
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_241123/master_p4.m3u8?utm_medium=social&utm_source=heylink.me   
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 1
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099894/hd_akamai_merged_avc_eng_bwf_m2_241123/master_p4.m3u8?utm_medium=social&utm_source=heylink.me       
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WgzX498/Badminton4-U.jpg", group-title="🚩BWF🚩",CHINA MASTER 2
-http://43.175.45.147/play.cbalive.weibisai.com/live/3430462258454061_AiSD.m3u8?txSecret=4b898faa94d5cc5c73f4150e6ab0daf7&txTime=655FD970&utm_medium=social&utm_source=heylink.me   
+
 
                                
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA WORLD CUP U17",LIVE ONLY
