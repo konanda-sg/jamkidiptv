@@ -15,11 +15,6 @@ https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA
 
 
 
-                                     
-
-
-                               
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -33,7 +28,6 @@ http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
 
-======================================================================WC=======================================================
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
