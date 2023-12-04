@@ -649,8 +649,7 @@ https://edge1.laotv.la/live/TSport1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , Espn 4 sd
 http://7go.xyz:8080/PedroLucianoBrooks/can7344brtv/18672
-#EXTINF:-1 tvg-logo="https://i-fries.bunkr.ru/liga-inggris-UgDH2FaG.png?download=true" group-title="Liga EROPA"  , +foot direct
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297371
+
 
 
 
