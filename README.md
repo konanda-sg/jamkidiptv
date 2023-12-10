@@ -12,11 +12,7 @@ https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",CAMELIA
 https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA-TASYA-ROSMALA-OM.-ADELLA-LIVE-DI-HJS-PAMEKASAN-MADURA.mp4?rlkey=heqykn0jmdoq5bi672xvx2gns&dl=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gp2wz1R/soccerchannel.png" group-title="MNC VISION", SOCCER CHANNEL
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
