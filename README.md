@@ -47,8 +47,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XXnRTRj/MNCTV-logo.png" group-title="🇮🇩 NASIONAL 🇮🇩", I NEWS
-http://37.49.225.197:8080/pachaman/kcxSPa4CExFPFjm2/165058
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9QfGJv/INews.png" group-title="🇮🇩 NASIONAL 🇮🇩", I NEWS
+http://iptvmedia.live:8080/argoni150Con/gPT9F27zGRXv3MfDqH5sY4/157579
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/km3s31K/rtv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
