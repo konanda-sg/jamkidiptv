@@ -21,8 +21,8 @@ https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
  
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 3
-http://103.166.27.2:8112/play/a016/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI 2
+http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
 
