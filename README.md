@@ -66,7 +66,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 https://bit.ly/3MeFJVc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
-http://103.30.87.238:443/wadmanet/norlec212/907
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"group-logo="https://s.id/1LDhj" tvg-id="MOJI" tvg-logo="https://www.dropbox.com/s/1inleddhpyh213r/20230607_204258.png?dl=1",Moji TV
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
