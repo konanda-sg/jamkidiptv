@@ -89,27 +89,29 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8aff9f98a00e5859162fd8e3f8e13ff3.jpg" group-title="BEIN ➾ Sports",beIN Sports
+http://myteve.online:8080/F12232/f23d27c1/280725
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="BEIN ➾ Sports",beIN Sports 1
+http://myteve.online:8080/F12232/f23d27c1/100
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="BEIN ➾ Sports",beIN Sports 2
+http://myteve.online:8080/F12232/f23d27c1/101
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="BEIN ➾ Sports",beIN Sports 3
+http://myteve.online:8080/F12232/f23d27c1/102
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="BEIN ➾ Sports",beIN Sports 4
+http://myteve.online:8080/F12232/f23d27c1/103
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="BEIN ➾ Sports",beIN Sports 5
+http://myteve.online:8080/F12232/f23d27c1/104
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="BEIN ➾ Sports",beIN Sports 6
+http://myteve.online:8080/F12232/f23d27c1/105
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="BEIN ➾ Sports",beIN Sports 7
+http://myteve.online:8080/F12232/f23d27c1/106
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="BEIN ➾ Sports",beIN Sports English 1
+http://myteve.online:8080/F12232/f23d27c1/110
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="BEIN ➾ Sports",beIN Sports English 3
+http://myteve.online:8080/F12232/f23d27c1/267769
 
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports1.qa" tvg-name="AR| beIN SPORTS 1 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEIN",beIN SPORTS 1 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513022.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports2.qa" tvg-name="AR| beIN SPORTS 2 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 2 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513023.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports3.qa" tvg-name="AR| beIN SPORTS 3 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 3 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513024.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports4.qa" tvg-name="AR| beIN SPORTS 4 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 4 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513025.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports5.qa" tvg-name="AR| beIN SPORTS 5 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 5 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513026.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports6.qa" tvg-name="AR| beIN SPORTS 6 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 6 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513027.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports7.qa" tvg-name="AR| beIN SPORTS 7 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEIN", beIN SPORTS 7 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513028.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports8.qa" tvg-name="AR| beIN SPORTS 8 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEIN",AR| beIN SPORTS 8 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513029.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beinsports9.qa" tvg-name="AR| beIN SPORTS 9 SD Ⓛ" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEIN", beIN SPORTS 9 SD Ⓛ
-http://smart-tv.cc:8080/live/steveny5997/54332611/513030.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="Malaysia",8TV
 http://myteve.online:8080/F12232/f23d27c1/171968
