@@ -112,87 +112,151 @@ http://smart-tv.cc:8080/live/steveny5997/54332611/513029.m3u8
 http://smart-tv.cc:8080/live/steveny5997/54332611/513030.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="Malaysia",8TV
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/171968
+http://myteve.online:8080/F12232/f23d27c1/171968
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="Malaysia",Animax
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157486
+http://myteve.online:8080/F12232/f23d27c1/157486
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="Malaysia",Astro Arena
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157485
+http://myteve.online:8080/F12232/f23d27c1/157485
 #EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia",Astro Awani
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157478
+http://myteve.online:8080/F12232/f23d27c1/157478
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia",Astro Cricket
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157565
+http://myteve.online:8080/F12232/f23d27c1/157565
 #EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="Malaysia",Astro Oasis
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157489
+http://myteve.online:8080/F12232/f23d27c1/157489
 #EXTINF:-1 tvg-id="" tvg-name="Astro Prima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia",Astro Prima
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157467
+http://myteve.online:8080/F12232/f23d27c1/157467
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Malaysia",Astro SuperSport
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/146068
+http://myteve.online:8080/F12232/f23d27c1/146068
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Malaysia",Astro SuperSport 2
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157556
+http://myteve.online:8080/F12232/f23d27c1/157556
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Malaysia",Astro SuperSport 3
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157557
+http://myteve.online:8080/F12232/f23d27c1/157557
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Malaysia",Astro SuperSport 4
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157558
+http://myteve.online:8080/F12232/f23d27c1/157558
 #EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="Malaysia",Astro SuperSport 5
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/287792
+http://myteve.online:8080/F12232/f23d27c1/287792
 #EXTINF:-1 tvg-id="" tvg-name="Astro Vaanavil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="Malaysia",Astro Vaanavil
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/201163
+http://myteve.online:8080/F12232/f23d27c1/201163
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/2d7d739d57aa860159c36df8c746c779.png" group-title="Malaysia",AXN
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157542
+http://myteve.online:8080/F12232/f23d27c1/157542
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="Malaysia",BBC Earth
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/171979
+http://myteve.online:8080/F12232/f23d27c1/171979
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="Malaysia",beIN Sports
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157561
+http://myteve.online:8080/F12232/f23d27c1/157561
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="Malaysia",Boomerang
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/171955
+http://myteve.online:8080/F12232/f23d27c1/171955
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies (CCM)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="Malaysia",Celestial Classic Movies (CCM)
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157512
+http://myteve.online:8080/F12232/f23d27c1/157512
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="Malaysia",Celestial Movies
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/174687
+http://myteve.online:8080/F12232/f23d27c1/174687
 #EXTINF:-1 tvg-id="" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="Malaysia",Crime+ Investigation
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157554
+http://myteve.online:8080/F12232/f23d27c1/157554
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="Malaysia",Discovery Science
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157530
+http://myteve.online:8080/F12232/f23d27c1/157530
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Malaysia",Dreamworks
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/171959
+http://myteve.online:8080/F12232/f23d27c1/171959
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Malaysia",FOX SPORTS 2
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157488
-#EXTINF:-1 tvg-id="" tvg-name="GO SHOP" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/2e10818ae32a06e6561f9dd7d5f6b12d.png" group-title="Malaysia",GO SHOP
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/264511
+http://myteve.online:8080/F12232/f23d27c1/157488
+
 #EXTINF:-1 tvg-id="" tvg-name="Harvest TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Malaysia",Harvest TV
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/299917
+http://myteve.online:8080/F12232/f23d27c1/299917
 #EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia",Hits
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157545
+http://myteve.online:8080/F12232/f23d27c1/157545
 #EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="Malaysia",HITS Movies
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157477
+http://myteve.online:8080/F12232/f23d27c1/157477
 #EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Malaysia",KIX
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/299963
+http://myteve.online:8080/F12232/f23d27c1/299963
 #EXTINF:-1 tvg-id="" tvg-name="Local Now Family Flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="Malaysia",Local Now Family Flix
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/296889
+http://myteve.online:8080/F12232/f23d27c1/296889
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/02fe87f4680ce4c67197ba3c4c5bf9c7.png" group-title="Malaysia",MTV
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157555
+http://myteve.online:8080/F12232/f23d27c1/157555
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Malaysia",Nick Jr
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157546
+http://myteve.online:8080/F12232/f23d27c1/157546
 #EXTINF:-1 tvg-id="" tvg-name="NTV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="Malaysia",NTV 7
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/174695
+http://myteve.online:8080/F12232/f23d27c1/174695
 #EXTINF:-1 tvg-id="" tvg-name="RTB Sukmaindera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="Malaysia",RTB Sukmaindera
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/299546
+http://myteve.online:8080/F12232/f23d27c1/299546
 #EXTINF:-1 tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="Malaysia",RTM TV 1
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/158357
+http://myteve.online:8080/F12232/f23d27c1/158357
 #EXTINF:-1 tvg-id="" tvg-name="RTM TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="Malaysia",RTM TV 2
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/158355
-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="Malaysia",TV 3
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/158360
+http://myteve.online:8080/F12232/f23d27c1/158355
+
 #EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="Malaysia",TV 9
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/171953
+http://myteve.online:8080/F12232/f23d27c1/171953
 #EXTINF:-1 tvg-id="" tvg-name="TV Alhijrah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="Malaysia",TV Alhijrah
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157491
+http://myteve.online:8080/F12232/f23d27c1/157491
 #EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="Malaysia",TVN Movies
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/297499
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="Malaysia",Warner TV
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/157550
+http://myteve.online:8080/F12232/f23d27c1/297499
+
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/5eabe0c961429618554b9009d9a2fe6a.png" group-title="Malaysia",ZooMoo
-http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/285308
+http://myteve.online:8080/F12232/f23d27c1/285308
+
+#EXTINF:-1 tvg-id="" tvg-name="Amarin 34" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="Thailand",Amarin 34
+http://myteve.online:8080/F12232/f23d27c1/146703
+
+#EXTINF:-1 tvg-id="" tvg-name="Bayon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="Thailand",Bayon TV
+http://myteve.online:8080/F12232/f23d27c1/23852
+#EXTINF:-1 tvg-id="" tvg-name="BBTV Channel 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="Thailand",BBTV Channel 7
+http://myteve.online:8080/F12232/f23d27c1/23853
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="Thailand",Cartoon Network
+http://myteve.online:8080/F12232/f23d27c1/172166
+#EXTINF:-1 tvg-id="" tvg-name="Channel 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" group-title="Thailand",Channel 3
+http://myteve.online:8080/F12232/f23d27c1/266866
+
+#EXTINF:-1 tvg-id="" tvg-name="CTB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="Thailand",CTB TV
+http://myteve.online:8080/F12232/f23d27c1/23858
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="Thailand",Discovery Asia
+http://myteve.online:8080/F12232/f23d27c1/264824
+
+#EXTINF:-1 tvg-id="" tvg-name="DMC TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",DMC TV
+http://myteve.online:8080/F12232/f23d27c1/299487
+
+#EXTINF:-1 tvg-id="" tvg-name="Fast & FunBox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e9cc9f108bb21a76bd594dc65cb79050.png" group-title="Thailand",Fast & FunBox
+http://myteve.online:8080/F12232/f23d27c1/281630
+#EXTINF:-1 tvg-id="" tvg-name="Global Buddhist Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="Thailand",Global Buddhist Network
+http://myteve.online:8080/F12232/f23d27c1/299375
+
+#EXTINF:-1 tvg-id="" tvg-name="Good Idea TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" group-title="Thailand",Good Idea TV
+http://myteve.online:8080/F12232/f23d27c1/146728
+#EXTINF:-1 tvg-id="" tvg-name="Greenwave" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8a5b1a79a678728a6de2acee804062ed.png" group-title="Thailand",Greenwave
+http://myteve.online:8080/F12232/f23d27c1/146725
+
+#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" group-title="Thailand",MCOT HD
+http://myteve.online:8080/F12232/f23d27c1/145029
+#EXTINF:-1 tvg-id="" tvg-name="Mono 29" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" group-title="Thailand",Mono 29
+http://myteve.online:8080/F12232/f23d27c1/146760
+
+#EXTINF:-1 tvg-id="" tvg-name="New 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="Thailand",New 18
+http://myteve.online:8080/F12232/f23d27c1/15004
+#EXTINF:-1 tvg-id="" tvg-name="News 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="Thailand",News 1
+http://myteve.online:8080/F12232/f23d27c1/174663
+#EXTINF:-1 tvg-id="" tvg-name="PPTV HD 36" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" group-title="Thailand",PPTV HD 36
+http://myteve.online:8080/F12232/f23d27c1/281639
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",SBT TV
+http://myteve.online:8080/F12232/f23d27c1/299488
+#EXTINF:-1 tvg-id="" tvg-name="Thai Channel 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" group-title="Thailand",Thai Channel 8
+http://myteve.online:8080/F12232/f23d27c1/146796
+#EXTINF:-1 tvg-id="" tvg-name="Thai Parliament TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="Thailand",Thai Parliament TV
+http://myteve.online:8080/F12232/f23d27c1/285565
+#EXTINF:-1 tvg-id="" tvg-name="Thai PBS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="Thailand",Thai PBS 3
+http://myteve.online:8080/F12232/f23d27c1/145027
+#EXTINF:-1 tvg-id="" tvg-name="Thai TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="Thailand",Thai TV 5
+http://myteve.online:8080/F12232/f23d27c1/162537
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="Thailand",Thairath TV 32
+http://myteve.online:8080/F12232/f23d27c1/23909
+
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="Thailand",True Premiere Football 1
+http://myteve.online:8080/F12232/f23d27c1/162591
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="Thailand",True Sport 4
+http://myteve.online:8080/F12232/f23d27c1/285569
+#EXTINF:-1 tvg-id="" tvg-name="TrueVisions" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/50acfdca2c374a6bee214aac68d558e7.png" group-title="Thailand",TrueVisions
+http://myteve.online:8080/F12232/f23d27c1/146806
+#EXTINF:-1 tvg-id="" tvg-name="Umm TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="Thailand",Umm TV
+http://myteve.online:8080/F12232/f23d27c1/158644
+
+#EXTINF:-1 tvg-id="" tvg-name="White Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="Thailand",White Channel
+http://myteve.online:8080/F12232/f23d27c1/23908
+
 
 
 
@@ -622,24 +686,6 @@ https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 ===============================================================================================================================
-#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/gMJG9Sy/bbbbb.png" group-title="KNOWLEDGE",BBC Earth
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/90
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="KNOWLEDGE",DMAX
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/91
-#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="KNOWLEDGE",History
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/92
-#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="KNOWLEDGE",Nat Geo Wild
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/95
-#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/TcyfXJg/cdcd.png" group-title="KNOWLEDGE",Animal Planet
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/96
-#EXTINF:-1 tvg-id="DiscoveryChannel.MACAN" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/1z4b36S/dg.png" group-title="KNOWLEDGE",Discovery Channel
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/97
-#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="KNOWLEDGE",Discovery Asia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
-#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFC" tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="KNOWLEDGE",AFC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
-#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="KNOWLEDGE",TLC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
 
 ================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="MOVIES",Paramount Network
@@ -738,28 +784,7 @@ http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/264769
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165095
 ============================================================================================================================
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (E)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (E)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network (ID)" tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="KIDS",Cartoon Network (ID)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
-#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="KIDS",Dreamworks
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="KIDS",Boomerang
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
-#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",Nickelodeon
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
-#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="KIDS",Nick Jr
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
-#EXTINF:-1 tvg-id="" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="KIDS",Moonbug
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="KIDS",Horee
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="KIDS",My Kidz
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/131
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="KIDS",Baby TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/182
-#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="KIDS",BabyFirst
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/132
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="DE| FIFA+ FHD" tvg-logo="" group-title="FIFA ",LIVE ONLY
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
