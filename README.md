@@ -25,7 +25,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
-
+http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
 
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
