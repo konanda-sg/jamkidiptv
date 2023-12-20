@@ -27,7 +27,7 @@ http://37.49.225.197:8080/silversatcom/uSKcm5tNBsrJ2HZE/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
 http://iptvaruba.com:8080/Kenann666/bpLTekVQBMD3yaWq/162138
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI
-
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
 --------------------------------------------------------------------LOKAL--------------------------------------------------------
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
