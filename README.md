@@ -90,7 +90,7 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
-
+============================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="LIGA INGGRIS",NOW SPORTS 1
 https://link.zozotv.xyz:443/rozila969/abc12345/836
@@ -114,6 +114,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/400252980
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40097
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40098
+========================================================================================================================================================================
 
 #EXTI#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -164,11 +165,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="MNC Sports Channels",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-
-
-
-
-
+=======================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e17423b3478a962cdb92c6c20a15f178.jpg" group-title="Malaysia",8TV
 http://myteve.online:8080/F12232/f23d27c1/171968
@@ -250,71 +247,7 @@ http://myteve.online:8080/F12232/f23d27c1/297499
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/5eabe0c961429618554b9009d9a2fe6a.png" group-title="Malaysia",ZooMoo
 http://myteve.online:8080/F12232/f23d27c1/285308
 
-#EXTINF:-1 tvg-id="" tvg-name="Amarin 34" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="Thailand",Amarin 34
-http://myteve.online:8080/F12232/f23d27c1/146703
-
-#EXTINF:-1 tvg-id="" tvg-name="Bayon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="Thailand",Bayon TV
-http://myteve.online:8080/F12232/f23d27c1/23852
-#EXTINF:-1 tvg-id="" tvg-name="BBTV Channel 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="Thailand",BBTV Channel 7
-http://myteve.online:8080/F12232/f23d27c1/23853
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="Thailand",Cartoon Network
-http://myteve.online:8080/F12232/f23d27c1/172166
-#EXTINF:-1 tvg-id="" tvg-name="Channel 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" group-title="Thailand",Channel 3
-http://myteve.online:8080/F12232/f23d27c1/266866
-
-#EXTINF:-1 tvg-id="" tvg-name="CTB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="Thailand",CTB TV
-http://myteve.online:8080/F12232/f23d27c1/23858
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="Thailand",Discovery Asia
-http://myteve.online:8080/F12232/f23d27c1/264824
-
-#EXTINF:-1 tvg-id="" tvg-name="DMC TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",DMC TV
-http://myteve.online:8080/F12232/f23d27c1/299487
-
-#EXTINF:-1 tvg-id="" tvg-name="Fast & FunBox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e9cc9f108bb21a76bd594dc65cb79050.png" group-title="Thailand",Fast & FunBox
-http://myteve.online:8080/F12232/f23d27c1/281630
-#EXTINF:-1 tvg-id="" tvg-name="Global Buddhist Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="Thailand",Global Buddhist Network
-http://myteve.online:8080/F12232/f23d27c1/299375
-
-#EXTINF:-1 tvg-id="" tvg-name="Good Idea TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" group-title="Thailand",Good Idea TV
-http://myteve.online:8080/F12232/f23d27c1/146728
-#EXTINF:-1 tvg-id="" tvg-name="Greenwave" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/8a5b1a79a678728a6de2acee804062ed.png" group-title="Thailand",Greenwave
-http://myteve.online:8080/F12232/f23d27c1/146725
-
-#EXTINF:-1 tvg-id="" tvg-name="MCOT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" group-title="Thailand",MCOT HD
-http://myteve.online:8080/F12232/f23d27c1/145029
-#EXTINF:-1 tvg-id="" tvg-name="Mono 29" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" group-title="Thailand",Mono 29
-http://myteve.online:8080/F12232/f23d27c1/146760
-
-#EXTINF:-1 tvg-id="" tvg-name="New 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="Thailand",New 18
-http://myteve.online:8080/F12232/f23d27c1/15004
-#EXTINF:-1 tvg-id="" tvg-name="News 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="Thailand",News 1
-http://myteve.online:8080/F12232/f23d27c1/174663
-#EXTINF:-1 tvg-id="" tvg-name="PPTV HD 36" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" group-title="Thailand",PPTV HD 36
-http://myteve.online:8080/F12232/f23d27c1/281639
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",SBT TV
-http://myteve.online:8080/F12232/f23d27c1/299488
-#EXTINF:-1 tvg-id="" tvg-name="Thai Channel 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" group-title="Thailand",Thai Channel 8
-http://myteve.online:8080/F12232/f23d27c1/146796
-#EXTINF:-1 tvg-id="" tvg-name="Thai Parliament TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="Thailand",Thai Parliament TV
-http://myteve.online:8080/F12232/f23d27c1/285565
-#EXTINF:-1 tvg-id="" tvg-name="Thai PBS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="Thailand",Thai PBS 3
-http://myteve.online:8080/F12232/f23d27c1/145027
-#EXTINF:-1 tvg-id="" tvg-name="Thai TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="Thailand",Thai TV 5
-http://myteve.online:8080/F12232/f23d27c1/162537
-#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="Thailand",Thairath TV 32
-http://myteve.online:8080/F12232/f23d27c1/23909
-
-#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="Thailand",True Premiere Football 1
-http://myteve.online:8080/F12232/f23d27c1/162591
-#EXTINF:-1 tvg-id="" tvg-name="True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="Thailand",True Sport 4
-http://myteve.online:8080/F12232/f23d27c1/285569
-#EXTINF:-1 tvg-id="" tvg-name="TrueVisions" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/50acfdca2c374a6bee214aac68d558e7.png" group-title="Thailand",TrueVisions
-http://myteve.online:8080/F12232/f23d27c1/146806
-#EXTINF:-1 tvg-id="" tvg-name="Umm TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="Thailand",Umm TV
-http://myteve.online:8080/F12232/f23d27c1/158644
-
-#EXTINF:-1 tvg-id="" tvg-name="White Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="Thailand",White Channel
-http://myteve.online:8080/F12232/f23d27c1/23908
+=========================================================================================================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="ABS CBN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6dc9f619fd0473b5f58a3e58930e6bd3.png" group-title="Philippines",ABS CBN
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/144837
@@ -426,152 +359,9 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/144881
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/266852
 #EXTINF:-1 tvg-id="" tvg-name="UAAP Varsity Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" group-title="Philippines",UAAP Varsity Channel
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/299944
+========================================================================================================================================================================
 
 
-
-#EXTINF:-1 tvg-chno="1"  tvg-id="iptv.th" tvg-name="IPTV THAILAND" group-title="Digital TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",IPTV THAILAND
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
-
-#EXTINF:-1 tvg-chno="2"  tvg-id="NBT" tvg-name="NBT" group-title="Digital TV" tvg-logo="https://i.imgur.com/50EIb6z.png",NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chnbt3/index.m3u8
-
-#EXTINF:-1 tvg-chno="3"  tvg-id="ThaiPBS" tvg-name="ThaiPBS" group-title="Digital TV" tvg-logo="https://i.imgur.com/OFsQwvv.png",ThaiPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chthaipbs3/index.m3u8
-
-#EXTINF:-1 tvg-chno="4"  tvg-id="ALTV" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Y6k45Su.png",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ALTV3/index.m3u8
-
-#EXTINF:-1 tvg-chno="5"  tvg-id="TV5 HD" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/4MIQNPQ.png",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="6"  tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Digital TV" tvg-logo="https://i.imgur.com/Ruc88XO.png",Boomerang Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
-
-#EXTINF:-1 tvg-chno="7"  tvg-id="T Sports 7" tvg-name="T Sports 7" group-title="Digital TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",T Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtsport3/index.m3u8
-
-#EXTINF:-1 tvg-chno="8"  tvg-id="Channel 8" tvg-name="Channel 8" group-title="Digital TV" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="9"  tvg-id="Jomyut" tvg-name="Jomyut" group-title="Digital TV" tvg-logo="https://i.imgur.com/i7HCIuZ.jpg",Jomyut
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="10"  tvg-id="TPTV" tvg-name="TPTV" group-title="Digital TV" tvg-logo="https://i.imgur.com/Jfdy937.png",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/TPTV3/index.m3u8
-
-#EXTINF:-1 tvg-chno="11"  tvg-id="MOVIES WORLD 1" tvg-name="MOVIES WORLD 1" group-title="Digital TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
-
-#EXTINF:-1 tvg-chno="12"  tvg-id="MOVIES WORLD 2" tvg-name="MOVIES WORLD 2" group-title="Digital TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
-
-#EXTINF:-1 tvg-chno="13"  tvg-id="MOVIES WORLD 3" tvg-name="MOVIES WORLD 3" group-title="Digital TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",MOVIES WORLD 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
-
-#EXTINF:-1 tvg-chno="14"  tvg-id="ANIMAL KINGDOM" tvg-name="ANIMAL KINGDOM" group-title="Digital TV" tvg-logo="https://i.imgur.com/jhQ1SAs.png",ANIMAL KINGDOM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-
-#EXTINF:-1 tvg-chno="15"  tvg-id="@TV" tvg-name="@TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/HtBXgaZ.png",@TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="16"  tvg-id="TNN16" tvg-name="TNN16" group-title="Digital TV" tvg-logo="https://i.imgur.com/mfVhuRC.png",TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtnn3/index.m3u8
-
-#EXTINF:-1 tvg-chno="17"  tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="Digital TV" tvg-logo="https://i.imgur.com/hFZeMAu.png",TVB Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="18"  tvg-id="JKN 18" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://i.imgur.com/zxgCdl0.png",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/newtv3/index.m3u8
-
-#EXTINF:-1 tvg-chno="19"  tvg-id="7Flix" tvg-name="7Flix" group-title="Digital TV" tvg-logo="https://i.imgur.com/XTC7PUr.png",7Flix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
-
-#EXTINF:-1 tvg-chno="20"  tvg-id="Mangorn" tvg-name="Mangorn" group-title="Digital TV" tvg-logo="https://i.imgur.com/vMWjnIm.pngxx",Mangorn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="20"  tvg-id="News1" tvg-name="News1" group-title="Digital TV" tvg-logo="https://i.imgur.com/6lorisb.jpg",News1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://news1.live14.com/stream/news1.m3u8
-
-#EXTINF:-1 tvg-chno="22"  tvg-id="Nation TV" tvg-name="Nation TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/RULAfjb.png",Nation TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chnation3/index.m3u8
-
-#EXTINF:-1 tvg-chno="23"  tvg-id="Workpoint" tvg-name="Workpoint" group-title="Digital TV" tvg-logo="https://i.imgur.com/oxf6BRn.png",Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint3/index.m3u8
-
-#EXTINF:-1 tvg-chno="24"  tvg-id="True4U" tvg-name="True4U" group-title="Digital TV" tvg-logo="https://i.imgur.com/tXb8NiE.png",True4U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
-
-#EXTINF:-1 tvg-chno="25"  tvg-id="GMM 25" tvg-name="GMM 25" group-title="Digital TV" tvg-logo="https://i.imgur.com/sWGT1SD.png",GMM 25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chgmm3/index.m3u8
-
-#EXTINF:-1 tvg-chno="26"  tvg-id="BOX FILM" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://i.imgur.com/9lsXfc0.png",BOX FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
-
-#EXTINF:-1 tvg-chno="27"  tvg-id="CH8" tvg-name="CH8" group-title="Digital TV" tvg-logo="https://i.imgur.com/RSQLFiU.png",CH8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch83/index.m3u8
-
-#EXTINF:-1 tvg-chno="28"  tvg-id="Cartoon Club" tvg-name="Cartoon Club" group-title="Digital TV" tvg-logo="https://i.imgur.com/82UoSmm.png",Cartoon Club
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-chno="29"  tvg-id="Mono 29" tvg-name="Mono 29" group-title="Digital TV" tvg-logo="https://i.imgur.com/V4VWHiB.png",Mono 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chmono293/index.m3u8
-
-#EXTINF:-1 tvg-chno="30"  tvg-id="MCOT HD" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/S4dSUQ7.png",MCOT HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="31"  tvg-id="ONE31 HD" tvg-name="ONE31 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/9apyiI0.png",ONE31 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chonehd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="32"  tvg-id="Thairath TV" tvg-name="Thairath TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/ArasZJO.png",Thairath TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chthairath3/index.m3u8
-
-#EXTINF:-1 tvg-chno="33"  tvg-id="3HD" tvg-name="CH3 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/lHbIKfF.png",CH3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch3hd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="34"  tvg-id="AmarinTV HD" tvg-name="Amarin TV" group-title="Digital TV" tvg-logo="https://i.imgur.com/S6gvvf9.png",Amarin TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chamarin3/index.m3u8
-
-#EXTINF:-1 tvg-chno="35"  tvg-id="CH7 HD" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/vxnLkTz.png",CH7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/ch7hd3/index.m3u8
-
-#EXTINF:-1 tvg-chno="36"  tvg-id="PPTV HD" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://i.imgur.com/i4t7Q0C.png",PPTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 ===============================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="Sony (Set India)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png" group-title="India ➾ Movie",Sony (Set India)
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/281867
@@ -889,6 +679,99 @@ http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/157580
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/264769
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="MOVIES",Flik
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/165095
+=============================================================================================================
+#EXTINF:-1 tvg-id="National Geographic Channel HD" tvg-name="" tvg-logo="https://i.imgur.com/cjx78kt.png" group-title="Documentary", NATIONAL GEOGRAPHIC
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="https://i.imgur.com/D9apec6.png" group-title="Documentary", NATIONAL GEOGRAPHIC WILD
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreWild.th" tvg-name="True Explore Wild" tvg-logo="https://i.imgur.com/idy7jAY.png" group-title="Documentary",True Explore Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115408
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreLife.th" tvg-name="True Explore Life" tvg-logo="https://i.imgur.com/vkuLiKZ.png" group-title="Documentary",True Explore Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115660
+
+#EXTINF:-1 tvg-chno="" tvg-id="TrueExploreSci.th" tvg-name="True Explore Sci" tvg-logo="https://i.imgur.com/oGImUZ6.png" group-title="Documentary",True Explore Sci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#http://clientsportals.com:2095/wP9b1G99m7/gG4GpsN1/115660
+
+#EXTINF:-1 tvg-chno="" tvg-id="AnimalPlanetHDThailand.th" tvg-name="Animal Planet" tvg-logo="https://cms.dmpcdn.com/livetv/2019/02/06/14c29171-17c8-4c57-996c-2e947bf8a34a.png" group-title="Documentary",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kusnadipepenk.github.io/ntn/animal.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/kDWAhy1.png" group-title="Documentary",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_201.png", GLOBAL TREKKER
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png", Outdoor Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png", History
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg", Crime + Investigation
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",Discovery HD
+http://otv.ftpbd.net:8082/Discovery-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="" tvg-id="DiscoveryAsia.hk" tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/BOViyhR.png" group-title="Documentary",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+
+#EXTINF:-1 tvg-chno="" tvg-id="NASATVPublic.us" tvg-name="NASA TV" tvg-logo="https://i.imgur.com/EdKQY9h.png" group-title="Documentary",NASA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="investigationdiscoveryeast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/640px-InvestigationDiscoveryLogo2020.svg.png",Discovery Investigation 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php
+https://webudit.hlsjs.ru/lb/premium324/index.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-id="smithsonianchanneleast.us" tvg-logo="https://i.imgur.com/okSbavu.png",Smithsonian Channel 
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8 
+
+#EXTINF:0 tvg-name="DMAX UK" group-title="Documentary" tvg-logo="https://i.postimg.cc/PxjwjZPw/GANAS-DMAX.png", DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+
+
+
 ============================================================================================================================
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
