@@ -90,27 +90,30 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="LIGA INGGRIS",Now Premier Sports 1
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/69854
 
-#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 1" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="LIGA INGGRIS",EPL - Astro - EPL 1
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63112
-#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - Epl 2" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="LIGA INGGRIS",EPL - Astro - Epl 2
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63113
-#EXTINF:-1 tvg-id="" tvg-name="EPL - Astro - EPL 3" tvg-logo="http://attp.ddns.net:25461/images/0c6ced616e73a00983506927ea162e16.png" group-title="LIGA INGGRIS",EPL - Astro - EPL 3
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/63114
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-A" tvg-logo="https://i.ibb.co/Qct3SqW/s4.png" group-title="LIGA INGGRIS",ASSP4-A
-https://link.zozotv.xyz:443/rozila969/abc12345/158
+
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="LIGA INGGRIS",NOW SPORTS 1
 https://link.zozotv.xyz:443/rozila969/abc12345/836
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="LIGA INGGRIS",NOW SPORTS 2
 https://link.zozotv.xyz:443/rozila969/abc12345/837
 #EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="LIGA INGGRIS",NOW SPORTS 3
 https://link.zozotv.xyz:443/rozila969/abc12345/838
-
-#EXTINF:-1 tvg-id="" tvg-name="NZ - Sky Sport 2 HD" tvg-logo="" group-title="LIGA INGGRIS",NZ - Sky Sport 2 HD
-http://2hubs.ddns.net:25461/iamdrip/Bs9WYYnW6r/73126
-
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="LIGA INGGRIS",BT Sport 1
+https://link.zozotv.xyz:443/rozila969/abc12345/173
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="LIGA INGGRIS",BT Sport 2
+https://link.zozotv.xyz:443/rozila969/abc12345/174
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr.png" ,ASTRO SUPERSPORTS 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr1.png" , ASTRO SUPERSPORTS 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400252981
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/MALAY/astroassp3.png" ,ASTRO SUPERSPORTS 3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/377340
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr2.png" , ASTRO SUPERSPORTS 4 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400252980
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/40097
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/40098
 
 
 
