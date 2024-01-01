@@ -267,10 +267,74 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/25209
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/198961
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c7a9e9894c533532f081256e9aeb556c.png" group-title="SPORT",NBA TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/762
+EXTINF:-1 group-title="AF | DSTV" tvg-logo="https://lo1.in/uk/supsp.png" ,DSTV| SUPER SPORT LALIGA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT FOOTBALL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/186875
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT FOOTBALL PLUS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400415390
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT PSL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159893
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT TENNIS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159890
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT GOLF HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159887
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" , SUPER SPORT VARIETY 1 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159883
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" ,SUPER SPORT VARIETY 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/159884
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" ,SUPER SPORT VARIETY 3 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/186870
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/uk/supsp.png" ,SUPER SPORT VARIETY 4 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/186869
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/dstv/espn.png" ,ESPN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/186855
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/dstv/espn.png" , ESPN 2 HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/7229
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplssp1.png" , CANAL+ SPORT 1 HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216431
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/fr/cnlpsp.png" , CANAL+ SPORT 1 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/163033
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplssp2.png" ,CANAL+ SPORT 2 HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216430
+#EXTINF:-1 group-title="SPORT"tvg-logo="https://lo1.in/fr/cnlpsp.png" ,CANAL+ SPORT 2 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/163032
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplssp3.png" ,CANAL+ SPORT 3 HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216429
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/fr/cnlpsp.png" , CANAL+ SPORT 3 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/163031
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplssp4.png" , CANAL+ SPORT 4 HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216428
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/fr/cnlpsp.png" ,CANAL+ SPORT 4 SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/163030
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/af.png" , CANAL+ SPORT 5 HD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400216427
 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/fr/cnlp.l.png" , CANAL+ PREMIERE LEAGUE HD LIVE-ONLEY
+http://mytv-extra.com:80/t12mgxyb335/9832948789/378288
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplsform1.png" , CANAL+ FORMULA 1  SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400225171
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/af/caplsmoto.png" ,CANAL+ MOTO GP SD 
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400225170
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" ,DAZN 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35381
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 2
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35380
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" ,DAZN 3
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35379
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" ,DAZN 4
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35378
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 5
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35377
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 6
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35376
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 7
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35375
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 8
+http://mytv-extra.com:80/t12mgxyb335/9832948789/35374
 
 
 
