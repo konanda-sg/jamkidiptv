@@ -174,15 +174,15 @@ http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/754
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/755
 #EXTINF:-1 tvg-id="" tvg-name="Champions League 4" tvg-logo="http://www.stickpng.com/assets/images/5842fe18a6515b1e0ad75b3d.png" group-title="SPORT",Champions League 4
 http://pubgamers.net:80/RahmanBalajXhevdet/dTjoKahOiK/756
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="SPORT",IN: TEN 1 (4K).
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ytimg.com/vi/QOx79orcb1I/maxresdefault.jpg" group-title="SPORT", TEN 1 
 http://starshare.live:8080/live/532134653470/123486424578/98861.m3u8
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORT",IN: TEN 2 (4K).
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORT", TEN 2
 http://starshare.live:8080/live/532134653470/123486424578/98862.m3u8
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="SPORT",IN: TEN 3 (4K).
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce68ead0e21236eb474/1565808608783/c9347b41649e4f9d39f547b0d9ffd902.jpg" group-title="SPORT",TEN 3 
 http://starshare.live:8080/live/532134653470/123486424578/98863.m3u8
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORT",IN: SONY TEN 5 (4K).
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORT",SONY TEN 5 
 http://starshare.live:8080/live/532134653470/123486424578/98870.m3u8
-/IaSfw2kzzwObQ6eS0EJm1o3ykynqc+tbEEJTK1znQ4E6bdh378COvqlhTpNa47zz1NCqq48k0y8c/tfp8SLOe4n9OJfp+Sf8zgKFChQoECBAgUKFCiQG/4DJEIKRQ70cZYAAAAASUVORK5CYII=" group-title="SPORT",IN: EUROSPORTS (4K).
+/IaSfw2kzzwObQ6eS0EJm1o3ykynqc+tbEEJTK1znQ4E6bdh378COvqlhTpNa47zz1NCqq48k0y8c/tfp8SLOe4n9OJfp+Sf8zgKFChQoECBAgUKFCiQG/4DJEIKRQ70cZYAAAAASUVORK5CYII=" group-title="SPORT", EUROSPORTS 
 http://starshare.live:8080/live/532134653470/123486424578/98869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="SPORT",TEN SPORTS
 http://starshare.live:8080/live/532134653470/123486424578/98.m3u8
@@ -215,7 +215,7 @@ http://starshare.live:8080/live/532134653470/123486424578/148684.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Prem SD Hevc" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="SPORT",Sky Sports Prem 
 http://starshare.live:8080/live/532134653470/123486424578/148686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing SD Hevc" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="SPORTS ",Sky Sports Racing 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing SD Hevc" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="SPORT",Sky Sports Racing 
 http://starshare.live:8080/live/532134653470/123486424578/148687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="SPORT",Edge Sport
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/54012
