@@ -92,32 +92,32 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 
 ============================================================================================================================================================================
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="LIGA INGGRIS",NOW SPORTS 1
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 1
 https://link.zozotv.xyz:443/rozila969/abc12345/836
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="LIGA INGGRIS",NOW SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 2
 https://link.zozotv.xyz:443/rozila969/abc12345/837
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="LIGA INGGRIS",NOW SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 3
 https://link.zozotv.xyz:443/rozila969/abc12345/838
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="LIGA INGGRIS",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 1
 https://link.zozotv.xyz:443/rozila969/abc12345/173
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="LIGA INGGRIS",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 2
 https://link.zozotv.xyz:443/rozila969/abc12345/174
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr.png" ,ASTRO SUPERSPORTS 1 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr.png" ,ASTRO SUPERSPORTS 1 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr1.png" , ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr1.png" , ASTRO SUPERSPORTS 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400252981
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/MALAY/astroassp3.png" ,ASTRO SUPERSPORTS 3 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/MALAY/astroassp3.png" ,ASTRO SUPERSPORTS 3 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/377340
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/astr2.png" , ASTRO SUPERSPORTS 4 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr2.png" , ASTRO SUPERSPORTS 4 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400252980
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 2
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40097
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 1
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40098
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",Star Sports Select 2
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ "tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",Star Sports Select 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
 ================================================================================================================================
@@ -578,114 +578,114 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/299944
 
 
 ===============================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="Sony (Set India)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png" group-title="India ➾ Movie",Sony (Set India)
+#EXTINF:-1 tvg-id="" tvg-name="Sony (Set India)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2daad44a19ed90aa9e2a090fa3f91aa1.png" group-title="India  Movie",Sony (Set India)
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/281867
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/76be466f6b2faa53cdae4ebf0ed727ec.png" group-title="India ➾ Movie",Sony Aath
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/76be466f6b2faa53cdae4ebf0ed727ec.png" group-title="India  Movie",Sony Aath
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/17005
-#EXTINF:-1 tvg-id="" tvg-name="Sony Marathi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ccf43231ee77cbb648bf30a46aa67d2b.png" group-title="India ➾ Movie",Sony Marathi
+#EXTINF:-1 tvg-id="" tvg-name="Sony Marathi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ccf43231ee77cbb648bf30a46aa67d2b.png" group-title="India  Movie",Sony Marathi
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193097
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India ➾ Movie",Sony Max 2
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d4975f023a98c9cebea516a4fd98482c.png" group-title="India  Movie",Sony Max 2
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/4862
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max India +1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e83c6de7486ee10da2030a409923428b.png" group-title="India ➾ Movie",Sony Max India +1
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max India +1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e83c6de7486ee10da2030a409923428b.png" group-title="India  Movie",Sony Max India +1
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1359
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="India ➾ Movie",Sony Pal
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f0733abb9bd97980d7b9118cb0c01419.png" group-title="India  Movie",Sony Pal
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193645
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="India ➾ Movie",Sony Pix
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/148794467c949eb960c3369577370edd.png" group-title="India  Movie",Sony Pix
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/49539
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India ➾ Movie",Sony SAB
+#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d12a683a9883989c1528fa718dd63775.png" group-title="India  Movie",Sony SAB
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1073
-#EXTINF:-1 tvg-id="" tvg-name="Sony Wah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="India ➾ Movie",Sony Wah
+#EXTINF:-1 tvg-id="" tvg-name="Sony Wah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/30d1081aa39520113f25151752ed6040.png" group-title="India  Movie",Sony Wah
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/165801
-#EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="India ➾ Movie",Star Bharat
+#EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7fbcc6b2ef6f2a7b6879fd5c4f1fea93.png" group-title="India  Movie",Star Bharat
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/284583
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="India ➾ Movie",Star Gold
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e24f29dada0a4a69bd8ad11788801df2.png" group-title="India  Movie",Star Gold
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1070
-#EXTINF:-1 tvg-id="" tvg-name="Gemini" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/20eb1b856dcb42d4ab6fe53ffe66d399.png" group-title="India ➾ Movie",Gemini
+#EXTINF:-1 tvg-id="" tvg-name="Gemini" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/20eb1b856dcb42d4ab6fe53ffe66d399.png" group-title="India  Movie",Gemini
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/165794
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/500f78e5e4d1ff8d19a5ccce912f6383.png" group-title="India ➾ Movie",Gemini Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Gemini Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/500f78e5e4d1ff8d19a5ccce912f6383.png" group-title="India  Movie",Gemini Comedy
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/264710
-#EXTINF:-1 tvg-id="" tvg-name="Gemini Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/35607ed908e3e3c442d6eb7715ceebf0.png" group-title="India ➾ Movie",Gemini Movies
+#EXTINF:-1 tvg-id="" tvg-name="Gemini Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/35607ed908e3e3c442d6eb7715ceebf0.png" group-title="India  Movie",Gemini Movies
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/297557
 
-#EXTINF:-1 tvg-id="" tvg-name="Jaihind TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/389f63f321444b6fbff169ad8f8abe42.png" group-title="India ➾ Movie",Jaihind TV
+#EXTINF:-1 tvg-id="" tvg-name="Jaihind TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/389f63f321444b6fbff169ad8f8abe42.png" group-title="India  Movie",Jaihind TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/192073
-#EXTINF:-1 tvg-id="" tvg-name="Jaya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/890a415b468e25966bc1ae8849f0f6c5.png" group-title="India ➾ Movie",Jaya TV
+#EXTINF:-1 tvg-id="" tvg-name="Jaya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/890a415b468e25966bc1ae8849f0f6c5.png" group-title="India  Movie",Jaya TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/145637
-#EXTINF:-1 tvg-id="" tvg-name="Kalaignar Murasu TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1efefaa2a497665d3a31b9220cad0ea9.png" group-title="India ➾ Movie",Kalaignar Murasu TV
+#EXTINF:-1 tvg-id="" tvg-name="Kalaignar Murasu TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1efefaa2a497665d3a31b9220cad0ea9.png" group-title="India  Movie",Kalaignar Murasu TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/286966
 
-#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="India ➾ Movie",KTV
+#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0d3df8c6dfe55cd074bea2f3aa0ecfaf.png" group-title="India  Movie",KTV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/36442
 
-#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4d290d8192b583a769fc516091066be3.png" group-title="India ➾ Movie",Manoranjan Movies
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4d290d8192b583a769fc516091066be3.png" group-title="India  Movie",Manoranjan Movies
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/192200
-#EXTINF:-1 tvg-id="" tvg-name="Mazhavil Manorama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6152d276473cb4c4f893ddb43ad27b0b.png" group-title="India ➾ Movie",Mazhavil Manorama
+#EXTINF:-1 tvg-id="" tvg-name="Mazhavil Manorama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6152d276473cb4c4f893ddb43ad27b0b.png" group-title="India  Movie",Mazhavil Manorama
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193067
 
-#EXTINF:-1 tvg-id="" tvg-name="Puthuyugam TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cfe2dea62f36d5c4c8de1db95620565b.png" group-title="India ➾ Movie",Puthuyugam TV
+#EXTINF:-1 tvg-id="" tvg-name="Puthuyugam TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cfe2dea62f36d5c4c8de1db95620565b.png" group-title="India  Movie",Puthuyugam TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196101
 
-#EXTINF:-1 tvg-id="" tvg-name="Raj TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="India ➾ Movie",Raj TV
+#EXTINF:-1 tvg-id="" tvg-name="Raj TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ec7f998fae0b66db9bc6d14e2f5b09f8.png" group-title="India  Movie",Raj TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193125
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="India ➾ Movie",Star Gold 2
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="India  Movie",Star Gold 2
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/43919
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="India ➾ Movie",Star Gold Select
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="India  Movie",Star Gold Select
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/297547
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="India ➾ Movie",Star Jalsha
+#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/48fa95424d644ec81854b1a89085ee7c.jpg" group-title="India  Movie",Star Jalsha
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/12979
-#EXTINF:-1 tvg-id="" tvg-name="Star Maa Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="India ➾ Movie",Star Maa Movies
+#EXTINF:-1 tvg-id="" tvg-name="Star Maa Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/22ea7346e31774969f5c338e4bb68bf5.png" group-title="India  Movie",Star Maa Movies
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/82624
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="India ➾ Movie",Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/2b63b056fd9c98e0a0aaa86efa251838.png" group-title="India  Movie",Star Movies
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/11511
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="India ➾ Movie",Star Movies Select
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/6f5c18aa458d112cd8a4475e6243aabd.png" group-title="India  Movie",Star Movies Select
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/267542
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India ➾ Movie",Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21b51dfaef0b2ddf2a74e44b62289f40.png" group-title="India  Movie",Star Plus
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/16091
-#EXTINF:-1 tvg-id="" tvg-name="Star Pravah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d1a684c9e9f048d6c727b98eb0d8f41e.png" group-title="India ➾ Movie",Star Pravah
+#EXTINF:-1 tvg-id="" tvg-name="Star Pravah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/d1a684c9e9f048d6c727b98eb0d8f41e.png" group-title="India  Movie",Star Pravah
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193149
-#EXTINF:-1 tvg-id="" tvg-name="Star Suvarna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/de3b24188bd2fb46dc5f854b902aa810.png" group-title="India ➾ Movie",Star Suvarna
+#EXTINF:-1 tvg-id="" tvg-name="Star Suvarna" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/de3b24188bd2fb46dc5f854b902aa810.png" group-title="India  Movie",Star Suvarna
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193147
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png" group-title="India ➾ Movie",Star Vijay
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/5d985f020baf77d62ddf39806d5dde60.png" group-title="India  Movie",Star Vijay
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/19744
-#EXTINF:-1 tvg-id="" tvg-name="Sun Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/78c9c0b3ceee8f5b0fb2c42d8bc4d4e8.png" group-title="India ➾ Movie",Sun Life
+#EXTINF:-1 tvg-id="" tvg-name="Sun Life" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/78c9c0b3ceee8f5b0fb2c42d8bc4d4e8.png" group-title="India  Movie",Sun Life
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/267819
-#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9d2a0d0b78ffd6966844a7656afa4536.png" group-title="India ➾ Movie",Sun TV
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9d2a0d0b78ffd6966844a7656afa4536.png" group-title="India  Movie",Sun TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/76969
-#EXTINF:-1 tvg-id="" tvg-name="Tamilan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8e6140aba2ba378f0e62a0e5907423c.jpg" group-title="India ➾ Movie",Tamilan TV
+#EXTINF:-1 tvg-id="" tvg-name="Tamilan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8e6140aba2ba378f0e62a0e5907423c.jpg" group-title="India  Movie",Tamilan TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/267549
 #EXTINF:-1 tvg-id="" tvg-name="We" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4cf6af925ca70e6b3603d5968826dd04.jpg" group-title="India ➾ Movie",We
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193159
-#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5957304ab7dd4176e7772174fe06f1ab.png" group-title="India ➾ Movie",Wow Cinema One
+#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5957304ab7dd4176e7772174fe06f1ab.png" group-title="India  Movie",Wow Cinema One
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197945
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="India ➾ Movie",Zee Bangla
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/59b90d720e4e84324ae1cc0b511a34e7.png" group-title="India  Movie",Zee Bangla
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/145632
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="India ➾ Movie",Zee Cinema Asia
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="India  Movie",Zee Cinema Asia
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1350
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinemalu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8eb47f24ddbe33c7663d18f458aa9467.png" group-title="India ➾ Movie",Zee Cinemalu
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinemalu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8eb47f24ddbe33c7663d18f458aa9467.png" group-title="India  Movie",Zee Cinemalu
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/45504
-#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="India ➾ Movie",Zee Classic
+#EXTINF:-1 tvg-id="" tvg-name="Zee Classic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e4acdd893054d8789ed77d59a275d298.png" group-title="India  Movie",Zee Classic
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/21578
-#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9b9b9240cc9786677a699ca48209b819.png" group-title="India ➾ Movie",Zee Kannada
+#EXTINF:-1 tvg-id="" tvg-name="Zee Kannada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9b9b9240cc9786677a699ca48209b819.png" group-title="India  Movie",Zee Kannada
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/145631
-#EXTINF:-1 tvg-id="" tvg-name="Zee Keralam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/6e100d77233c6343c594437a8527fe29.png" group-title="India ➾ Movie",Zee Keralam
+#EXTINF:-1 tvg-id="" tvg-name="Zee Keralam" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/6e100d77233c6343c594437a8527fe29.png" group-title="India  Movie",Zee Keralam
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193146
-#EXTINF:-1 tvg-id="" tvg-name="Zee Magic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/709e1d79bcd8632bdb143d4559dad3c5.png" group-title="India ➾ Movie",Zee Magic
+#EXTINF:-1 tvg-id="" tvg-name="Zee Magic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/709e1d79bcd8632bdb143d4559dad3c5.png" group-title="India  Movie",Zee Magic
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/281920
-#EXTINF:-1 tvg-id="" tvg-name="Zee Marathi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e2afbdf7bca28dd91216f35336c75ef.png" group-title="India ➾ Movie",Zee Marathi
+#EXTINF:-1 tvg-id="" tvg-name="Zee Marathi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4e2afbdf7bca28dd91216f35336c75ef.png" group-title="India  Movie",Zee Marathi
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/82646
-#EXTINF:-1 tvg-id="" tvg-name="Zee Picchar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf5fce71f2c61324a8f9516e43c0f3dc.png" group-title="India ➾ Movie",Zee Picchar
+#EXTINF:-1 tvg-id="" tvg-name="Zee Picchar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf5fce71f2c61324a8f9516e43c0f3dc.png" group-title="India  Movie",Zee Picchar
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/192201
-#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f1a9bd21bb7f80d985fbb194e5a0c4b2.png" group-title="India ➾ Movie",Zee Punjabi
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f1a9bd21bb7f80d985fbb194e5a0c4b2.png" group-title="India  Movie",Zee Punjabi
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/145630
-#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/25ce128978be5e660e161910f7ce24bb.png" group-title="India ➾ Movie",Zee Tamil
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/25ce128978be5e660e161910f7ce24bb.png" group-title="India Movie",Zee Tamil
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/45505
-#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e70e1a61806a9019224ac6801a48c635.png" group-title="India ➾ Movie",Zee Telugu
+#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e70e1a61806a9019224ac6801a48c635.png" group-title="India  Movie",Zee Telugu
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/21561
-#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png" group-title="India ➾ Movie",Zee TV
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/806194dec889d62b53a395771f889bf8.png" group-title="India  Movie",Zee TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1348
-#EXTINF:-1 tvg-id="" tvg-name="Zee World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India ➾ Movie",Zee World
+#EXTINF:-1 tvg-id="" tvg-name="Zee World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India  Movie",Zee World
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/172264
 
 
