@@ -655,7 +655,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/267819
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/76969
 #EXTINF:-1 tvg-id="" tvg-name="Tamilan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8e6140aba2ba378f0e62a0e5907423c.jpg" group-title="India  Movie",Tamilan TV
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/267549
-#EXTINF:-1 tvg-id="" tvg-name="We" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4cf6af925ca70e6b3603d5968826dd04.jpg" group-title="India ➾ Movie",We
+#EXTINF:-1 tvg-id="" tvg-name="We" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4cf6af925ca70e6b3603d5968826dd04.jpg" group-title="India  Movie",We
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/193159
 #EXTINF:-1 tvg-id="" tvg-name="Wow Cinema One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5957304ab7dd4176e7772174fe06f1ab.png" group-title="India  Movie",Wow Cinema One
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197945
@@ -688,7 +688,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/1348
 #EXTINF:-1 tvg-id="" tvg-name="Zee World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India  Movie",Zee World
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/172264
 
-
+===================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="10 Sydney" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dbc661084a4d28ecdd9d5cc53a759ad1.png" group-title="Australia",10 Sydney
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/81796
 #EXTINF:-1 tvg-id="" tvg-name="7 Flix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/9d47406a4b05f897d9ed770d1aaee54b.png" group-title="Australia",7 Flix
@@ -795,8 +795,85 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/285941
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/54329
 #EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7f0d9f00d2d5be5fb14c755ae92d0d4d.png" group-title="Australia",Wonder
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/285944
+=============================================================================================================================
+#EXTINF:-1 tvg-id="" tvg-name="TH: DMC TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Thailand",TH: DMC TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/299487.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TH: ETV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ec3dcc4f99f58587fbcd43a442aa3c14.png" group-title="Thailand",TH: ETV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/147245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Fast & FunBox" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e9cc9f108bb21a76bd594dc65cb79050.png" group-title="Thailand",TH: Fast & FunBox
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/281630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Global Buddhist Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="Thailand",TH: Global Buddhist Network
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/299375.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TH: Good Idea TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/c7a3e481cf20f3517f76fe45278f5765.png" group-title="Thailand",TH: Good Idea TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146728.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: MCOT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/176ef54701e5e68b3caf6484b8686f56.png" group-title="Thailand",TH: MCOT HD
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/145029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Mono 29" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1c2d74f2c0f60bb721118a8e27e7b8a.png" group-title="Thailand",TH: Mono 29
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146760.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: New 18" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="Thailand",TH: New 18
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/15004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: News 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="Thailand",TH: News 1
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/174663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: PPTV HD 36" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/34f358d96176050cc8c454bc86da97c2.svg" group-title="Thailand",TH: PPTV HD 36
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/281639.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai Channel 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/750eed8dd4bacc373c6f9f50dfa0b314.png" group-title="Thailand",TH: Thai Channel 8
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai Parliament TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="Thailand",TH: Thai Parliament TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/285565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai PBS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="Thailand",TH: Thai PBS 3
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/145027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thai TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="Thailand",TH: Thai TV 5
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/162537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Thairath TV 32" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="Thailand",TH: Thairath TV 32
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/23909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: True 4U" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/021476879e3c00b468957969dd99b258.png" group-title="Thailand",TH: True 4U
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/54319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="Thailand",TH: True Premiere Football 1
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/162591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="Thailand",TH: True Premiere Football 2
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/162592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="Thailand",TH: True Sport 4
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/285569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: TrueVisions" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/50acfdca2c374a6bee214aac68d558e7.png" group-title="Thailand",TH: TrueVisions
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Umm TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="Thailand",TH: Umm TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/158644.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: V2H9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/3cd16ddfdcc168170588d816a5645088.png" group-title="Thailand",TH: V2H9
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/276070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: White Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="Thailand",TH: White Channel
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/23908.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Yateem TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" group-title="Thailand",TH: Yateem TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/158801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Zabb Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b1b2c5cc0bebe058f8aacc2f6b95f262.png" group-title="Thailand",TH: Zabb Channel
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/158622.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: 13 Siam Thai" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/1d6f3e53d95ce8af4dc7e73ce2f844dc.png" group-title="Thailand",TH: 13 Siam Thai
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: ALTV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" group-title="Thailand",TH: ALTV 4
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/193236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Amarin 34" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="Thailand",TH: Amarin 34
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/146703.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: Bayon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="Thailand",TH: Bayon TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/23852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: BBTV Channel 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="Thailand",TH: BBTV Channel 7
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/23853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="Thailand",TH: Cartoon Network
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/172166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Channel 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/fc9d6e05ed084d50153f5914d71b28d9.svg" group-title="Thailand",TH: Channel 3
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/266866.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TH: CTB TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="Thailand",TH: CTB TV
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/23858.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TH: Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="Thailand",TH: Discovery Asia
+http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/264824.m3u8
 
 ================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" group-title="MOVIES",Paramount Network
