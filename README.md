@@ -102,17 +102,17 @@ https://link.zozotv.xyz:443/rozila969/abc12345/838
 https://link.zozotv.xyz:443/rozila969/abc12345/173
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 2
 https://link.zozotv.xyz:443/rozila969/abc12345/174
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr.png" ,ASTRO SUPERSPORTS 1 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" ,ASTRO SUPERSPORTS 1 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr1.png" , ASTRO SUPERSPORTS 2 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" , ASTRO SUPERSPORTS 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400252981
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/MALAY/astroassp3.png" ,ASTRO SUPERSPORTS 3 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" ,ASTRO SUPERSPORTS 3 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/377340
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/astr2.png" , ASTRO SUPERSPORTS 4 HD
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" , ASTRO SUPERSPORTS 4 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400252980
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 2
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" ,True Premier Football 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40097
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="https://lo1.in/tha/flg.png" ,True Premier Football 1
+#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" ,True Premier Football 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/40098
 #EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
