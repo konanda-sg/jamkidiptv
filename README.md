@@ -90,7 +90,7 @@ https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="🇮🇩 NASIONAL 🇮🇩", Mentari TV
-http://aflaxtv.xyz:8080/live/Dharmend/af2ab965/298546.m3u8
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298546
 
 ================================================================================================================================
 
