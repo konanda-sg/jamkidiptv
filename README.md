@@ -203,6 +203,36 @@ http://starshare.live:8080/live/532134653470/123486424578/98870.m3u8
 http://starshare.live:8080/live/532134653470/123486424578/98869.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRI: TEN SPORTS" tvg-logo="https://www.pngjoy.com/pngm/372/6897260_indian-cricket-team-logo-ten-sports-logo-png.png" group-title="SPORT",TEN SPORTS
 http://starshare.live:8080/live/532134653470/123486424578/98.m3u8
+#EXTINF:-1 group-title="SPORT"  tvg-logo="https://i.ibb.co/JRvJdR6/eleven1.png",Eleven Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/JpGPnd6/eleven2.png",Eleven Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/TWhTFW8/eleven3.png",Eleven Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/FW3fsK6/eleven4.png",Eleven Sports 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/8rq35Zg/eleven5.png",Eleven Sports 5
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://i.ibb.co/M2tbfJV/eleven6.png",Eleven Sports 6
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 4" tvg-logo="https://i.postimg.cc/G27JbC2L/TNT-SPORTS4.png" group-title="SPORT",TNT Sport 4
 http://starshare.live:8080/live/532134653470/123486424578/148558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 3" tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png" group-title="SPORT",TNT Sport 3
