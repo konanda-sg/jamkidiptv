@@ -89,7 +89,7 @@ https://nonton.site:8443/live/ekos/7483/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qNN0pq/Berita-Satu-English-red.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="",BERITA SATU
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
 #EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="🇮🇩 NASIONAL 🇮🇩", TATV Solo
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+https://admin-suka-janda.asalbaenlah.workers.dev/play.m3u8?id=vtv&key=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wkK7YNx.png" group-title="🇮🇩 NASIONAL 🇮🇩", JITV Jogja
 http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="🇮🇩 NASIONAL 🇮🇩", Mentari TV
