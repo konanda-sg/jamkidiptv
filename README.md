@@ -75,7 +75,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD 2
-https://cdnkbl2.indihometv.com/atm/HLS-10s/indosiar/indosiar-avc1_2500000=6.m3u8?encp=5b7we2zEf1EB_8x-FkGwrA&uid=&expp=1704514992
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"group-logo="https://s.id/1LDhj" tvg-id="MOJI" tvg-logo="https://www.dropbox.com/s/1inleddhpyh213r/20230607_204258.png?dl=1",Moji TV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
