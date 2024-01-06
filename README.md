@@ -11,10 +11,7 @@ https://www.dropbox.com/scl/fi/jiqiy1ikyl2hu45q3y3aj/KISINAN-Difarina-Indra-Adel
 https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=oakaqhrz96j5as210oxmq5l36&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",CAMELIA
 https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA-TASYA-ROSMALA-OM.-ADELLA-LIVE-DI-HJS-PAMEKASAN-MADURA.mp4?rlkey=heqykn0jmdoq5bi672xvx2gns&dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩FIFA MATCHDAY 🇮🇩"catchup="", INDONESIA VS LIBYA
-https://ktpremium.com:443/mx097/33097512335/73617
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/e063f8090c95b837f0c4f1160a5c028c.png" group-title="🇮🇩FIFA MATCHDAY 🇮🇩"catchup="",INDONESIA VS LIBYA 2
-http://mytv-extra.com:80/t12mgxyb335/9832948789/112529
+
 
 
 
@@ -73,13 +70,15 @@ http://humiptv.live:8080/live/56565656/56565656/151268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD 2
 https://cdnkbl2.indihometv.com/atm/HLS-10s/indosiar/indosiar-avc1_2500000=6.m3u8?encp=5b7we2zEf1EB_8x-FkGwrA&uid=&expp=1704514992
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"group-logo="https://s.id/1LDhj" tvg-id="MOJI" tvg-logo="https://www.dropbox.com/s/1inleddhpyh213r/20230607_204258.png?dl=1",Moji TV
-https://admin-suka-janda.asalbaenlah.workers.dev/play.m3u8?id=moji&key=true
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NZrjLnX/Kompas-TV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbG8cH9/MetroTV.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Metro TV
