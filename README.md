@@ -69,7 +69,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://humiptv.live:8080/live/56565656/56565656/151268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png", Indosiar
+http://103.152.118.53:8000/usee/indosiar/playlist.m3u8?usertoken=JZNJpyXmtgR_pyjvHpIho5etOs4qPS8sEIlemAU0m7Jpk8LcivWpV0HoB_GVC5SpjyveaTasHbA7I2Od8u1QgOrtajzaLC_1-ZyjccMex4Q
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup="" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png", SCTV
+http://103.152.118.53:8000/usee/sctv/playlist.m3u8?usertoken=JZNJpyXmtgR_pyjvHpIho5etOs4qPS8sEIlemAU0m7Jpk8LcivWpV0HoB_GVC5SpjyveaTasHbA7I2Od8u1QgOrtajzaLC_1-ZyjccMex4Q
+#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"catchup=""tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png", Moji
+http://103.152.118.53:8000/usee/ochannel/playlist.m3u8?usertoken=JZNJpyXmtgR_pyjvHpIho5etOs4qPS8sEIlemAU0m7Jpk8LcivWpV0HoB_GVC5SpjyveaTasHbA7I2Od8u1QgOrtajzaLC_1-ZyjccMex4Q
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
