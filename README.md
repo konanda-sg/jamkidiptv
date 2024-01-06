@@ -72,8 +72,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://humiptv.live:8080/live/56565656/56565656/151268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
-https://admin-suka-janda.asalbaenlah.workers.dev/play.m3u8?id=indosiar&key=true
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩NASIONAL🇮🇩",Indosiar
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
