@@ -72,12 +72,11 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 http://humiptv.live:8080/live/56565656/56565656/151268.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DGvSdyt/sctv.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", SCTV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩NASIONAL🇮🇩",Indosiar
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDkTSF1/INDOSIAR2015.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", INDOSIAR HD 2
+https://cdnkbl2.indihometv.com/atm/HLS-10s/indosiar/indosiar-avc1_2500000=6.m3u8?encp=5b7we2zEf1EB_8x-FkGwrA&uid=&expp=1704514992
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"group-logo="https://s.id/1LDhj" tvg-id="MOJI" tvg-logo="https://www.dropbox.com/s/1inleddhpyh213r/20230607_204258.png?dl=1",Moji TV
 https://admin-suka-janda.asalbaenlah.workers.dev/play.m3u8?id=moji&key=true
