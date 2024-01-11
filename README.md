@@ -96,9 +96,495 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298546
 
 ================================================================================================================================
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", SCTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", METRO TV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", METRO TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CELESTIAL MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CELESTIAL MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ENTERTAINMENT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ENTERTAINMENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NHK WORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NHK WORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+NASIONAL SD-HD
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ROCK ACTION HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", K+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BNTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MAGNA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", NET HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVONE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h225/02.m3u8
+
+NASIONAL SD-HD
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h226/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KARTUN SIS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCTV 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h228/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", PHOENIX HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h232/02.m3u8
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", KOMPAS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TBN ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVRI SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CCM HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Thrill HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MEKKAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MADINAH LIVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", RTP HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TVE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h245/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ALJAZEERA ARAB HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h247/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CGTN HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h248/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MCE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS MOVIES HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HITS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", FIGHT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", M HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", TV 5 Style HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h209/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CINEMAWORLD HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY KIDZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 
 
 
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY CINEMA ASIA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MY FAMILY CHANNEL HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DAAI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS SHOWBIZ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s35/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DEANS LEARNING HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservesd-1.dens.tv/s/s36/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS LIVE EVENT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Commerce HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", DENS Korean HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", BTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", ELSHINTA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s12/index.m3u8
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", CREMA HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h228/index2.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", STINGRAY HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Deluxe Lounge HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", Motorvision HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", MotoR Racing HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h25/index2.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", HORIZON SPORT HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", KIDS
+https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=jjj&chname=My_Kidz_HD
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS
+https://op-group2-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h38/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK ENTERTAINMENT
+https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=jjj&chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK ACTION
+https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX
+https://op-group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K+
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg", TVN
+https://op-group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", TVN MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502917_tvchannels_v1.jpg", CELESTIAL MOVIES
+https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502928_tvchannels_v1.jpg", CCM
+https://op-group2-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502944_tvchannels_v1.jpg", MY CINEMA ASIA
+https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg", THRILL
+https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502961_tvchannels_v1.jpg", CINEMA WORLD
+https://op-group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502966_tvchannels_v1.jpg", MY CINEMA
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg", MY CIBEMA EUROPE
+https://op-group1-swiftservehd-1.dens.tv/h/h18/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502984_tvchannels_v1.jpg", MY FAMILY CHANNEL
+https://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502991_tvchannels_v1.jpg", TV5 MONDE STYLE
+https://op-group2-swiftservehd-1.dens.tv/h/h121/02.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996802_tvchannels_v1.jpg", CREMA TV
+https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1696996801_tvchannels_v1.jpg", DANCE TV
+https://op-group1-swiftservesd-1.dens.tv/s/s21/03.m3u8
+
+#EXTINF:-1 group-title="DENS TV"tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg", FIGHTS SPORT
+https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
+https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503263_tvchannels_v1.jpg", HORIZON SPORTS
+https://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
+
+#EXTINF:-1 group-title="DENS TV" tvg-logo="http://www.dens.tv/images/channel-logo/123.jpg", W SPORT
+http://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+
+===================================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 1
 https://link.zozotv.xyz:443/rozila969/abc12345/173
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 2
