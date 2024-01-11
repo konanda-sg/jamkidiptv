@@ -98,12 +98,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298546
 ================================================================================================================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 1" tvg-logo="https://i.ibb.co/4tqgcVB/1684375841283.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 1
-https://link.zozotv.xyz:443/rozila969/abc12345/836
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 2" tvg-logo="https://i.ibb.co/M6Bv7DN/1684376046250.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 2
-https://link.zozotv.xyz:443/rozila969/abc12345/837
-#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 3" tvg-logo="https://i.ibb.co/5c5dMK1/1684376101611.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",NOW SPORTS 3
-https://link.zozotv.xyz:443/rozila969/abc12345/838
+
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.ibb.co/nmxQWd8/B1.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 1
 https://link.zozotv.xyz:443/rozila969/abc12345/173
 #EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.ibb.co/5Bc6M3T/B2.png" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ",BT Sport 2
