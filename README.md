@@ -739,7 +739,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",TRUE SPORT 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="SPORT",TRUE SPORT 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="SPORT",BeIN Sports 2 Thailand (Bahasa Inggris)
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 4" tvg-logo="https://i.postimg.cc/G27JbC2L/TNT-SPORTS4.png" group-title="SPORT",TNT Sport 4
 http://starshare.live:8080/live/532134653470/123486424578/148558.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK SD : TNT Sport 3" tvg-logo="https://i.postimg.cc/2y1d6Kb4/TNT-SPORTS3.png" group-title="SPORT",TNT Sport 3
@@ -889,43 +894,7 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/35376
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35375
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 8
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35374
-#EXTINF:-1 group-title="SPORT" tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sports 1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="SPORT" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-id="truesports3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.webp",True Sports 3
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORT" tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 5
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
-
-#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="SPORT",True Sports 7
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-https://sport.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Sejati 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Sejati 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,Olahraga Sejati 1
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,BeIN Sports 2 Thailand (Bahasa Inggris)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,Catv Olahraga Langsung gratis
@@ -1057,12 +1026,8 @@ http://202.21.104.6:88/sps-plus/index.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Langsung 7
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TruePremier 1
-https://edge1.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TruePremier 2
-https://edge1.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TrueSport 3
-https://edge1.laotv.la/live/TrueSport3/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Claro Sports HD
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA PALSAT 1
@@ -1193,7 +1158,6 @@ http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
 https://mlb.mrgamingstreams.com/premier2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER OLAHRAGA Variasi 1
 https://mlb.mrgamingstreams.com/variety1.m3u8
-
 
 
 
