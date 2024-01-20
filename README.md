@@ -927,19 +927,17 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/35375
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 8
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35374
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,BeIN Sports 2 Thailand (Bahasa Inggris)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,BeIN Sports 2 True
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,Catv Olahraga Langsung gratis
-http://146.59.19.1/6003/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",PERSIANA SPORTS
-https://stream.live12.ir/hls2/persiana.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",BEIN OLAHRAGA 1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Q sport 2
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,BEIN OLAHRAGA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Q sport
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,SUPER OLAHRAGA LALIGA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,q sport 3
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER OLAHRAGA PSL HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159893
@@ -1021,28 +1019,10 @@ https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Olahraga Bintang Olahraga Langsung 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,SONY SEPULUH 1 HD
-http://livetvbox.live:8080/live/Anne/Anne/154.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SONY Sepuluh 2 HD
-http://livetvbox.live:8080/live/Anne/Anne/192.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,SONY Sepuluh 2 HD.
-http://livetvbox.live:8080/live/Anne/Anne/31314.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,SONY SEPULUH 3 HD
-http://livetvbox.live:8080/live/Anne/Anne/146.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,SONY SEPULUH 4 (FHD)
-http://livetvbox.live:8080/live/Anne/Anne/29469.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sport5
 http://103.120.172.74:5300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Willow Kriket HD
-http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,KRIKET WILLOW XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,KRIKKET WILLOW
-http://livetvbox.live:8080/live/Anne/Anne/215.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,KRIKKET WILLOW.
-http://livetvbox.live:8080/live/Anne/Anne/23943.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",KRIKET WILLOW XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA BINTANG 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
@@ -1101,16 +1081,14 @@ https://freehdgames.lol/chunklist/hlsch1.m3u8
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",VARIETAS OLAHRAGA SUPER 2
 https://mlb.mrgamingstreams.com/variety2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Astro 🇲🇾 Kriket HD
-http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Gazi TV (4)
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Lacak Bintang Olahraga
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Willow HD
 https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,MAX OLAHRAGA 2
-http://93.155.227.38:555/m3u8/webmtelsport2_web.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sports Sepuluh 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
@@ -1129,8 +1107,7 @@ http://45.179.140.242:8000/play/a0k7
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA CNCC
-http://208.86.19.13:81/102.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN 2 HD
@@ -1141,8 +1118,7 @@ http://45.166.92.22:58001/play/a01h/index.m3u8
 http://45.166.92.22:58001/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", KOTAK PERANG HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA FOX
-http://208.86.19.13:81/103.stream/index.m3u8?
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",FoxSports HD.
 http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",FOXSPORTS 3 HD.
@@ -1182,13 +1158,10 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", OLAHRAGA UTAMA 2
 https://mlb.mrgamingstreams.com/prem2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,DIEMA OLAHRAGA 2
-http://93.155.227.38:555/m3u8/diemasport2hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,DIEMA OLAHRAGA 3
-http://93.155.227.38:555/m3u8/diemasport3hd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,ESPN+
 https://mlb.mrgamingstreams.com/premier2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER OLAHRAGA Variasi 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER sport Variasi 1
 https://mlb.mrgamingstreams.com/variety1.m3u8
 
 
