@@ -927,242 +927,212 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/35375
 #EXTINF:-1 group-title="SPORT" tvg-logo="https://lo1.in/it/italfl.png" , DAZN 8
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35374
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",,BeIN Sports 2 True
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Q sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="🚩SPORT🚩",BEIN TRUE 1
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Q sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="🚩SPORT🚩" ,BEIN TRUE 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,q sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="🚩SPORT🚩" ,S LALIGA 3
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER OLAHRAGA PSL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="🚩SPORT🚩",SUPER OLAHRAGA PSL HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159893
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", TENIS SUPER OLAHRAGA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="🚩SPORT🚩", TENIS SUPER OLAHRAGA HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER OLAHRAGA GOLF HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="🚩SPORT🚩",SUPER OLAHRAGA GOLF HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",VARIETAS SUPER OLAHRAGA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="🚩SPORT🚩",S SUPERSPORT BIKE 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/159884
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/484784419a9faf9cbeac602c51174f16.png" group-title="🚩SPORT🚩",DAZN 1
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35381
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/337f7770f311ce8c193f77c2dfe0b91e.png" group-title="🚩SPORT🚩",EUROSPORT 2
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35380
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d36d4196d1e853c52f5a606b640d9b1.png" group-title="🚩SPORT🚩",DAZN 3
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="🚩SPORT🚩",DAZN 4
 http://mytv-extra.com:80/t12mgxyb335/9832948789/35378
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 5
-http://mytv-extra.com:80/t12mgxyb335/9832948789/35377
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 6
-http://mytv-extra.com:80/t12mgxyb335/9832948789/35376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",DAZN 7
-http://mytv-extra.com:80/t12mgxyb335/9832948789/35375
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,KRIKKET OLAHRAGA SUPER
-https://freehdgames.lol/chunklist/hlsch21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Bintang Olahraga 1
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Bintang Olahraga 1 Hindi
-http://41.205.93.154/STARSPORTS1/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Abu Dhabi T10
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sepak Bola
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,B
+https://freehdgames.lol/chunklist/hlsch21.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/854d5bca5c7796bd6f64a874a5d3ae17.png" group-title="🚩SPORT🚩",REAL MADRID FC
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Utama 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/cc414b3ef4f65c8c4e1bacf8fb9e0278.png" group-title="🚩SPORT🚩",ESPN +
 https://gettvfree.tech/live/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TNT Langsung
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="🚩SPORT🚩",S VARIETY 3
 https://mlb.mrgamingstreams.com/variety3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Stadion Olahraga Super Olahraga Langsung
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="🚩SPORT🚩", S GRAND STAND
 https://mlb.mrgamingstreams.com/grandstand.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Langsung TNT Olahraga 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/cb877d1a852fe9ddc279c5c963553828.png" group-title="🚩SPORT🚩", TNT SPORT 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", HD OLAHRAGA CEPAT
-http://livetvbox.live:8080/live/Anne/Anne/34489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",MU AS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",MU AS
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sky Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="🚩SPORT🚩",Sky Sports HD
 https://gettvfree.tech/live/stream_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Olahraga Bintang Olahraga Langsung 1
-http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Olahraga Bintang Olahraga Langsung 2
-http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", siaran langsung sepak bola 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U__pTeq8T0ZF04XFwWDQQPZmoQt9WHvahqqHuxRIUgykQ.png" group-title="🚩SPORT🚩", BEIN SPORT 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Jadilah Olahraga 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/996fc56d9216496e35f9c1fafc43fc48.png" group-title="🚩SPORT🚩" ,TNT SPORT 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Jadilah Olahraga 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c1949fb7e7932e14844b06d79aec05b5.png group-title="🚩SPORT🚩",TNT SPORT 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Jadilah Olahraga 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/98ffdae3cc8eeeb59681bdf858fffc9f.png" group-title="🚩SPORT🚩",TNT SPORT 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Jadilah Olahraga 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",SSC 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Jadilah Olahraga 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",BEIN SPORT 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Jadilah Olahraga 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,BEIN SPORT 2
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Jadilah Olahraga 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,BEIN SPORT 3
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Dalam Olahraga 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ZIGGO SELECT
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony sepuluh 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony TEN 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Sony sepuluh 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,Sony TEN 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Olahraga Langsung Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Kriket Olahraga Langit Olahraga Langsung
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Olahraga Bintang Olahraga Langsung 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", STARSPORT 1 HD
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sport5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony Sport5
 http://103.120.172.74:5300
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA BINTANG 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",STAR SPORT 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",BEIN OLAHRAGA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",SPORT MMN
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",BEIN SPORTS (MMNHD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",BEIN SPORTS 
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", OLAHRAGA UTAMA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", PREMIERE SPORT 2
 http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", OLAHRAGA UTAMA 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", PREMIERE SPORT 5
 http://202.21.104.6:88/sps-plus/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony 1 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Olahraga Langsung 7
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Claro Sports HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Claro Sports HD
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA PALSAT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",POLSAT SPORT 1
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ESPN 3 SD
 http://45.179.140.242:8000/play/a0je
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN oke
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ESPN oke
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S LaLiga FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",S LaLiga FHD
 http://supersonictv.live:8080/419094/970686/86861
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Liga Premier FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",S Liga Premier FHD
 http://supersonictv.live:8080/419094/970686/86863
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Variasi 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="🚩SPORT🚩",S Variasi 1 FHD
 http://supersonictv.live:8080/419094/970686/86865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,S Variasi 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="🚩SPORT🚩" ,S Variasi 2 FHD
 http://supersonictv.live:8080/419094/970686/86866
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Sepak Bola FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title=,S FOOTBALL FHD
 http://supersonictv.live:8080/419094/970686/86869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Aksi FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="🚩SPORT🚩",S ACTION FHD
 http://supersonictv.live:8080/419094/970686/86870
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Kriket FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="🚩SPORT🚩",S Kriket FHD
 http://supersonictv.live:8080/419094/970686/86872
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S WWE FHD
 http://supersonictv.live:8080/419094/970686/86878
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S Motorsport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="🚩SPORT🚩",S Motorsport
 http://supersonictv.live:8080/419094/970686/86879
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S cadangan Liga Premier
-http://supersonictv.live:8080/419094/970686/86880
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S cadangan Liga Premier 03
-http://supersonictv.live:8080/419094/970686/86882
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S cadangan Liga Premier 04
-http://supersonictv.live:8080/419094/970686/86883
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Streaming Langsung 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="🚩SPORT🚩",S  Premier LEAGUE
+http://supersonictv.live:8080/419094/970686/86882
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", WILLOW 2
 http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2145.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TNT Olahraga 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",TNT SPORT 1 HD
 https://freehdgames.lol/chunklist/hlsch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Bintang Olahraga 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",STAR SPORT 1
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",VARIETAS OLAHRAGA SUPER 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="🚩SPORT🚩", SUPER VARIETY 2
 https://mlb.mrgamingstreams.com/variety2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Gazi TV (4)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Gazi TV 
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", Lacak Bintang Olahraga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",TRACE SPORT
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Willow HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Willow HD
 https://sportsleading.online/live/stream_e1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sports Sepuluh 1 HD(BD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony Sports Sepuluh 1 HD(BD)
 http://103.2.153.38/trans1sd/smil:tensports1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sports Ten 2 HD(Toffee)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony Sports Ten 2 HD
 http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Sony Sports Sepuluh 5(Flixhub)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Sony TEN 5
 http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",olahraga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",TNT SPORT
 http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TV OLAHRAGA 1
-http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA TYC
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", TYC SPORT
 http://45.179.140.242:8000/play/a0k7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",OLAHRAGA Tepian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",EDGE SPORT
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Red Bull Tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",EDGESport (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",EDGESport 
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ESPN 2 HD
 http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ESPN 3 HD
 http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",ESPN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",ESPN HD
 http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", KOTAK PERANG HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", FIGHTBOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",FoxSports HD.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",FoxSports HD.
 http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",FOXSPORTS 3 HD.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",FOXSPORTS 3 HD.
 http://45.166.92.22:58001/play/a01j/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,GOLTV HD.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,GOLTV HD.
 http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",MAQ TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",MAQ TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",Satu Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",Satu Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,Realitatea Sportiva 🇷🇴
-https://streamx.realitatea.net/realitatea/sportiva_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",S OLAHRAGA 🇹🇷
-http://r7hgthyx.otttv.pw/iptv/96L894PC252R3C/6825/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SBT AO VIVO BRASIL 🇧🇷
-https://dubr2rz6c5qdz.cloudfront.net/live-stream/61c21f28fa354108218ed3a3/publish/media_1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", OLAHRAGA TURKMENISTAN 🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",TyCSports HD.
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",TyCSports HD.
 http://45.166.92.22:58001/play/a04d/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,X OLAHRAGA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",X SPORT PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,BANGLA TV UK
-http://208.86.19.13:81/504.stream/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,PALSAT OLAHRAGA 2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,POLSAT SPORT 2
 http://cdn-main.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",PALSAT SPORTS EKSTRA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",POLSAT SPORTS EKSTRA
 http://cdn-main.lolokoko.tv/polsatsportextra.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",BERITA OLAHRAGA PALSAT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",POLSAT SPORT
 http://cdn-main.lolokoko.tv/polsatsportnews.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SSC OLAHRAGA 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩",SSC OLAHRAGA 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" , OLAHRAGA UTAMA 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", PREMIERE SPORT 1
 https://mlb.mrgamingstreams.com/prem.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩", OLAHRAGA UTAMA 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩", PREMIERE SPORT UTAMA 2
 https://mlb.mrgamingstreams.com/prem2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩" ,ESPN+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩SPORT🚩" ,ESPN+
 https://mlb.mrgamingstreams.com/premier2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/48P1BLy/Live-Event-1025-x-766.jpg" group-title="🚩LIVE ONLY🚩",SUPER sport Variasi 1
-https://mlb.mrgamingstreams.com/variety1.m3u8
+
 
 
 
