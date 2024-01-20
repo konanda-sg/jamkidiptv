@@ -36,63 +36,13 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP  " , AFC QATAR 7
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 1 SD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435966
+#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 2 SD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435955
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 3 SD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435956
 
-EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 1SD-" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS AFCON 1SD-
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/88853.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 1HD." tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title=" ASIAN CUP  ",BEIN_SPORTS AFCON 1HD.
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/88850.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 2SD," tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e3bd6f8e4a9b32915e4fe24a7503828.jpg" group-title=" ASIAN CUP  ",BEIN_SPORTS AFCON 2SD,
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/88852.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 2HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e3bd6f8e4a9b32915e4fe24a7503828.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS AFCON 2HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/88851.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1SD," tvg-logo="http://s1.czxbexchange.xyz:8080/images/e34a1222feab588ff5d24c2a6a5618d4.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS_ASIANCUP1SD,
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89375.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP1HD-" tvg-logo="http://s1.czxbexchange.xyz:8080/images/e34a1222feab588ff5d24c2a6a5618d4.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS_ASIANCUP1HD-
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89374.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2SD." tvg-logo="http://s1.czxbexchange.xyz:8080/images/fa24a50871c4f83a81474c800993c0cd.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS_ASIANCUP2SD.
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89377.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_ASIANCUP2HD." tvg-logo="http://s1.czxbexchange.xyz:8080/images/fa24a50871c4f83a81474c800993c0cd.jpg" group-title=" ASIAN CUP  ",BEIN_SPORTS_ASIANCUP2HD.
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89376.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 1 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 1 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87252.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 1 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 1 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87249.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 1 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title=" ASIAN CUP  ",BEINSPORTS MAX 1 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87256.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 2 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e3bd6f8e4a9b32915e4fe24a7503828.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 2 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87253.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 2 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e3bd6f8e4a9b32915e4fe24a7503828.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 2 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87248.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 2 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/5e3bd6f8e4a9b32915e4fe24a7503828.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 2 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87257.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 3 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/d05398c0e5751a70409767a4bbc6c378.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 3 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87254.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 3 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/d05398c0e5751a70409767a4bbc6c378.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 3 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87250.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 3 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/d05398c0e5751a70409767a4bbc6c378.jpg" group-title="ASIAN CUP  ",BEINSPORTS MAX 3 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87258.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 4 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/58f3bea28b1e651d1fac09b6f2019c8f.png" group-title="ASIAN CUP  ",BEINSPORTS MAX 4 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87255.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 4 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/58f3bea28b1e651d1fac09b6f2019c8f.png" group-title="ASIAN CUP  ",BEINSPORTS MAX 4 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87259.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS MAX 4 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/58f3bea28b1e651d1fac09b6f2019c8f.png" group-title="ASIAN CUP  ",BEINSPORTS MAX 4 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/87251.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ASIANCUP 1 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title=" ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89608.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ASIANCUP 1 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89609.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ASIANCUP 1 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title=" ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89610.ts
-#EXTINF:-1 tvg-id="" tvg-name="|BEIN SPORTS ASIANCUP 2 SD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/fa24a50871c4f83a81474c800993c0cd.jpg" group-title="ASIAN CUP  ",|BEIN SPORTS ASIANCUP 2 SD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89611.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ASIANCUP 2 HD" tvg-logo="http://s1.czxbexchange.xyz:8080/images/fa24a50871c4f83a81474c800993c0cd.jpg" group-title=" ASIAN CUP  ",BEIN SPORTS ASIANCUP 2 HD
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89612.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ASIANCUP 2 4K" tvg-logo="http://s1.czxbexchange.xyz:8080/images/fa24a50871c4f83a81474c800993c0cd.jpg" group-title="ASIAN CUP  ",BEIN SPORTS ASIANCUP 2 4K
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/89613.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTI  1 HD CAN" tvg-logo="http://s1.czxbexchange.xyz:8080/images/43515d7911aa5c62dd4121534955fc19.png" group-title="ASIAN CUP ",RTI  1 HD CAN
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/90056.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTI  2 HD CAN" tvg-logo="http://s1.czxbexchange.xyz:8080/images/7126f43afe86ab4b6a9b8dc48e24293e.png" group-title="ASIAN CUP  ",RTI  2 HD CAN
-http://cxz.orannge.net:8080/live/152076685451860/152031548389758/90055.ts
 -----------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
