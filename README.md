@@ -11,7 +11,15 @@ https://www.dropbox.com/scl/fi/jiqiy1ikyl2hu45q3y3aj/KISINAN-Difarina-Indra-Adel
 https://www.dropbox.com/scl/fi/xy4ab46aleil81n99uf9d/DUMES-Difarina-Indra-Adella-OM-ADELLA.mp4?rlkey=oakaqhrz96j5as210oxmq5l36&dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VTgRSh0/adela-4-2240.gif" group-title="🇮🇩 ADELLA 🇮🇩",CAMELIA
 https://www.dropbox.com/scl/fi/k4fl9gqd350247hk6tafn/LIVE-BANJIR-SAWERAN-CAMELIA-TASYA-ROSMALA-OM.-ADELLA-LIVE-DI-HJS-PAMEKASAN-MADURA.mp4?rlkey=heqykn0jmdoq5bi672xvx2gns&dl=1
----------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP  ", AFC QATAR 1
+http://103.84.206.6:1234/stream/test/sscnews/stream.m3u8?uid=4177678381&u=andi&p=6e433abeeccf2ae67638bad14d131f2cfba7c460b1ef6f8fa59b1acb296de05d
+
+
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP  ", AFC QATAR 2
+http://103.84.206.6:1234/stream/test/ssc1/master.m3u8?u=andi&p=6e433abeeccf2ae67638bad14d131f2cfba7c460b1ef6f8fa59b1acb296de05d
+
+
 EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 1SD-" tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title="ASIAN CUP  ",BEIN_SPORTS AFCON 1SD-
 http://cxz.orannge.net:8080/live/152076685451860/152031548389758/88853.ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS AFCON 1HD." tvg-logo="http://s1.czxbexchange.xyz:8080/images/339ada7923a2e5f3929b9221480e52d6.jpg" group-title=" ASIAN CUP  ",BEIN_SPORTS AFCON 1HD.
