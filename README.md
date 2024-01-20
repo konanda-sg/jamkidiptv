@@ -35,14 +35,32 @@ https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x412:1080x1132/0x0/webp/photo/p2/130/2024/01/08/IMG_2242-201837175.jpeg" group-title="ASIAN CUP  " , AFC QATAR 7
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
-
-#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 1 SD
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 4K" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/asie-TV-4K.png" group-title="ASIAN CUP", BEIN CUP ASIA 1 4K
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548055
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 4K" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/asie-TV-4K.png" group-title="ASIAN CUP ", BEIN CUP ASIA 2 4K
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548056
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/Asie-TV-HD.png" group-title="ASIAN CUP ", BEIN CUP ASIA 1 HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548057
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/Asie-TV-HD.png" group-title="ASIAN CUP ", BEIN CUP ASIA 2 HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548058
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 1 SD" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/Asie-TV-SD.png" group-title="ASIAN CUP ", BEIN CUP ASIA 1 SD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548059
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN CUP ASIA 2 SD" tvg-logo="http://vodkom.com:25461/Logo/ASIAC/Asie-TV-SD.png" group-title="ASIAN CUP ",BEIN CUP ASIA 2 SD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/548060
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 1 SD
 http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435966
-#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 2 SD
+#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 2 SD
 http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435955
-#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="BEIN SPORTS HD",BEIN SPORTS AFC 3 SD
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 3 SD
 http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435956
-
+#EXTINF:-1 tvg-ID="beinsportsafc.qa" tvg-name="BEIN SPORTS AFC HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435959
+#EXTINF:-1 tvg-ID="beinsportsafc1.qa" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 1 HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435960
+#EXTINF:-1 tvg-ID="beinsportsafc2.qa" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 2 HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435961
+#EXTINF:-1 tvg-ID="beinsportsafc3.qa" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="ASIAN CUP  ",BEIN SPORTS AFC 3 HD
+http://sansat.net:88/angadamabonat/GPDYUZSZ7OZQZES/435962
 -----------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="🚩LIGA BRI🚩",LIGA BRI  1
